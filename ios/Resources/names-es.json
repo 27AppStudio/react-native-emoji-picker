@@ -1,0 +1,4029 @@
+{
+  "recents": "Usados con frecuencia",
+  "search": "Buscar",
+  "groups": {
+    "smileys-emotion": "emoticonos y emociones",
+    "people-body": "personas y cuerpo",
+    "component": "componentes",
+    "animals-nature": "animales y naturaleza",
+    "food-drink": "comida y bebida",
+    "travel-places": "viajes y lugares",
+    "activities": "actividades",
+    "objects": "objetos",
+    "symbols": "símbolos",
+    "flags": "banderas"
+  },
+  "names": {
+    "😀": ["cara sonriendo", "cara sonriendo cara divertido feliz sonrisa"],
+    "😃": [
+      "cara sonriendo con ojos grandes",
+      "cara sonriendo con ojos grandes cara divertido risa sonriendo"
+    ],
+    "😄": [
+      "cara sonriendo con ojos sonrientes",
+      "cara sonriendo con ojos sonrientes abierta cara ojo sonrisa"
+    ],
+    "😁": [
+      "cara radiante con ojos sonrientes",
+      "cara radiante con ojos sonrientes cara ojo risa sonrisa"
+    ],
+    "😆": [
+      "cara sonriendo con los ojos cerrados",
+      "cara sonriendo con los ojos cerrados abierta boca cara risa"
+    ],
+    "😅": [
+      "cara sonriendo con sudor frío",
+      "cara sonriendo con sudor frío cara frío risa sudor"
+    ],
+    "🤣": [
+      "cara revolviéndose de la risa",
+      "cara revolviéndose de la risa cara carcajada ojos cerrados risa"
+    ],
+    "😂": [
+      "cara llorando de risa",
+      "cara llorando de risa cara felicidad lágrima risa"
+    ],
+    "🙂": [
+      "cara sonriendo ligeramente",
+      "cara sonriendo ligeramente cara sonrisa"
+    ],
+    "🙃": ["cara al revés", "cara al revés cara revés"],
+    "🫠": [
+      "cara derritiéndose",
+      "cara derritiéndose calor derretido derretirse desaparecer fundirse líquido"
+    ],
+    "🫫": [
+      "cara resquebrajándose",
+      "cara resquebrajándose desmoronar enmascarar resiliencia revelar romper tensión transformación"
+    ],
+    "😉": ["cara guiñando el ojo", "cara guiñando el ojo cara guiño"],
+    "😊": [
+      "cara feliz con ojos sonrientes",
+      "cara feliz con ojos sonrientes cara ojo rubor sonrisa"
+    ],
+    "😇": [
+      "cara sonriendo con aureola",
+      "cara sonriendo con aureola cara halo sonrisa ángel"
+    ],
+    "🥰": [
+      "cara sonriendo con corazones",
+      "cara sonriendo con corazones adorar amor corazones enamorada enamorado"
+    ],
+    "😍": [
+      "cara sonriendo con ojos de corazón",
+      "cara sonriendo con ojos de corazón amor cara corazón sonrisa"
+    ],
+    "🤩": [
+      "cara sonriendo con estrellas",
+      "cara sonriendo con estrellas cara estrellas sonrisa"
+    ],
+    "😘": ["cara lanzando un beso", "cara lanzando un beso beso cara"],
+    "😗": ["cara besando", "cara besando beso cara"],
+    "☺️": ["cara sonriente", "cara sonriente cara contorno relajado sonrisa"],
+    "😚": [
+      "cara besando con los ojos cerrados",
+      "cara besando con los ojos cerrados beso cara cerrado ojo"
+    ],
+    "😙": [
+      "cara besando con ojos sonrientes",
+      "cara besando con ojos sonrientes beso cara ojo sonrisa"
+    ],
+    "🥲": [
+      "cara sonriente con lágrima",
+      "cara sonriente con lágrima agradecido aliviado emocionado lágrima orgulloso sonrisa"
+    ],
+    "😋": [
+      "cara saboreando comida",
+      "cara saboreando comida cara delicioso hambre rico"
+    ],
+    "😛": ["cara sacando la lengua", "cara sacando la lengua cara lengua"],
+    "😜": [
+      "cara sacando la lengua y guiñando un ojo",
+      "cara sacando la lengua y guiñando un ojo cara guiño lengua ojo"
+    ],
+    "🤪": ["cara de loco", "cara de loco grande ojo pequeño"],
+    "😝": [
+      "cara con ojos cerrados y lengua fuera",
+      "cara con ojos cerrados y lengua fuera cara lengua ojo sabor"
+    ],
+    "🤑": [
+      "cara con lengua de dinero",
+      "cara con lengua de dinero boca cara dinero"
+    ],
+    "🤗": [
+      "cara con manos abrazando",
+      "cara con manos abrazando abrazo cara sonrisa"
+    ],
+    "🤭": [
+      "cara con mano sobre la boca",
+      "cara con mano sobre la boca ostras uy vaya"
+    ],
+    "🫢": [
+      "cara con ojos abiertos y boca tapada",
+      "cara con ojos abiertos y boca tapada alucinar asombro increíble sorpresa vergüenza"
+    ],
+    "🫣": [
+      "cara tapada con ojo espiando",
+      "cara tapada con ojo espiando espiar fascinado mirar vistazo"
+    ],
+    "🤫": ["cara pidiendo silencio", "cara pidiendo silencio callado silencio"],
+    "🤔": ["cara pensativa", "cara pensativa cara duda pensando"],
+    "🫡": [
+      "cara saludando",
+      "cara saludando ejército orden saludo sol sí vale"
+    ],
+    "🤐": [
+      "cara con la boca cerrada con cremallera",
+      "cara con la boca cerrada con cremallera boca cara cremallera"
+    ],
+    "🤨": [
+      "cara con ceja alzada",
+      "cara con ceja alzada desconfiado escéptico"
+    ],
+    "😐": ["cara neutral", "cara neutral cara inexpresivo neutral"],
+    "😑": [
+      "cara sin expresión",
+      "cara sin expresión cara inexpresiva inexpresivo inexpresión"
+    ],
+    "😶": ["cara sin boca", "cara sin boca boca callado cara silencio"],
+    "🫥": [
+      "cara con línea de puntos",
+      "cara con línea de puntos depresivo deprimido desaparecer esconderse introvertido invisible"
+    ],
+    "😶‍🌫️": [
+      "cara entre las nubes",
+      "cara entre las nubes ausente cabeza en las nubes cara en la niebla en las nubes"
+    ],
+    "😏": [
+      "cara sonriendo con superioridad",
+      "cara sonriendo con superioridad cara listillo superioridad"
+    ],
+    "😒": [
+      "cara de desaprobación",
+      "cara de desaprobación cara insatisfacción rechazo"
+    ],
+    "🙄": [
+      "cara con ojos en blanco",
+      "cara con ojos en blanco cara frustración ojos vueltos"
+    ],
+    "😬": ["cara haciendo una mueca", "cara haciendo una mueca cara mueca"],
+    "😮‍💨": [
+      "cara exhalando",
+      "cara exhalando alivio bocanada exhalar jadear resoplido silbar"
+    ],
+    "🤥": [
+      "cara de mentiroso",
+      "cara de mentiroso cara mentiroso nariz pinocho"
+    ],
+    "🫨": ["cara temblorosa", "cara temblorosa shock temblar terremoto vibrar"],
+    "🙂‍↔️": [
+      "cabeza negando",
+      "cabeza negando cabeza moviéndose horizontalmente negar no"
+    ],
+    "🙂‍↕️": [
+      "cabeza asintiendo",
+      "cabeza asintiendo asentir cabeza moviéndose verticalmente sí"
+    ],
+    "😌": ["cara de alivio", "cara de alivio aliviado cara"],
+    "😔": [
+      "cara desanimada",
+      "cara desanimada alicaído cara desanimado pensativo"
+    ],
+    "😪": ["cara de sueño", "cara de sueño cara dormir sueño"],
+    "🤤": ["cara babeando", "cara babeando baba babeando cara"],
+    "😴": ["cara durmiendo", "cara durmiendo cara dormido sueño zzz"],
+    "🫩": [
+      "cara con ojeras",
+      "cara con ojeras agotado agotamiento cansado cansancio cara extenuación extenuado ojeras ojos sueño"
+    ],
+    "😷": [
+      "cara con mascarilla médica",
+      "cara con mascarilla médica cara enfermo malo máscara"
+    ],
+    "🤒": [
+      "cara con termómetro",
+      "cara con termómetro cara enfermo malo termómetro"
+    ],
+    "🤕": [
+      "cara con la cabeza vendada",
+      "cara con la cabeza vendada cara dolor herida venda"
+    ],
+    "🤢": ["cara de náuseas", "cara de náuseas cara náuseas vomitar"],
+    "🤮": ["cara vomitando", "cara vomitando enfermo malo vomitar"],
+    "🤧": [
+      "cara estornudando",
+      "cara estornudando cara estornudar estornudo pañuelo"
+    ],
+    "🥵": [
+      "cara con calor",
+      "cara con calor calor cara roja fiebre golpe de calor sudor"
+    ],
+    "🥶": [
+      "cara con frío",
+      "cara con frío cara congelada congelado frío helado"
+    ],
+    "🥴": [
+      "cara de grogui",
+      "cara de grogui atontado entonado grogui intoxicado mareado"
+    ],
+    "😵": ["cara mareada", "cara mareada cara mareo"],
+    "😵‍💫": [
+      "cara con ojos en espiral",
+      "cara con ojos en espiral espiral hipnotizado indispuesto mareado mareo problema"
+    ],
+    "🤯": ["cabeza explotando", "cabeza explotando cabeza explosión"],
+    "🤠": [
+      "cara con sombrero de vaquero",
+      "cara con sombrero de vaquero cara sombrero vaquera vaquero"
+    ],
+    "🥳": [
+      "cara de fiesta",
+      "cara de fiesta capirote celebración fiesta gorro matasuegras"
+    ],
+    "🥸": [
+      "cara disfrazada",
+      "cara disfrazada careta disfraz disimulo gafas incógnito nariz"
+    ],
+    "😎": [
+      "cara sonriendo con gafas de sol",
+      "cara sonriendo con gafas de sol cara gafas guay sol"
+    ],
+    "🤓": ["cara de empollón", "cara de empollón cara empollón friki friqui"],
+    "🧐": ["cara con monóculo", "cara con monóculo aristocrático estirado"],
+    "😕": ["cara de confusión", "cara de confusión cara confuso"],
+    "🫤": [
+      "cara con boca diagonal",
+      "cara con boca diagonal decepcionado decepción escéptico inseguro jo vaya"
+    ],
+    "😟": ["cara preocupada", "cara preocupada cara preocupación preocupado"],
+    "🙁": [
+      "cara con el ceño ligeramente fruncido",
+      "cara con el ceño ligeramente fruncido cara ceño fruncido"
+    ],
+    "☹️": [
+      "cara con el ceño fruncido",
+      "cara con el ceño fruncido cara ceño fruncido"
+    ],
+    "😮": ["cara con la boca abierta", "cara con la boca abierta boca cara"],
+    "😯": [
+      "cara estupefacta",
+      "cara estupefacta alucinado cara estupefacto sorprendido"
+    ],
+    "😲": ["cara asombrada", "cara asombrada alucinado asombrado cara pasmado"],
+    "😳": ["cara sonrojada", "cara sonrojada cara colorado sonrojado"],
+    "🫪": [
+      "cara deformada",
+      "cara deformada ansiedad conmocionado hinchado pánico sorprendido vulnerable"
+    ],
+    "🥺": [
+      "cara suplicante",
+      "cara suplicante implorar ojos adorables piedad por favor"
+    ],
+    "🥹": [
+      "cara aguantándose las lágrimas",
+      "cara aguantándose las lágrimas emocionado emoción llorar orgulloso resistir triste"
+    ],
+    "😦": [
+      "cara con el ceño fruncido y la boca abierta",
+      "cara con el ceño fruncido y la boca abierta boca abierta cara ceño fruncido con boca abierta"
+    ],
+    "😧": ["cara angustiada", "cara angustiada angustia angustiado cara"],
+    "😨": ["cara asustada", "cara asustada asustado cara miedo miedoso"],
+    "😰": [
+      "cara con ansiedad y sudor",
+      "cara con ansiedad y sudor ansiedad cara frío sudor"
+    ],
+    "😥": [
+      "cara triste pero aliviada",
+      "cara triste pero aliviada aliviado cara decepcionado menos mal"
+    ],
+    "😢": ["cara llorando", "cara llorando cara llorar lágrima triste"],
+    "😭": [
+      "cara llorando fuerte",
+      "cara llorando fuerte cara llorar lágrima triste"
+    ],
+    "😱": [
+      "cara gritando de miedo",
+      "cara gritando de miedo asustado cara miedo pánico"
+    ],
+    "😖": ["cara de frustración", "cara de frustración cara frustrado"],
+    "😣": [
+      "cara desesperada",
+      "cara desesperada cara desesperación frustración"
+    ],
+    "😞": [
+      "cara decepcionada",
+      "cara decepcionada cara decepcionado decepción"
+    ],
+    "😓": ["cara con sudor frío", "cara con sudor frío cara frío sudor"],
+    "😩": ["cara agotada", "cara agotada agotado cansado cara"],
+    "😫": ["cara cansada", "cara cansada cansado cara"],
+    "🥱": [
+      "cara de bostezo",
+      "cara de bostezo aburrido bostezo cansado dormido sueño"
+    ],
+    "😤": ["cara resoplando", "cara resoplando cabreo cara enfado"],
+    "😡": ["cara cabreada", "cara cabreada cabreo cara enfadado furia"],
+    "😠": ["cara enfadada", "cara enfadada cara enfadado histérico"],
+    "🤬": [
+      "cara con símbolos en la boca",
+      "cara con símbolos en la boca maldecir palabrota símbolo"
+    ],
+    "😈": [
+      "cara sonriendo con cuernos",
+      "cara sonriendo con cuernos cara cuernos demonio sonrisa"
+    ],
+    "👿": [
+      "cara enfadada con cuernos",
+      "cara enfadada con cuernos cara cuernos demonio diablo"
+    ],
+    "💀": ["calavera", "calavera cara cuento monstruo muerte"],
+    "☠️": [
+      "calavera y huesos cruzados",
+      "calavera y huesos cruzados calavera cara huesos muerte"
+    ],
+    "💩": ["caca con ojos", "caca con ojos caca cómic mierda mojón"],
+    "🤡": ["cara de payaso", "cara de payaso cara payaso"],
+    "👹": [
+      "demonio japonés oni",
+      "demonio japonés oni cara cuento cuernos sonrisa"
+    ],
+    "👺": [
+      "demonio japonés tengu",
+      "demonio japonés tengu cara cuento fantasía monstruo tengu"
+    ],
+    "👻": ["fantasma", "fantasma cara criatura cuento monstruo"],
+    "👽": ["alienígena", "alienígena alien cara criatura extraterrestre ovni"],
+    "👾": [
+      "monstruo alienígena",
+      "monstruo alienígena alien cara criatura extraterrestre ovni"
+    ],
+    "🤖": ["robot", "robot cara monstruo"],
+    "😺": [
+      "gato sonriendo",
+      "gato sonriendo cara feliz gato alegre gato feliz sonrisa"
+    ],
+    "😸": [
+      "gato sonriendo con ojos sonrientes",
+      "gato sonriendo con ojos sonrientes cara gato ojos sonriente sonrisa"
+    ],
+    "😹": [
+      "gato llorando de risa",
+      "gato llorando de risa cara gato lágrima risa"
+    ],
+    "😻": [
+      "gato sonriendo con ojos de corazón",
+      "gato sonriendo con ojos de corazón cara corazón enamorado gato"
+    ],
+    "😼": [
+      "gato haciendo una mueca",
+      "gato haciendo una mueca cara gato irónico sonrisa"
+    ],
+    "😽": ["gato besando", "gato besando beso cara cariñoso gato"],
+    "🙀": [
+      "gato asustado",
+      "gato asustado cara gato preocupación pánico sorpresa"
+    ],
+    "😿": ["gato llorando", "gato llorando cara gato lágrima pena triste"],
+    "😾": ["gato enfadado", "gato enfadado cara enfadado gato"],
+    "🙈": [
+      "mono con los ojos tapados",
+      "mono con los ojos tapados cara mal mono prohibido"
+    ],
+    "🙉": [
+      "mono con los oídos tapados",
+      "mono con los oídos tapados cara mal mono prohibido"
+    ],
+    "🙊": [
+      "mono con la boca tapada",
+      "mono con la boca tapada cara mal mono prohibido"
+    ],
+    "💌": ["carta de amor", "carta de amor amor carta corazón correo"],
+    "💘": [
+      "corazón con flecha",
+      "corazón con flecha amor corazón emoción flecha"
+    ],
+    "💝": [
+      "corazón con lazo",
+      "corazón con lazo corazón emoción lazo san valentín"
+    ],
+    "💖": ["corazón brillante", "corazón brillante amor brillante emoción"],
+    "💗": [
+      "corazón creciente",
+      "corazón creciente corazón creciente emocionado latido nervioso"
+    ],
+    "💓": ["corazón latiendo", "corazón latiendo amor corazón emoción latido"],
+    "💞": ["corazones giratorios", "corazones giratorios corazón giratorio"],
+    "💕": ["dos corazones", "dos corazones amantes amor corazón"],
+    "💟": ["adorno de corazón", "adorno de corazón corazón"],
+    "❣️": [
+      "exclamación de corazón",
+      "exclamación de corazón corazón exclamación puntuación"
+    ],
+    "💔": ["corazón roto", "corazón roto corazón emoción partido roto"],
+    "❤️‍🔥": [
+      "corazón en llamas",
+      "corazón en llamas amor corazón fuego llamas lujuria pasión"
+    ],
+    "❤️‍🩹": [
+      "corazón vendado",
+      "corazón vendado bien curarse mejor mejorar recuperación salud"
+    ],
+    "❤️": ["corazón rojo", "corazón rojo corazón emoción rojo"],
+    "🩷": ["corazón rosa", "corazón rosa amor bonito corazón gustar rosa"],
+    "🧡": ["corazón naranja", "corazón naranja corazón emoción naranja"],
+    "💛": ["corazón amarillo", "corazón amarillo amarillo corazón emoción"],
+    "💚": ["corazón verde", "corazón verde corazón emoción verde"],
+    "💙": ["corazón azul", "corazón azul azul corazón emoción"],
+    "🩵": [
+      "corazón azul claro",
+      "corazón azul claro azul celeste cián claro corazón"
+    ],
+    "💜": ["corazón morado", "corazón morado corazón emoción morado"],
+    "🤎": ["corazón marrón", "corazón marrón corazón emoción marrón"],
+    "🖤": ["corazón negro", "corazón negro corazón negro"],
+    "🩶": ["corazón gris", "corazón gris corazón gris pizarra plata"],
+    "🤍": ["corazón blanco", "corazón blanco blanco corazón emoción"],
+    "💋": ["marca de beso", "marca de beso beso labios romance"],
+    "💯": ["cien puntos", "cien puntos 100 pleno puntos"],
+    "💢": ["símbolo de enfado", "símbolo de enfado cómic enfadado enfado"],
+    "🫯": [
+      "nube de pelea",
+      "nube de pelea alboroto altercado bronca desacuerdo discusión lucha pelea"
+    ],
+    "💥": ["colisión", "colisión cómic"],
+    "💫": ["símbolo de mareo", "símbolo de mareo cómic emoción estrella mareo"],
+    "💦": ["gotas de sudor", "gotas de sudor cómic emoción sudor"],
+    "💨": ["salir corriendo", "salir corriendo carrera correr cómic humo"],
+    "🕳️": ["agujero", "agujero orificio"],
+    "💬": [
+      "bocadillo de diálogo",
+      "bocadillo de diálogo bocadillo conversación cómic diálogo"
+    ],
+    "👁️‍🗨️": [
+      "ojo en bocadillo de texto",
+      "ojo en bocadillo de texto bocadillo de texto ojo testigo"
+    ],
+    "🗨️": [
+      "bocadillo de diálogo por la izquierda",
+      "bocadillo de diálogo por la izquierda bocadillo burbuja conversación diálogo"
+    ],
+    "🗯️": [
+      "bocadillo de enfado por la derecha",
+      "bocadillo de enfado por la derecha bocadillo cabreo enfado rabia"
+    ],
+    "💭": [
+      "bocadillo de pensamiento",
+      "bocadillo de pensamiento bocadillo burbuja cómic pensamiento"
+    ],
+    "💤": ["símbolo de sueño", "símbolo de sueño cómic dormir sueño zzz"],
+    "👋": ["mano saludando", "mano saludando agitar mano saludar saludo"],
+    "🤚": ["dorso de la mano", "dorso de la mano dorso levantado mano"],
+    "🖐️": ["mano abierta", "mano abierta abierta dedo mano"],
+    "✋": ["mano levantada", "mano levantada choca esos cinco levantada mano"],
+    "🖖": ["saludo vulcano", "saludo vulcano mano saludo spock vulcano"],
+    "🫱": [
+      "mano hacia la derecha",
+      "mano hacia la derecha a la derecha derecha mano"
+    ],
+    "🫲": [
+      "mano hacia la izquierda",
+      "mano hacia la izquierda a la izquierda izquierda mano"
+    ],
+    "🫳": [
+      "mano con la palma hacia abajo",
+      "mano con la palma hacia abajo bajar descartar fuera no quita rechazar"
+    ],
+    "🫴": [
+      "mano con la palma hacia arriba",
+      "mano con la palma hacia arriba acércate dame ofrecer trae ven"
+    ],
+    "🫷": [
+      "mano empujando hacia la izquierda",
+      "mano empujando hacia la izquierda a la izquierda choca esos cinco detener empujar rechazar stop"
+    ],
+    "🫸": [
+      "mano empujando hacia la derecha",
+      "mano empujando hacia la derecha a la derecha choca esos cinco detener empujar rechazar stop"
+    ],
+    "👌": [
+      "señal de aprobación con la mano",
+      "señal de aprobación con la mano aprobación mano ok"
+    ],
+    "🤌": [
+      "dedos juntos apuntando hacia arriba",
+      "dedos juntos apuntando hacia arriba dedos gesto italia italiano mano sarcasmo"
+    ],
+    "🤏": ["mano pellizcando", "mano pellizcando pellizco poco poquito"],
+    "✌️": [
+      "mano con señal de victoria",
+      "mano con señal de victoria mano señal de victoria victoria"
+    ],
+    "🤞": ["dedos cruzados", "dedos cruzados cruzar dedos mano suerte"],
+    "🫰": [
+      "mano con dedo índice y pulgar cruzados",
+      "mano con dedo índice y pulgar cruzados amor caro chasquido corazón dinero"
+    ],
+    "🤟": ["gesto de te quiero", "gesto de te quiero mano quiero"],
+    "🤘": [
+      "mano haciendo el signo de cuernos",
+      "mano haciendo el signo de cuernos cuernos dedo mano rock"
+    ],
+    "🤙": [
+      "mano haciendo el gesto de llamar",
+      "mano haciendo el gesto de llamar llamar mano meñique pulgar"
+    ],
+    "👈": [
+      "dorso de mano con índice a la izquierda",
+      "dorso de mano con índice a la izquierda dedo izquierda mano índice"
+    ],
+    "👉": [
+      "dorso de mano con índice a la derecha",
+      "dorso de mano con índice a la derecha dedo derecha mano índice"
+    ],
+    "👆": [
+      "dorso de mano con índice hacia arriba",
+      "dorso de mano con índice hacia arriba apuntar arriba dedo mano"
+    ],
+    "🖕": [
+      "dedo corazón hacia arriba",
+      "dedo corazón hacia arriba corazón dedo mano peineta"
+    ],
+    "👇": [
+      "dorso de mano con índice hacia abajo",
+      "dorso de mano con índice hacia abajo abajo apuntar dedo mano"
+    ],
+    "☝️": [
+      "dedo índice hacia arriba",
+      "dedo índice hacia arriba apuntar arriba dedo mano"
+    ],
+    "🫵": [
+      "dedo índice apuntándote a ti",
+      "dedo índice apuntándote a ti apuntar ti tú"
+    ],
+    "👍": [
+      "pulgar hacia arriba",
+      "pulgar hacia arriba arriba mano pulgar señal"
+    ],
+    "👎": ["pulgar hacia abajo", "pulgar hacia abajo abajo mano pulgar señal"],
+    "🫹": [
+      "pulgar hacia la izquierda",
+      "pulgar hacia la izquierda agarrar eso esto izquierda neutral señalar"
+    ],
+    "🫺": [
+      "pulgar hacia la derecha",
+      "pulgar hacia la derecha agarrar derecha eso esto neutral señalar"
+    ],
+    "✊": ["puño en alto", "puño en alto cerrado mano puñetazo puño"],
+    "👊": ["puño cerrado", "puño cerrado puñetazo puño"],
+    "🤛": ["puño hacia la izquierda", "puño hacia la izquierda izquierda puño"],
+    "🤜": ["puño hacia la derecha", "puño hacia la derecha derecha puño"],
+    "👏": [
+      "manos aplaudiendo",
+      "manos aplaudiendo aplaudir manos palmas señal"
+    ],
+    "🙌": [
+      "manos levantadas celebrando",
+      "manos levantadas celebrando celebración gesto hurra mano"
+    ],
+    "🫶": ["manos formando un corazón", "manos formando un corazón amor"],
+    "👐": ["manos abiertas", "manos abiertas abiertas manos"],
+    "🤲": ["palmas hacia arriba juntas", "palmas hacia arriba juntas oración"],
+    "🤝": ["apretón de manos", "apretón de manos acuerdo apretón manos"],
+    "🙏": [
+      "manos en oración",
+      "manos en oración gracias mano oración orar por favor rezar"
+    ],
+    "✍️": ["mano escribiendo", "mano escribiendo escribir lápiz mano"],
+    "💅": [
+      "pintarse las uñas",
+      "pintarse las uñas cosmética esmalte manicura uñas"
+    ],
+    "🤳": ["selfi", "selfi autofoto cámara selfie teléfono"],
+    "💪": [
+      "bíceps flexionado",
+      "bíceps flexionado bíceps cómic flexionado fuerte músculo"
+    ],
+    "🦾": ["brazo mecánico", "brazo mecánico accesibilidad ortopedia prótesis"],
+    "🦿": [
+      "pierna mecánica",
+      "pierna mecánica accesibilidad ortopedia prótesis"
+    ],
+    "🦵": ["pierna", "pierna extremidad patada"],
+    "🦶": ["pie", "pie patada pisotón"],
+    "👂": ["oreja", "oreja cuerpo"],
+    "🦻": [
+      "oreja con audífono",
+      "oreja con audífono accesibilidad audífono prótesis auditiva sordo"
+    ],
+    "👃": ["nariz", "nariz cuerpo"],
+    "🧠": ["cerebro", "cerebro inteligente"],
+    "🫀": [
+      "corazón humano",
+      "corazón humano anatomía cardiología corazón latido pulso órgano"
+    ],
+    "🫁": ["pulmones", "pulmones exhalar inhalar respiración respirar órgano"],
+    "🦷": ["diente", "diente dentista molar muela"],
+    "🦴": ["hueso", "hueso esqueleto"],
+    "👀": ["ojos", "ojos cara"],
+    "👁️": ["ojo", "ojo cuerpo"],
+    "👅": ["lengua", "lengua cuerpo"],
+    "👄": ["boca", "boca labios"],
+    "🫦": [
+      "labio mordido",
+      "labio mordido ansioso incómodo ligar miedo nervioso preocupado"
+    ],
+    "👶": ["bebé", "bebé joven niño"],
+    "🧒": ["infante", "infante crío género joven neutro"],
+    "👦": ["niño", "niño joven"],
+    "👧": ["niña", "niña chica joven"],
+    "🧑": ["persona adulta", "persona adulta género neutro"],
+    "👱": [
+      "persona adulta rubia",
+      "persona adulta rubia rubia rubias rubio rubios"
+    ],
+    "👨": ["hombre", "hombre adulto"],
+    "🧔": ["persona con barba", "persona con barba barbas barbudo persona"],
+    "🧔‍♂️": ["hombre: barba", "hombre: barba barba hombre"],
+    "🧔‍♀️": ["mujer: barba", "mujer: barba barba mujer"],
+    "👨‍🦰": [
+      "hombre: pelo pelirrojo",
+      "hombre: pelo pelirrojo adulto hombre pelo pelirrojo"
+    ],
+    "👨‍🦱": [
+      "hombre: pelo rizado",
+      "hombre: pelo rizado adulto hombre pelo rizado"
+    ],
+    "👨‍🦳": [
+      "hombre: pelo blanco",
+      "hombre: pelo blanco adulto hombre pelo blanco"
+    ],
+    "👨‍🦲": ["hombre: sin pelo", "hombre: sin pelo adulto hombre sin pelo"],
+    "👩": ["mujer", "mujer adulta"],
+    "👩‍🦰": [
+      "mujer: pelo pelirrojo",
+      "mujer: pelo pelirrojo adulta mujer pelo pelirrojo"
+    ],
+    "🧑‍🦰": [
+      "persona adulta: pelo pelirrojo",
+      "persona adulta: pelo pelirrojo género neutro pelo pelirrojo persona adulta"
+    ],
+    "👩‍🦱": ["mujer: pelo rizado", "mujer: pelo rizado adulta mujer pelo rizado"],
+    "🧑‍🦱": [
+      "persona adulta: pelo rizado",
+      "persona adulta: pelo rizado género neutro pelo rizado persona adulta"
+    ],
+    "👩‍🦳": ["mujer: pelo blanco", "mujer: pelo blanco adulta mujer pelo blanco"],
+    "🧑‍🦳": [
+      "persona adulta: pelo blanco",
+      "persona adulta: pelo blanco género neutro pelo blanco persona adulta"
+    ],
+    "👩‍🦲": ["mujer: sin pelo", "mujer: sin pelo adulta mujer sin pelo"],
+    "🧑‍🦲": [
+      "persona adulta: sin pelo",
+      "persona adulta: sin pelo género neutro persona adulta sin pelo"
+    ],
+    "👱‍♀️": ["mujer rubia", "mujer rubia mujer rubia rubiales"],
+    "👱‍♂️": ["hombre rubio", "hombre rubio hombre rubiales rubio"],
+    "🧓": [
+      "persona mayor",
+      "persona mayor adulto género neutro género no especificado maduro mayor"
+    ],
+    "👴": ["anciano", "anciano hombre mayor"],
+    "👵": ["anciana", "anciana mayor mujer"],
+    "🙍": [
+      "persona frunciendo el ceño",
+      "persona frunciendo el ceño ceño fruncido gesto persona"
+    ],
+    "🙍‍♂️": [
+      "hombre frunciendo el ceño",
+      "hombre frunciendo el ceño ceño fruncido gesto hombre"
+    ],
+    "🙍‍♀️": [
+      "mujer frunciendo el ceño",
+      "mujer frunciendo el ceño ceño fruncido gesto mujer"
+    ],
+    "🙎": [
+      "persona haciendo pucheros",
+      "persona haciendo pucheros gesto persona pucheros"
+    ],
+    "🙎‍♂️": [
+      "hombre haciendo pucheros",
+      "hombre haciendo pucheros gesto hombre pucheros"
+    ],
+    "🙎‍♀️": [
+      "mujer haciendo pucheros",
+      "mujer haciendo pucheros gesto mujer pucheros"
+    ],
+    "🙅": [
+      "persona haciendo el gesto de \"no\"",
+      "persona haciendo el gesto de \"no\" gesto mano no prohibido"
+    ],
+    "🙅‍♂️": [
+      "hombre haciendo el gesto de \"no\"",
+      "hombre haciendo el gesto de \"no\" gesto hombre mano prohibido"
+    ],
+    "🙅‍♀️": [
+      "mujer haciendo el gesto de \"no\"",
+      "mujer haciendo el gesto de \"no\" gesto mano mujer prohibido"
+    ],
+    "🙆": [
+      "persona haciendo el gesto de \"de acuerdo\"",
+      "persona haciendo el gesto de \"de acuerdo\" ok gesto mano vale"
+    ],
+    "🙆‍♂️": [
+      "hombre haciendo el gesto de \"de acuerdo\"",
+      "hombre haciendo el gesto de \"de acuerdo\" ok gesto mano vale"
+    ],
+    "🙆‍♀️": [
+      "mujer haciendo el gesto de \"de acuerdo\"",
+      "mujer haciendo el gesto de \"de acuerdo\" ok gesto mano vale"
+    ],
+    "💁": [
+      "persona de mostrador de información",
+      "persona de mostrador de información información mano mostrador persona"
+    ],
+    "💁‍♂️": [
+      "empleado de mostrador de información",
+      "empleado de mostrador de información hombre información mano mostrador"
+    ],
+    "💁‍♀️": [
+      "empleada de mostrador de información",
+      "empleada de mostrador de información información mano mostrador mujer"
+    ],
+    "🙋": [
+      "persona con la mano levantada",
+      "persona con la mano levantada feliz gesto levantar mano"
+    ],
+    "🙋‍♂️": [
+      "hombre con la mano levantada",
+      "hombre con la mano levantada gesto hombre levantar mano"
+    ],
+    "🙋‍♀️": [
+      "mujer con la mano levantada",
+      "mujer con la mano levantada gesto levantar mano mujer"
+    ],
+    "🧏": [
+      "persona sorda",
+      "persona sorda accesibilidad escuchar oído oír sordera"
+    ],
+    "🧏‍♂️": ["hombre sordo", "hombre sordo hombre sordera sordo"],
+    "🧏‍♀️": ["mujer sorda", "mujer sorda mujer sorda sordera"],
+    "🙇": [
+      "persona haciendo una reverencia",
+      "persona haciendo una reverencia disculpa gesto perdón reverencia"
+    ],
+    "🙇‍♂️": [
+      "hombre haciendo una reverencia",
+      "hombre haciendo una reverencia disculpa gesto perdón reverencia"
+    ],
+    "🙇‍♀️": [
+      "mujer haciendo una reverencia",
+      "mujer haciendo una reverencia disculpa gesto perdón reverencia"
+    ],
+    "🤦": [
+      "persona con la mano en la frente",
+      "persona con la mano en la frente facepalm frente incredulidad mano"
+    ],
+    "🤦‍♂️": [
+      "hombre con la mano en la frente",
+      "hombre con la mano en la frente facepalm frente incredulidad mano"
+    ],
+    "🤦‍♀️": [
+      "mujer con la mano en la frente",
+      "mujer con la mano en la frente facepalm frente incredulidad mano"
+    ],
+    "🤷": [
+      "persona encogida de hombros",
+      "persona encogida de hombros duda encogerse hombros indiferencia"
+    ],
+    "🤷‍♂️": [
+      "hombre encogido de hombros",
+      "hombre encogido de hombros duda encogerse hombros indiferencia"
+    ],
+    "🤷‍♀️": [
+      "mujer encogida de hombros",
+      "mujer encogida de hombros duda encogerse hombros indiferencia"
+    ],
+    "🧑‍⚕️": [
+      "profesional sanitario",
+      "profesional sanitario doctor enfermero médico salud terapeuta"
+    ],
+    "👨‍⚕️": [
+      "profesional sanitario hombre",
+      "profesional sanitario hombre doctor enfermero médico sanitario terapeuta hombre"
+    ],
+    "👩‍⚕️": [
+      "profesional sanitario mujer",
+      "profesional sanitario mujer doctora enfermera médica sanitaria terapeuta mujer"
+    ],
+    "🧑‍🎓": ["estudiante", "estudiante graduado licenciado universitario"],
+    "👨‍🎓": [
+      "estudiante hombre",
+      "estudiante hombre estudiante graduado hombre licenciado universitario"
+    ],
+    "👩‍🎓": [
+      "estudiante mujer",
+      "estudiante mujer estudiante graduada licenciada mujer universitaria"
+    ],
+    "🧑‍🏫": ["docente", "docente educador enseñanza instructor maestro profesor"],
+    "👨‍🏫": [
+      "docente hombre",
+      "docente hombre educador hombre instructor maestro profesor"
+    ],
+    "👩‍🏫": [
+      "docente mujer",
+      "docente mujer educadora instructora maestra mujer profesora"
+    ],
+    "🧑‍⚖️": ["fiscal", "fiscal juez juicio magistrado"],
+    "👨‍⚖️": ["fiscal hombre", "fiscal hombre hombre juez justicia magistrado"],
+    "👩‍⚖️": ["fiscal mujer", "fiscal mujer jueza justicia magistrada mujer"],
+    "🧑‍🌾": [
+      "profesional de la agricultura",
+      "profesional de la agricultura agricultor cultivador granjero jardinero labrador"
+    ],
+    "👨‍🌾": [
+      "profesional de la agricultura hombre",
+      "profesional de la agricultura hombre agricultor campo granjero hombre labrador"
+    ],
+    "👩‍🌾": [
+      "profesional de la agricultura mujer",
+      "profesional de la agricultura mujer agricultora campo granjera labradora mujer"
+    ],
+    "🧑‍🍳": ["chef", "chef cocinero cocinillas guisandero pinche"],
+    "👨‍🍳": ["chef hombre", "chef hombre chef cocinero hombre pinche"],
+    "👩‍🍳": ["chef mujer", "chef mujer chef cocinera mujer pinche"],
+    "🧑‍🔧": [
+      "profesional de la mecánica",
+      "profesional de la mecánica electricista fontanero mecánico operario técnico"
+    ],
+    "👨‍🔧": [
+      "profesional de la mecánica hombre",
+      "profesional de la mecánica hombre electricista fontanero hombre mecánico operario"
+    ],
+    "👩‍🔧": [
+      "profesional de la mecánica mujer",
+      "profesional de la mecánica mujer electricista fontanera mecánica mujer operaria"
+    ],
+    "🧑‍🏭": [
+      "profesional industrial",
+      "profesional industrial fábrica montaje obrero operario trabajador"
+    ],
+    "👨‍🏭": [
+      "profesional industrial hombre",
+      "profesional industrial hombre fábrica montaje obrero operario trabajador"
+    ],
+    "👩‍🏭": [
+      "profesional industrial mujer",
+      "profesional industrial mujer fábrica montaje obrera operaria trabajadora"
+    ],
+    "🧑‍💼": ["oficinista", "oficinista arquitecto director ejecutivo empresa"],
+    "👨‍💼": [
+      "oficinista hombre",
+      "oficinista hombre director ejecutivo empresa hombre oficina oficinista"
+    ],
+    "👩‍💼": [
+      "oficinista mujer",
+      "oficinista mujer directora ejecutiva empresa mujer oficina oficinista"
+    ],
+    "🧑‍🔬": [
+      "profesional de la ciencia",
+      "profesional de la ciencia biólogo científico físico investigador químico"
+    ],
+    "👨‍🔬": [
+      "profesional de la ciencia hombre",
+      "profesional de la ciencia hombre biólogo científico físico hombre químico"
+    ],
+    "👩‍🔬": [
+      "profesional de la ciencia mujer",
+      "profesional de la ciencia mujer bióloga científica física mujer química"
+    ],
+    "🧑‍💻": [
+      "profesional de la tecnología",
+      "profesional de la tecnología desarrollador informático programador software tecnólogo"
+    ],
+    "👨‍💻": [
+      "profesional de la tecnología hombre",
+      "profesional de la tecnología hombre desarrollador hombre informático programador tecnólogo"
+    ],
+    "👩‍💻": [
+      "profesional de la tecnología mujer",
+      "profesional de la tecnología mujer desarrolladora informática mujer programadora tecnóloga"
+    ],
+    "🧑‍🎤": ["cantante", "cantante artista estrella rock"],
+    "👨‍🎤": ["cantante hombre", "cantante hombre artista estrella hombre rock"],
+    "👩‍🎤": ["cantante mujer", "cantante mujer artista estrella mujer rock"],
+    "🧑‍🎨": ["artista", "artista paleta pintor pinturas"],
+    "👨‍🎨": ["artista hombre", "artista hombre hombre paleta pintor pinturas"],
+    "👩‍🎨": ["artista mujer", "artista mujer mujer paleta pintora pinturas"],
+    "🧑‍✈️": ["piloto", "piloto avión capitán vuelo"],
+    "👨‍✈️": ["piloto hombre", "piloto hombre avión capitán hombre piloto vuelo"],
+    "👩‍✈️": ["piloto mujer", "piloto mujer avión capitana mujer piloto vuelo"],
+    "🧑‍🚀": ["astronauta", "astronauta cohete espacio"],
+    "👨‍🚀": [
+      "astronauta hombre",
+      "astronauta hombre astronauta cohete espacio hombre"
+    ],
+    "👩‍🚀": [
+      "astronauta mujer",
+      "astronauta mujer astronauta cohete espacio mujer"
+    ],
+    "🧑‍🚒": ["bombero", "bombero camión manguera"],
+    "👨‍🚒": [
+      "bombero hombre",
+      "bombero hombre apagafuegos bombero camión manguera"
+    ],
+    "👩‍🚒": ["bombera", "bombera apagafuegos bombera mujera camión manguera"],
+    "👮": ["agente de policía", "agente de policía agente personas policía"],
+    "👮‍♂️": [
+      "agente de policía hombre",
+      "agente de policía hombre agente hombre poli policía"
+    ],
+    "👮‍♀️": [
+      "agente de policía mujer",
+      "agente de policía mujer agente mujer poli policía"
+    ],
+    "🕵️": ["detective", "detective cara espía"],
+    "🕵️‍♂️": [
+      "detective hombre",
+      "detective hombre agente detective espía hombre investigador"
+    ],
+    "🕵️‍♀️": [
+      "detective mujer",
+      "detective mujer agente detective espía investigadora mujer"
+    ],
+    "💂": ["guardia", "guardia guardia real británica"],
+    "💂‍♂️": ["guardia hombre", "guardia hombre guardia hombre vigilante"],
+    "💂‍♀️": ["guardia mujer", "guardia mujer guardia mujer vigilante"],
+    "🥷": ["ninja", "ninja furtivo guerrero luchador oculto sigilo"],
+    "👷": [
+      "profesional de la construcción",
+      "profesional de la construcción casco construcción obrero trabajador"
+    ],
+    "👷‍♂️": [
+      "profesional de la construcción hombre",
+      "profesional de la construcción hombre albañil construcción hombre obrero trabajador"
+    ],
+    "👷‍♀️": [
+      "profesional de la construcción mujer",
+      "profesional de la construcción mujer albañila construcción mujer obrera trabajadora"
+    ],
+    "🫅": [
+      "persona con corona",
+      "persona con corona majestad monarca monarquía noble real realeza"
+    ],
+    "🤴": ["príncipe", "príncipe corona"],
+    "👸": ["princesa", "princesa cuento fantasía hadas"],
+    "👳": ["persona con turbante", "persona con turbante turbante"],
+    "👳‍♂️": ["hombre con turbante", "hombre con turbante hombre turbante"],
+    "👳‍♀️": ["mujer con turbante", "mujer con turbante mujer turbante"],
+    "👲": [
+      "persona con gorro chino",
+      "persona con gorro chino gorro gua gua pi mao mao persona"
+    ],
+    "🧕": ["mujer con hiyab", "mujer con hiyab hiyab pañuelo"],
+    "🤵": [
+      "persona con esmoquin",
+      "persona con esmoquin esmoquin novio persona"
+    ],
+    "🤵‍♂️": ["hombre con esmoquin", "hombre con esmoquin esmoquin hombre"],
+    "🤵‍♀️": ["mujer con esmoquin", "mujer con esmoquin esmoquin mujer"],
+    "👰": ["persona con velo", "persona con velo boda novia persona velo"],
+    "👰‍♂️": ["hombre con velo", "hombre con velo boda hombre novio velo"],
+    "👰‍♀️": ["mujer con velo", "mujer con velo boda mujer novia velo"],
+    "🤰": ["mujer embarazada", "mujer embarazada embarazada mujer"],
+    "🫃": [
+      "hombre embarazado",
+      "hombre embarazado barriga embarazado hinchado hinchazón inflado lleno"
+    ],
+    "🫄": [
+      "persona embarazada",
+      "persona embarazada barriga embarazo gestación hinchazón"
+    ],
+    "🤱": [
+      "lactancia materna",
+      "lactancia materna amamantar bebé dar pecho pecho"
+    ],
+    "👩‍🍼": [
+      "mujer alimentando a bebé",
+      "mujer alimentando a bebé alimentar amamantar bebé lactancia mujer"
+    ],
+    "👨‍🍼": [
+      "hombre alimentando a bebé",
+      "hombre alimentando a bebé alimentar amamantar bebé hombre lactancia"
+    ],
+    "🧑‍🍼": [
+      "persona alimentando a bebé",
+      "persona alimentando a bebé alimentar amamantar bebé lactancia persona"
+    ],
+    "👼": ["bebé ángel", "bebé ángel bebé cara cuento ángel"],
+    "🎅": [
+      "Papá Noel",
+      "papá noel navidad celebración claus cuento fantasía feliz fiestas padre santa"
+    ],
+    "🤶": [
+      "Mamá Noel",
+      "mamá noel navidad celebración claus cuento fantasía feliz fiestas madre santa"
+    ],
+    "🧑‍🎄": [
+      "Noel",
+      "noel navidad celebración claus cuento fantasía feliz fiestas santa"
+    ],
+    "🦸": [
+      "personaje de superhéroe",
+      "personaje de superhéroe bien heroína héroe superheroína superhéroe superpoder"
+    ],
+    "🦸‍♂️": [
+      "superhéroe",
+      "superhéroe bueno hombre héroe superhombre superpoder"
+    ],
+    "🦸‍♀️": [
+      "superheroína",
+      "superheroína bondad heroína héroe mujer superhéroe superpoder"
+    ],
+    "🦹": [
+      "personaje de supervillano",
+      "personaje de supervillano mal superpoder supervillana supervillano villana villano"
+    ],
+    "🦹‍♂️": ["supervillano", "supervillano hombre mal malvado villano"],
+    "🦹‍♀️": ["supervillana", "supervillana mal malvada mujer villana"],
+    "🧙": ["persona maga", "persona maga bruja brujo hechicera hechicero"],
+    "🧙‍♂️": ["mago", "mago brujo hechicero"],
+    "🧙‍♀️": ["maga", "maga bruja hechicera"],
+    "🧚": ["hada", "hada campanilla oberón puck titania"],
+    "🧚‍♂️": ["hada hombre", "hada hombre hada oberón puck"],
+    "🧚‍♀️": ["hada mujer", "hada mujer campanilla hada titania"],
+    "🧛": ["vampiro", "vampiro drácula muerto viviente no muerto"],
+    "🧛‍♂️": [
+      "vampiro hombre",
+      "vampiro hombre drácula muerto viviente no muerto"
+    ],
+    "🧛‍♀️": ["vampiresa", "vampiresa muerta viviente no muerta"],
+    "🧜": ["persona sirena", "persona sirena sirena tritón"],
+    "🧜‍♂️": ["sirena hombre", "sirena hombre sirena tritón"],
+    "🧜‍♀️": ["sirena", "sirena sirena"],
+    "🧝": ["elfo", "elfo mágico"],
+    "🧝‍♂️": ["elfo hombre", "elfo hombre elfo mágico"],
+    "🧝‍♀️": ["elfa", "elfa mujer mágico"],
+    "🧞": ["genio", "genio lámpara"],
+    "🧞‍♂️": ["genio hombre", "genio hombre djinn genio lámpara"],
+    "🧞‍♀️": ["genio mujer", "genio mujer genio lámpara"],
+    "🧟": ["zombi", "zombi muerto viviente no muerto"],
+    "🧟‍♂️": ["zombi hombre", "zombi hombre caminante muerto viviente no muerto"],
+    "🧟‍♀️": ["zombi mujer", "zombi mujer caminante muerta viviente no muerta"],
+    "🧌": ["trol", "trol cuento de hadas fantasía monstruo"],
+    "🫈": [
+      "criatura peluda",
+      "criatura peluda bigfoot bosque críptido gigante monstruo peludo sasquatch yeti"
+    ],
+    "💆": [
+      "persona recibiendo masaje",
+      "persona recibiendo masaje cara facial masaje salón"
+    ],
+    "💆‍♂️": [
+      "hombre recibiendo masaje",
+      "hombre recibiendo masaje cara facial masaje salón"
+    ],
+    "💆‍♀️": [
+      "mujer recibiendo masaje",
+      "mujer recibiendo masaje cara facial masaje salón"
+    ],
+    "💇": [
+      "persona cortándose el pelo",
+      "persona cortándose el pelo belleza corte pelo peluquero"
+    ],
+    "💇‍♂️": [
+      "hombre cortándose el pelo",
+      "hombre cortándose el pelo belleza corte pelo peluquero"
+    ],
+    "💇‍♀️": [
+      "mujer cortándose el pelo",
+      "mujer cortándose el pelo belleza corte pelo peluquero"
+    ],
+    "🚶": ["persona caminando", "persona caminando andar caminando caminar"],
+    "🚶‍♂️": ["hombre caminando", "hombre caminando andar caminata hombre marcha"],
+    "🚶‍♀️": ["mujer caminando", "mujer caminando andar caminata marcha mujer"],
+    "🚶‍➡️": [
+      "persona caminando: hacia la derecha",
+      "persona caminando: hacia la derecha andar caminando caminar derecha hacia la persona caminando"
+    ],
+    "🚶‍♀️‍➡️": [
+      "mujer caminando: hacia la derecha",
+      "mujer caminando: hacia la derecha andar caminata derecha hacia la marcha mujer mujer caminando"
+    ],
+    "🚶‍♂️‍➡️": [
+      "hombre caminando: hacia la derecha",
+      "hombre caminando: hacia la derecha andar caminata derecha hacia hombre hombre caminando la marcha"
+    ],
+    "🧍": [
+      "persona de pie",
+      "persona de pie de pie levantada levantado levantarse"
+    ],
+    "🧍‍♂️": ["hombre de pie", "hombre de pie de pie hombre levantado levantarse"],
+    "🧍‍♀️": ["mujer de pie", "mujer de pie de pie levantada levantarse mujer"],
+    "🧎": [
+      "persona de rodillas",
+      "persona de rodillas arrodillada arrodillado arrodillarse de rodillas"
+    ],
+    "🧎‍♂️": [
+      "hombre de rodillas",
+      "hombre de rodillas arrodillado arrodillarse de rodillas hombre"
+    ],
+    "🧎‍♀️": [
+      "mujer de rodillas",
+      "mujer de rodillas arrodillada arrodillarse de rodillas mujer"
+    ],
+    "🧎‍➡️": [
+      "persona de rodillas: hacia la derecha",
+      "persona de rodillas: hacia la derecha arrodillada arrodillado arrodillarse de rodillas derecha hacia la persona de rodillas"
+    ],
+    "🧎‍♀️‍➡️": [
+      "mujer de rodillas: hacia la derecha",
+      "mujer de rodillas: hacia la derecha arrodillada arrodillarse de rodillas derecha hacia la mujer mujer de rodillas"
+    ],
+    "🧎‍♂️‍➡️": [
+      "hombre de rodillas: hacia la derecha",
+      "hombre de rodillas: hacia la derecha arrodillado arrodillarse de rodillas derecha hacia hombre hombre de rodillas la"
+    ],
+    "🧑‍🦯": [
+      "persona con bastón",
+      "persona con bastón accesibilidad ciego invidente"
+    ],
+    "🧑‍🦯‍➡️": [
+      "persona con bastón: hacia la derecha",
+      "persona con bastón: hacia la derecha accesibilidad ciego derecha hacia invidente la persona con bastón"
+    ],
+    "👨‍🦯": [
+      "hombre con bastón",
+      "hombre con bastón accesibilidad bastón ciego hombre invidente"
+    ],
+    "👨‍🦯‍➡️": [
+      "hombre con bastón: hacia la derecha",
+      "hombre con bastón: hacia la derecha accesibilidad bastón ciego derecha hacia hombre hombre con bastón invidente la"
+    ],
+    "👩‍🦯": [
+      "mujer con bastón",
+      "mujer con bastón accesibilidad bastón ciega invidente mujer"
+    ],
+    "👩‍🦯‍➡️": [
+      "mujer con bastón: hacia la derecha",
+      "mujer con bastón: hacia la derecha accesibilidad bastón ciega derecha hacia invidente la mujer mujer con bastón"
+    ],
+    "🧑‍🦼": [
+      "persona en silla de ruedas eléctrica",
+      "persona en silla de ruedas eléctrica accesibilidad silla de ruedas"
+    ],
+    "🧑‍🦼‍➡️": [
+      "persona en silla de ruedas eléctrica: hacia la derecha",
+      "persona en silla de ruedas eléctrica: hacia la derecha accesibilidad derecha hacia la persona en silla de ruedas eléctrica silla de ruedas"
+    ],
+    "👨‍🦼": [
+      "hombre en silla de ruedas eléctrica",
+      "hombre en silla de ruedas eléctrica accesibilidad hombre silla de ruedas"
+    ],
+    "👨‍🦼‍➡️": [
+      "hombre en silla de ruedas eléctrica: hacia la derecha",
+      "hombre en silla de ruedas eléctrica: hacia la derecha accesibilidad derecha hacia hombre hombre en silla de ruedas eléctrica la silla de ruedas"
+    ],
+    "👩‍🦼": [
+      "mujer en silla de ruedas eléctrica",
+      "mujer en silla de ruedas eléctrica accesibilidad mujer silla de ruedas"
+    ],
+    "👩‍🦼‍➡️": [
+      "mujer en silla de ruedas eléctrica: hacia la derecha",
+      "mujer en silla de ruedas eléctrica: hacia la derecha accesibilidad derecha hacia la mujer mujer en silla de ruedas eléctrica silla de ruedas"
+    ],
+    "🧑‍🦽": [
+      "persona en silla de ruedas manual",
+      "persona en silla de ruedas manual accesibilidad silla de ruedas"
+    ],
+    "🧑‍🦽‍➡️": [
+      "persona en silla de ruedas manual: hacia la derecha",
+      "persona en silla de ruedas manual: hacia la derecha accesibilidad derecha hacia la persona en silla de ruedas manual silla de ruedas"
+    ],
+    "👨‍🦽": [
+      "hombre en silla de ruedas manual",
+      "hombre en silla de ruedas manual accesibilidad hombre silla de ruedas"
+    ],
+    "👨‍🦽‍➡️": [
+      "hombre en silla de ruedas manual: hacia la derecha",
+      "hombre en silla de ruedas manual: hacia la derecha accesibilidad derecha hacia hombre hombre en silla de ruedas manual la silla de ruedas"
+    ],
+    "👩‍🦽": [
+      "mujer en silla de ruedas manual",
+      "mujer en silla de ruedas manual accesibilidad mujer silla de ruedas"
+    ],
+    "👩‍🦽‍➡️": [
+      "mujer en silla de ruedas manual: hacia la derecha",
+      "mujer en silla de ruedas manual: hacia la derecha accesibilidad derecha hacia la mujer mujer en silla de ruedas manual silla de ruedas"
+    ],
+    "🏃": ["persona corriendo", "persona corriendo carrera deporte maratón"],
+    "🏃‍♂️": [
+      "hombre corriendo",
+      "hombre corriendo carrera correr hombre maratón"
+    ],
+    "🏃‍♀️": ["mujer corriendo", "mujer corriendo carrera correr maratón mujer"],
+    "🏃‍➡️": [
+      "persona corriendo: hacia la derecha",
+      "persona corriendo: hacia la derecha carrera deporte derecha hacia la maratón persona corriendo"
+    ],
+    "🏃‍♀️‍➡️": [
+      "mujer corriendo: hacia la derecha",
+      "mujer corriendo: hacia la derecha carrera correr derecha hacia la maratón mujer mujer corriendo"
+    ],
+    "🏃‍♂️‍➡️": [
+      "hombre corriendo: hacia la derecha",
+      "hombre corriendo: hacia la derecha carrera correr derecha hacia hombre hombre corriendo la maratón"
+    ],
+    "🧑‍🩰": [
+      "bailarina de ballet",
+      "bailarina de ballet bailarina bailarín ballet"
+    ],
+    "💃": ["mujer bailando", "mujer bailando bailar mujer"],
+    "🕺": ["hombre bailando", "hombre bailando bailar hombre"],
+    "🕴️": [
+      "persona trajeada levitando",
+      "persona trajeada levitando levitar negocios persona traje"
+    ],
+    "👯": [
+      "personas con orejas de conejo",
+      "personas con orejas de conejo bailar fiesta orejas de conejo personas"
+    ],
+    "👯‍♂️": [
+      "hombres con orejas de conejo",
+      "hombres con orejas de conejo bailar fiesta hombre orejas de conejo"
+    ],
+    "👯‍♀️": [
+      "mujeres con orejas de conejo",
+      "mujeres con orejas de conejo bailar fiesta mujer orejas de conejo"
+    ],
+    "🧖": ["persona en una sauna", "persona en una sauna sauna vapor"],
+    "🧖‍♂️": ["hombre en una sauna", "hombre en una sauna sauna vapor"],
+    "🧖‍♀️": ["mujer en una sauna", "mujer en una sauna sauna vapor"],
+    "🧗": ["persona escalando", "persona escalando alpinista escalador"],
+    "🧗‍♂️": ["hombre escalando", "hombre escalando alpinista escalador"],
+    "🧗‍♀️": ["mujer escalando", "mujer escalando alpinista escaladora"],
+    "🤺": [
+      "persona haciendo esgrima",
+      "persona haciendo esgrima esgrima esgrimista espada"
+    ],
+    "🏇": [
+      "carrera de caballos",
+      "carrera de caballos caballo caballo de carreras carreras jinete"
+    ],
+    "⛷️": ["persona esquiando", "persona esquiando esquiador esquí nieve"],
+    "🏂": [
+      "practicante de snowboard",
+      "practicante de snowboard nieve snowboard"
+    ],
+    "🏌️": [
+      "persona jugando al golf",
+      "persona jugando al golf golf golfista pelota"
+    ],
+    "🏌️‍♂️": [
+      "hombre jugando al golf",
+      "hombre jugando al golf golf hombre jugador"
+    ],
+    "🏌️‍♀️": [
+      "mujer jugando al golf",
+      "mujer jugando al golf golf jugadora mujer"
+    ],
+    "🏄": ["persona haciendo surf", "persona haciendo surf surf surfear"],
+    "🏄‍♂️": [
+      "hombre haciendo surf",
+      "hombre haciendo surf hombre surf surfero surfista"
+    ],
+    "🏄‍♀️": [
+      "mujer haciendo surf",
+      "mujer haciendo surf mujer surf surfera surfista"
+    ],
+    "🚣": [
+      "persona remando en un bote",
+      "persona remando en un bote barca bote remo"
+    ],
+    "🚣‍♂️": [
+      "hombre remando en un bote",
+      "hombre remando en un bote barca bote hombre remo"
+    ],
+    "🚣‍♀️": [
+      "mujer remando en un bote",
+      "mujer remando en un bote barca bote mujer remo"
+    ],
+    "🏊": ["persona nadando", "persona nadando nadar natación"],
+    "🏊‍♂️": ["hombre nadando", "hombre nadando hombre nadar"],
+    "🏊‍♀️": ["mujer nadando", "mujer nadando mujer nadar"],
+    "⛹️": [
+      "persona botando un balón",
+      "persona botando un balón balón botar pelota"
+    ],
+    "⛹️‍♂️": [
+      "hombre botando un balón",
+      "hombre botando un balón balón botar hombre pelota"
+    ],
+    "⛹️‍♀️": [
+      "mujer botando un balón",
+      "mujer botando un balón balón botar mujer pelota"
+    ],
+    "🏋️": [
+      "persona levantando pesas",
+      "persona levantando pesas halterofilia levantador pesas peso"
+    ],
+    "🏋️‍♂️": [
+      "hombre levantando pesas",
+      "hombre levantando pesas halterofilia hombre levantador de pesas pesas"
+    ],
+    "🏋️‍♀️": [
+      "mujer levantando pesas",
+      "mujer levantando pesas halterofilia levantadora de pesas mujer pesas"
+    ],
+    "🚴": [
+      "persona en bicicleta",
+      "persona en bicicleta bicicleta ciclismo ciclista"
+    ],
+    "🚴‍♂️": [
+      "hombre en bicicleta",
+      "hombre en bicicleta bicicleta ciclismo ciclista hombre"
+    ],
+    "🚴‍♀️": [
+      "mujer en bicicleta",
+      "mujer en bicicleta bicicleta ciclismo ciclista mujer"
+    ],
+    "🚵": [
+      "persona en bicicleta de montaña",
+      "persona en bicicleta de montaña bicicleta ciclista montaña mountain bike"
+    ],
+    "🚵‍♂️": [
+      "hombre en bicicleta de montaña",
+      "hombre en bicicleta de montaña bicicleta ciclista montaña mountain bike"
+    ],
+    "🚵‍♀️": [
+      "mujer en bicicleta de montaña",
+      "mujer en bicicleta de montaña bicicleta ciclista montaña mountain bike"
+    ],
+    "🤸": [
+      "persona haciendo voltereta lateral",
+      "persona haciendo voltereta lateral acrobacia gimnasia pirueta rueda voltereta"
+    ],
+    "🤸‍♂️": [
+      "hombre dando una voltereta lateral",
+      "hombre dando una voltereta lateral deporte gimnasia hombre rueda voltereta"
+    ],
+    "🤸‍♀️": [
+      "mujer dando una voltereta lateral",
+      "mujer dando una voltereta lateral deporte gimnasia mujer rueda voltereta"
+    ],
+    "🤼": ["personas luchando", "personas luchando lucha luchador"],
+    "🤼‍♂️": [
+      "hombres luchando",
+      "hombres luchando deporte hombre lucha luchador"
+    ],
+    "🤼‍♀️": [
+      "mujeres luchando",
+      "mujeres luchando deporte lucha luchadora mujer"
+    ],
+    "🤽": [
+      "persona jugando al waterpolo",
+      "persona jugando al waterpolo waterpolista waterpolo"
+    ],
+    "🤽‍♂️": [
+      "hombre jugando al waterpolo",
+      "hombre jugando al waterpolo agua deporte waterpolista waterpolo"
+    ],
+    "🤽‍♀️": [
+      "mujer jugando al waterpolo",
+      "mujer jugando al waterpolo agua deporte waterpolista waterpolo"
+    ],
+    "🤾": [
+      "persona jugando al balonmano",
+      "persona jugando al balonmano balonmanista balonmano"
+    ],
+    "🤾‍♂️": [
+      "hombre jugando al balonmano",
+      "hombre jugando al balonmano balonmanista balonmano deporte hombre"
+    ],
+    "🤾‍♀️": [
+      "mujer jugando al balonmano",
+      "mujer jugando al balonmano balonmanista balonmano deporte mujer"
+    ],
+    "🤹": [
+      "persona haciendo malabares",
+      "persona haciendo malabares equilibrio malabares malabarismo malabarista"
+    ],
+    "🤹‍♂️": [
+      "hombre haciendo malabares",
+      "hombre haciendo malabares hombre malabares malabarismo malabarista"
+    ],
+    "🤹‍♀️": [
+      "mujer haciendo malabares",
+      "mujer haciendo malabares malabares malabarismo malabarista mujer"
+    ],
+    "🧘": [
+      "persona en posición de loto",
+      "persona en posición de loto meditación yoga"
+    ],
+    "🧘‍♂️": [
+      "hombre en posición de loto",
+      "hombre en posición de loto meditación yoga"
+    ],
+    "🧘‍♀️": [
+      "mujer en posición de loto",
+      "mujer en posición de loto meditación yoga"
+    ],
+    "🛀": ["persona en la bañera", "persona en la bañera bañera baño persona"],
+    "🛌": ["persona en la cama", "persona en la cama dormir hotel"],
+    "🧑‍🤝‍🧑": [
+      "dos personas de la mano",
+      "dos personas de la mano mano pareja persona"
+    ],
+    "👭": [
+      "mujeres de la mano",
+      "mujeres de la mano lesbianas mujeres novias pareja"
+    ],
+    "👫": [
+      "mujer y hombre de la mano",
+      "mujer y hombre de la mano hombre hombre y mujer de la mano mujer novios pareja"
+    ],
+    "👬": [
+      "hombres de la mano",
+      "hombres de la mano gays hombres novios pareja"
+    ],
+    "💏": ["beso", "beso personas romance"],
+    "👩‍❤️‍💋‍👨": [
+      "beso: mujer y hombre",
+      "beso: mujer y hombre beso hombre mujer personas romance"
+    ],
+    "👨‍❤️‍💋‍👨": [
+      "beso: hombre y hombre",
+      "beso: hombre y hombre beso hombre personas romance"
+    ],
+    "👩‍❤️‍💋‍👩": [
+      "beso: mujer y mujer",
+      "beso: mujer y mujer beso mujer personas romance"
+    ],
+    "💑": [
+      "pareja enamorada",
+      "pareja enamorada amor pareja personas enamoradas"
+    ],
+    "👩‍❤️‍👨": [
+      "pareja enamorada: mujer y hombre",
+      "pareja enamorada: mujer y hombre amor hombre mujer pareja pareja enamorada personas enamoradas"
+    ],
+    "👨‍❤️‍👨": [
+      "pareja enamorada: hombre y hombre",
+      "pareja enamorada: hombre y hombre amor hombre pareja pareja enamorada personas enamoradas"
+    ],
+    "👩‍❤️‍👩": [
+      "pareja enamorada: mujer y mujer",
+      "pareja enamorada: mujer y mujer amor mujer pareja pareja enamorada personas enamoradas"
+    ],
+    "👨‍👩‍👦": [
+      "familia: hombre, mujer, niño",
+      "familia: hombre, mujer, niño familia hombre mujer niño"
+    ],
+    "👨‍👩‍👧": [
+      "familia: hombre, mujer, niña",
+      "familia: hombre, mujer, niña familia hombre mujer niña"
+    ],
+    "👨‍👩‍👧‍👦": [
+      "familia: hombre, mujer, niña, niño",
+      "familia: hombre, mujer, niña, niño familia hombre mujer niña niño"
+    ],
+    "👨‍👩‍👦‍👦": [
+      "familia: hombre, mujer, niño, niño",
+      "familia: hombre, mujer, niño, niño familia hombre mujer niño"
+    ],
+    "👨‍👩‍👧‍👧": [
+      "familia: hombre, mujer, niña, niña",
+      "familia: hombre, mujer, niña, niña familia hombre mujer niña"
+    ],
+    "👨‍👨‍👦": [
+      "familia: hombre, hombre, niño",
+      "familia: hombre, hombre, niño familia hombre niño"
+    ],
+    "👨‍👨‍👧": [
+      "familia: hombre, hombre, niña",
+      "familia: hombre, hombre, niña familia hombre niña"
+    ],
+    "👨‍👨‍👧‍👦": [
+      "familia: hombre, hombre, niña, niño",
+      "familia: hombre, hombre, niña, niño familia hombre niña niño"
+    ],
+    "👨‍👨‍👦‍👦": [
+      "familia: hombre, hombre, niño, niño",
+      "familia: hombre, hombre, niño, niño familia hombre niño"
+    ],
+    "👨‍👨‍👧‍👧": [
+      "familia: hombre, hombre, niña, niña",
+      "familia: hombre, hombre, niña, niña familia hombre niña"
+    ],
+    "👩‍👩‍👦": [
+      "familia: mujer, mujer, niño",
+      "familia: mujer, mujer, niño familia mujer niño"
+    ],
+    "👩‍👩‍👧": [
+      "familia: mujer, mujer, niña",
+      "familia: mujer, mujer, niña familia mujer niña"
+    ],
+    "👩‍👩‍👧‍👦": [
+      "familia: mujer, mujer, niña, niño",
+      "familia: mujer, mujer, niña, niño familia mujer niña niño"
+    ],
+    "👩‍👩‍👦‍👦": [
+      "familia: mujer, mujer, niño, niño",
+      "familia: mujer, mujer, niño, niño familia mujer niño"
+    ],
+    "👩‍👩‍👧‍👧": [
+      "familia: mujer, mujer, niña, niña",
+      "familia: mujer, mujer, niña, niña familia mujer niña"
+    ],
+    "👨‍👦": [
+      "familia: hombre y niño",
+      "familia: hombre y niño familia hombre niño"
+    ],
+    "👨‍👦‍👦": [
+      "familia: hombre, niño, niño",
+      "familia: hombre, niño, niño familia hombre niño"
+    ],
+    "👨‍👧": [
+      "familia: hombre y niña",
+      "familia: hombre y niña familia hombre niña"
+    ],
+    "👨‍👧‍👦": [
+      "familia: hombre, niña, niño",
+      "familia: hombre, niña, niño familia hombre niña niño"
+    ],
+    "👨‍👧‍👧": [
+      "familia: hombre, niña, niña",
+      "familia: hombre, niña, niña familia hombre niña"
+    ],
+    "👩‍👦": ["familia: mujer y niño", "familia: mujer y niño familia mujer niño"],
+    "👩‍👦‍👦": [
+      "familia: mujer, niño, niño",
+      "familia: mujer, niño, niño familia mujer niño"
+    ],
+    "👩‍👧": ["familia: mujer y niña", "familia: mujer y niña familia mujer niña"],
+    "👩‍👧‍👦": [
+      "familia: mujer, niña, niño",
+      "familia: mujer, niña, niño familia mujer niña niño"
+    ],
+    "👩‍👧‍👧": [
+      "familia: mujer, niña, niña",
+      "familia: mujer, niña, niña familia mujer niña"
+    ],
+    "🗣️": ["cabeza parlante", "cabeza parlante cabeza cara hablar silueta"],
+    "👤": ["silueta de busto", "silueta de busto busto silueta"],
+    "👥": ["dos siluetas de bustos", "dos siluetas de bustos bustos siluetas"],
+    "🫂": [
+      "personas abrazándose",
+      "personas abrazándose abrazo adiós despedida gracias saludo"
+    ],
+    "👪": ["familia", "familia familia"],
+    "🧑‍🧑‍🧒": [
+      "familia: adulto, adulto, niño",
+      "familia: adulto, adulto, niño adulto familia niño"
+    ],
+    "🧑‍🧑‍🧒‍🧒": [
+      "familia: adulto, adulto, niño, niño",
+      "familia: adulto, adulto, niño, niño adulto familia niño"
+    ],
+    "🧑‍🧒": [
+      "familia: adulto, niño",
+      "familia: adulto, niño adulto familia niño"
+    ],
+    "🧑‍🧒‍🧒": [
+      "familia: adulto, niño, niño",
+      "familia: adulto, niño, niño adulto familia niño"
+    ],
+    "👣": ["huellas de pies", "huellas de pies huellas pies"],
+    "🫆": [
+      "huella dactilar",
+      "huella dactilar delito detective forense huella huella digital identidad misterio rastro seguridad"
+    ],
+    "🐵": ["cara de mono", "cara de mono cara mono"],
+    "🐒": ["mono", "mono macaco simio"],
+    "🦍": ["gorila", "gorila primate simio"],
+    "🦧": ["orangután", "orangután mono primate simio"],
+    "🐶": ["cara de perro", "cara de perro cara mascota perro"],
+    "🐕": ["perro", "perro cachorro perrete perrito"],
+    "🦮": [
+      "perro guía",
+      "perro guía accesibilidad ciego guía invidente lazarillo"
+    ],
+    "🐕‍🦺": [
+      "perro de servicio",
+      "perro de servicio accesibilidad apoyo asistencia perro servicio"
+    ],
+    "🐩": ["caniche", "caniche perrito perro"],
+    "🐺": ["lobo", "lobo cara"],
+    "🦊": ["zorro", "zorro cara"],
+    "🦝": ["mapache", "mapache astuto curioso ladino maquillaje ojeras"],
+    "🐱": ["cara de gato", "cara de gato cara gato mascota"],
+    "🐈": ["gato", "gato gatete minino"],
+    "🐈‍⬛": ["gato negro", "gato negro gato mala suerte negro"],
+    "🦁": ["león", "león cara leo zodiaco"],
+    "🐯": ["cara de tigre", "cara de tigre cara tigre"],
+    "🐅": ["tigre", "tigre felino"],
+    "🐆": ["leopardo", "leopardo felino"],
+    "🐴": ["cara de caballo", "cara de caballo caballo cara"],
+    "🫎": [
+      "alce",
+      "alce animal asta ciervo canadiense cuernos mamífero uapití"
+    ],
+    "🫏": ["burro", "burro animal asno borrico mamífero mula terco"],
+    "🐎": [
+      "caballo",
+      "caballo caballo de carreras carreras de caballos ecuestre"
+    ],
+    "🦄": ["unicornio", "unicornio cara"],
+    "🦓": ["cebra", "cebra raya"],
+    "🦌": ["ciervo", "ciervo bambi cervatillo"],
+    "🦬": ["bisonte", "bisonte búfalo cíbolo"],
+    "🐮": ["cara de vaca", "cara de vaca cara vaca"],
+    "🐂": ["buey", "buey cabestro tauro zodiaco"],
+    "🐃": ["búfalo de agua", "búfalo de agua agua búfalo"],
+    "🐄": ["vaca", "vaca bovino res"],
+    "🐷": ["cara de cerdo", "cara de cerdo cara cerdo gorrino"],
+    "🐖": ["cerdo", "cerdo cochino gorrino puerco"],
+    "🐗": ["jabalí", "jabalí cerdo salvaje"],
+    "🐽": ["nariz de cerdo", "nariz de cerdo cara cerdo morro nariz"],
+    "🐏": ["carnero", "carnero aries morueco zodiaco"],
+    "🐑": ["oveja", "oveja borrego cordero ovino"],
+    "🐐": ["cabra", "cabra capricornio caprino chivo zodiaco"],
+    "🐪": ["dromedario", "dromedario camello desierto joroba"],
+    "🐫": ["camello", "camello bactriano desierto dromedario jorobas"],
+    "🦙": ["llama", "llama alpaca guanaco lana vicuña"],
+    "🦒": ["jirafa", "jirafa manchas"],
+    "🐘": ["elefante", "elefante paquidermo"],
+    "🦣": ["mamut", "mamut colmillo extinguido lanudo"],
+    "🦏": ["rinoceronte", "rinoceronte paquidermo"],
+    "🦛": ["hipopótamo", "hipopótamo paquidermo"],
+    "🐭": ["cara de ratón", "cara de ratón cara ratón"],
+    "🐁": ["ratón", "ratón roedor"],
+    "🐀": ["rata", "rata roedor"],
+    "🐹": ["hámster", "hámster cara mascota"],
+    "🐰": ["cara de conejo", "cara de conejo cara conejo mascota"],
+    "🐇": ["conejo", "conejo conejito gazapo"],
+    "🐿️": ["ardilla", "ardilla ardilla"],
+    "🦫": ["castor", "castor roedor"],
+    "🦔": ["erizo", "erizo espinas púas"],
+    "🦇": ["murciélago", "murciélago vampiro"],
+    "🐻": ["oso", "oso cara"],
+    "🐻‍❄️": ["oso polar", "oso polar blanco oso polar ártico"],
+    "🐨": ["koala", "koala cara marsupial"],
+    "🐼": ["panda", "panda cara oso panda"],
+    "🦥": ["perezoso", "perezoso gandul lento vago"],
+    "🦦": ["nutria", "nutria bromista juguetón pesca"],
+    "🦨": ["mofeta", "mofeta apestar hedor mal olor peste tufo"],
+    "🦘": ["canguro", "canguro marsupial saltar salto"],
+    "🦡": ["tejón", "tejón ratel tejón de la miel tejón melero"],
+    "🐾": ["huellas de pezuñas", "huellas de pezuñas huellas pezuñas"],
+    "🦃": ["pavo", "pavo ave"],
+    "🐔": ["gallina", "gallina ave gallinácea pollo"],
+    "🐓": ["gallo", "gallo ave gallina gallinácea pollo"],
+    "🐣": [
+      "pollito rompiendo el cascarón",
+      "pollito rompiendo el cascarón ave huevo pollito pollo"
+    ],
+    "🐤": ["pollito", "pollito ave pollo polluelo"],
+    "🐥": ["pollito de frente", "pollito de frente ave pollito pollo"],
+    "🐦": ["pájaro", "pájaro ave pajarillo"],
+    "🐧": ["pingüino", "pingüino ave"],
+    "🕊️": ["paloma", "paloma ave paz pájaro"],
+    "🦅": ["águila", "águila ave"],
+    "🦆": ["pato", "pato ave"],
+    "🦢": ["cisne", "cisne ave patito feo"],
+    "🦉": ["búho", "búho ave lechuza pájaro"],
+    "🦤": ["dodo", "dodo mauricio ave dronte extinguido pájaro"],
+    "🪶": ["pluma", "pluma ave ligero plumaje pájaro"],
+    "🦩": ["flamenco", "flamenco extravangante ostentoso tropical"],
+    "🦚": ["pavo real", "pavo real ave orgulloso pavo plumas"],
+    "🦜": ["loro", "loro ave hablar papagayo pirata"],
+    "🪽": ["ala", "ala angelical ave mitología pájaro volar ángel"],
+    "🐦‍⬛": ["pájaro negro", "pájaro negro cuervo grajo mirlo negro pájaro"],
+    "🪿": ["oca", "oca ave ganso graznar pájaro"],
+    "🐦‍🔥": [
+      "fénix",
+      "fénix ave de fuego ave fénix fantasía reencarnación renacer"
+    ],
+    "🐸": ["rana", "rana cara"],
+    "🐊": ["cocodrilo", "cocodrilo caimán"],
+    "🐢": ["tortuga", "tortuga galápago"],
+    "🦎": ["lagarto", "lagarto lagartija reptil"],
+    "🐍": ["serpiente", "serpiente culebra reptil víbora"],
+    "🐲": ["cara de dragón", "cara de dragón cara cuento dragón fantasía"],
+    "🐉": ["dragón", "dragón cuento fantasía"],
+    "🦕": ["saurópodo", "saurópodo braquiosaurio brontosaurio diplodocus"],
+    "🦖": ["t-rex", "t-rex tiranosaurio tiranosaurio rex"],
+    "🐳": [
+      "ballena soltando un chorro",
+      "ballena soltando un chorro ballena chorro de agua"
+    ],
+    "🐋": ["ballena", "ballena cachalote cetáceo"],
+    "🐬": ["delfín", "delfín cetáceo"],
+    "🫍": ["orca", "orca ballena mar marino océano"],
+    "🦭": ["foca", "foca león marino"],
+    "🐟": ["pez", "pez pececillo pescado piscis zodiaco"],
+    "🐠": ["pez tropical", "pez tropical pez tropical"],
+    "🐡": ["pez globo", "pez globo globo pez"],
+    "🦈": ["tiburón", "tiburón pez"],
+    "🐙": ["pulpo", "pulpo cefalópodo octópodo"],
+    "🐚": ["caracola", "caracola concha espiral"],
+    "🪸": ["coral", "coral arrecife océano"],
+    "🪼": ["medusa", "medusa invertebrado marino picadura picar"],
+    "🦀": ["cangrejo", "cangrejo animal cáncer zodiaco"],
+    "🦞": ["bogavante", "bogavante langosta marisco pinzas"],
+    "🦐": ["gamba", "gamba camarón comida langostino marisco"],
+    "🦑": ["calamar", "calamar comida molusco"],
+    "🦪": ["ostra", "ostra buceo perla"],
+    "🐌": ["caracol", "caracol caracola molusco"],
+    "🦋": ["mariposa", "mariposa bonito insecto"],
+    "🫌": [
+      "mariposa monarca",
+      "mariposa monarca cambio esperanza frágil insecto metamorfosis migración oruga transformación"
+    ],
+    "🐛": ["bicho", "bicho gusano insecto"],
+    "🐜": ["hormiga", "hormiga antenas insecto"],
+    "🐝": ["abeja", "abeja insecto miel"],
+    "🪲": ["escarabajo", "escarabajo bicho insecto"],
+    "🐞": ["mariquita", "mariquita cochinilla insecto"],
+    "🦗": ["grillo", "grillo saltamontes"],
+    "🪳": ["cucaracha", "cucaracha alimaña bicho insecto plaga"],
+    "🕷️": ["araña", "araña insecto"],
+    "🕸️": ["tela de araña", "tela de araña araña tela telaraña"],
+    "🦂": ["escorpión", "escorpión escorpio zodiaco"],
+    "🦟": ["mosquito", "mosquito fiebre insecto malaria virus"],
+    "🪰": ["mosca", "mosca basura bicho mal olor podrido"],
+    "🪱": ["gusano", "gusano lombriz oruga parásito"],
+    "🦠": ["microbio", "microbio ameba bacteria germen virus"],
+    "💐": ["ramo de flores", "ramo de flores bouquet flores ramo"],
+    "🌸": ["flor de cerezo", "flor de cerezo cerezo flor"],
+    "💮": ["flor blanca", "flor blanca blanca flor"],
+    "🪷": ["loto", "loto budismo flor hinduismo pureza"],
+    "🏵️": ["roseta", "roseta flor planta"],
+    "🌹": ["rosa", "rosa flor"],
+    "🥀": [
+      "flor marchita",
+      "flor marchita flor marchita marchitada marchitarse"
+    ],
+    "🌺": ["flor de hibisco", "flor de hibisco flor hibisco"],
+    "🌻": ["girasol", "girasol flor sol"],
+    "🌼": ["flor", "flor flor"],
+    "🌷": ["tulipán", "tulipán flor"],
+    "🪻": [
+      "campanilla",
+      "campanilla boca de dragón flor jacinto lavanda lila lupino"
+    ],
+    "🌱": ["planta joven", "planta joven plantón"],
+    "🪴": ["planta de maceta", "planta de maceta crecer maceta planta tiesto"],
+    "🌲": [
+      "árbol de hoja perenne",
+      "árbol de hoja perenne hoja perenne perenne árbol"
+    ],
+    "🌳": [
+      "árbol de hoja caduca",
+      "árbol de hoja caduca caducifolio hoja caduca árbol"
+    ],
+    "🌴": ["palmera", "palmera árbol árbol de palma"],
+    "🌵": ["cactus", "cactus planta"],
+    "🌾": ["espiga de arroz", "espiga de arroz arroz espiga planta"],
+    "🌿": ["hierba", "hierba hoja verde"],
+    "☘️": ["trébol", "trébol planta"],
+    "🍀": ["trébol de cuatro hojas", "trébol de cuatro hojas suerte trébol"],
+    "🍁": ["hoja de arce", "hoja de arce arce hoja"],
+    "🍂": ["hojas caídas", "hojas caídas caída hojas"],
+    "🍃": [
+      "hojas revoloteando al viento",
+      "hojas revoloteando al viento hoja revolotear soplar viento"
+    ],
+    "🪹": ["nido vacío", "nido vacío anidación anidamiento anidar"],
+    "🪺": ["nido con huevos", "nido con huevos anidación anidamiento anidar"],
+    "🍄": ["champiñón", "champiñón hongo seta"],
+    "🪾": [
+      "árbol sin hojas",
+      "árbol sin hojas deshojado estéril invierno madera muerto ramas sequía sin hojas tronco árbol"
+    ],
+    "🍇": ["uvas", "uvas agracejo fruta racimo uva"],
+    "🍈": ["melón", "melón fruta"],
+    "🍉": ["sandía", "sandía fruta"],
+    "🍊": ["mandarina", "mandarina fruta naranja"],
+    "🍋": ["limón", "limón citrón cítrico fruta"],
+    "🍋‍🟩": ["lima", "lima cítrico fruta tropical"],
+    "🍌": ["plátano", "plátano banana fruta"],
+    "🍍": ["piña", "piña ananás fruta"],
+    "🥭": ["mango", "mango fruta tropical"],
+    "🍎": ["manzana roja", "manzana roja fruta manzana poma roja"],
+    "🍏": ["manzana verde", "manzana verde fruta manzana poma verde"],
+    "🍐": ["pera", "pera fruta perilla"],
+    "🍑": ["melocotón", "melocotón durazno fruta"],
+    "🍒": ["cerezas", "cerezas cereza fruta guindas"],
+    "🍓": ["fresa", "fresa fresón fruta"],
+    "🫐": [
+      "arándanos",
+      "arándanos arándano azul baya frutos del bosque mirtilo"
+    ],
+    "🥝": ["kiwi", "kiwi comida fruta"],
+    "🍅": ["tomate", "tomate ensalada fruta verdura"],
+    "🫒": ["aceituna", "aceituna aperitivo comida oliva"],
+    "🥥": ["coco", "coco palmera piña colada"],
+    "🥑": ["aguacate", "aguacate comida fruta"],
+    "🍆": ["berenjena", "berenjena fruto verdura"],
+    "🥔": ["patata", "patata comida papa verdura"],
+    "🥕": ["zanahoria", "zanahoria comida verdura"],
+    "🌽": ["espiga de maíz", "espiga de maíz espiga mazorca maíz mijo"],
+    "🌶️": ["chile picante", "chile picante chile picante planta"],
+    "🫑": ["pimiento", "pimiento ají chile morrón rojo verdura"],
+    "🥒": ["pepino", "pepino comida pepinillo verdura"],
+    "🫝": [
+      "pepinillo",
+      "pepinillo aperitivo condimento encurtido fermentar pepino salmuera"
+    ],
+    "🥬": [
+      "verdura de hoja verde",
+      "verdura de hoja verde bok choy col kale lechuga pak choi"
+    ],
+    "🥦": ["brócoli", "brócoli col repollo"],
+    "🧄": ["ajo", "ajo condimento vampiro"],
+    "🧅": ["cebolla", "cebolla condimento llorar"],
+    "🥜": ["cacahuetes", "cacahuetes cacahuete comida fruto seco verdura"],
+    "🫘": [
+      "alubias",
+      "alubias comida habichuela roja habichuelas judía roja judías legumbre"
+    ],
+    "🌰": ["castaña", "castaña castaño fruto seco"],
+    "🫚": [
+      "raíz de jengibre",
+      "raíz de jengibre cerveza especia garganta raíz"
+    ],
+    "🫛": ["vaina", "vaina edamame guisante judías legumbre soja verdura"],
+    "🍄‍🟫": [
+      "champiñón marrón",
+      "champiñón marrón comida hongo naturaleza seta vegetal"
+    ],
+    "🫜": [
+      "túberculo comestible",
+      "túberculo comestible chirivía comida ensalada huerto nabo raíz remolacha rábano vegetariano verdura"
+    ],
+    "🍞": ["pan de molde", "pan de molde pan rebanada tostada"],
+    "🥐": ["cruasán", "cruasán bollo comida croissant francés"],
+    "🥖": ["baguete", "baguete baguette barra comida francés pan"],
+    "🫓": ["pan sin levadura", "pan sin levadura arepa naan pita tortilla"],
+    "🥨": ["bretzel", "bretzel galleta salada pretzel"],
+    "🥯": ["bagel", "bagel bocadillo pan panadería"],
+    "🥞": ["tortitas", "tortitas comida dulce pancakes postre tortita"],
+    "🧇": ["gofre", "gofre waffle"],
+    "🧀": ["cuña de queso", "cuña de queso cuña queso trozo"],
+    "🍖": ["carne con hueso", "carne con hueso carne hueso restaurante"],
+    "🍗": ["muslo de pollo", "muslo de pollo muslo pollo restaurante"],
+    "🥩": ["corte de carne", "corte de carne carne chuleta filete"],
+    "🥓": ["beicon", "beicon bacon carne comida panceta"],
+    "🍔": ["hamburguesa", "hamburguesa burger"],
+    "🍟": ["patatas fritas", "patatas fritas papas fritas patatas restaurante"],
+    "🍕": ["pizza", "pizza porción restaurante"],
+    "🌭": ["perrito caliente", "perrito caliente perrito salchicha"],
+    "🥪": ["sándwich", "sándwich bocadillo bocata emparedado"],
+    "🌮": ["taco", "taco comida mexicano"],
+    "🌯": ["burrito", "burrito comida mexicano tex mex wrap"],
+    "🫔": ["tamal", "tamal mejicano mexicano wrap"],
+    "🥙": ["pan relleno", "pan relleno comida durum falafel kebab pan de pita"],
+    "🧆": ["falafel", "falafel albóndiga garbanzo"],
+    "🥚": ["huevo", "huevo comida"],
+    "🍳": ["cocinar", "cocinar freír huevo sartén"],
+    "🥘": ["paella", "paella arroz comida"],
+    "🍲": [
+      "olla de comida",
+      "olla de comida comida de olla puchero restaurante"
+    ],
+    "🫕": ["fondue", "fondue chocolate olla queso suizo"],
+    "🥣": ["cuenco con cuchara", "cuenco con cuchara cereal desayuno"],
+    "🥗": ["ensalada", "ensalada bol comida verde"],
+    "🍿": ["palomitas", "palomitas maíz"],
+    "🧈": ["mantequilla", "mantequilla lácteo"],
+    "🧂": ["sal", "sal condimento salero"],
+    "🥫": ["comida enlatada", "comida enlatada conserva lata"],
+    "🍱": ["caja de bento", "caja de bento bento caja comida restaurante"],
+    "🍘": ["galleta de arroz", "galleta de arroz arroz galleta"],
+    "🍙": ["bola de arroz", "bola de arroz arroz japonés onigiri restaurante"],
+    "🍚": ["arroz cocido", "arroz cocido arroz restaurante"],
+    "🍛": ["arroz con curry", "arroz con curry arroz curry restaurante"],
+    "🍜": [
+      "tazón de fideos",
+      "tazón de fideos fideos calientes fideos chinos fideos ramen ramen"
+    ],
+    "🍝": ["espagueti", "espagueti pasta restaurante"],
+    "🍠": ["patata asada", "patata asada asada papa asada patata restaurante"],
+    "🍢": ["brocheta", "brocheta japonés marisco oden pincho"],
+    "🍣": ["sushi", "sushi restaurante"],
+    "🍤": ["gamba frita", "gamba frita frito gamba restaurante"],
+    "🍥": [
+      "pastel de pescado japonés",
+      "pastel de pescado japonés comida japonesa pastel pescado"
+    ],
+    "🥮": ["pastel de luna", "pastel de luna festival luna otoño yuebing"],
+    "🍡": ["dango", "dango japonés pincho postre restaurante"],
+    "🥟": ["dumpling", "dumpling comida gyōza jiaozi masa"],
+    "🥠": [
+      "galleta de la fortuna",
+      "galleta de la fortuna adivinación profecía superstición"
+    ],
+    "🥡": [
+      "caja para llevar",
+      "caja para llevar recipiente para llevar restaurante"
+    ],
+    "🍦": [
+      "cucurucho de helado",
+      "cucurucho de helado cucurucho dulce helado helado de cucurucho restaurante"
+    ],
+    "🍧": [
+      "granizado hawaiano",
+      "granizado hawaiano helado hielo postre raspado"
+    ],
+    "🍨": ["helado", "helado postre sorbete"],
+    "🍩": ["dónut", "dónut berlina pastel rosquilla"],
+    "🍪": ["galleta", "galleta dulce pasta postre"],
+    "🎂": [
+      "tarta de cumpleaños",
+      "tarta de cumpleaños celebración cumpleaños tarta"
+    ],
+    "🍰": [
+      "trozo de tarta",
+      "trozo de tarta pedazo de tarta restaurante tarta"
+    ],
+    "🧁": ["magdalena", "magdalena cupcake dulce repostería"],
+    "🥧": ["pastel", "pastel masa relleno"],
+    "🍫": [
+      "tableta de chocolate",
+      "tableta de chocolate barra chocolate restaurante tableta"
+    ],
+    "🍬": ["caramelo", "caramelo chuche chuchería dulce golosina"],
+    "🍭": ["piruleta", "piruleta chuche chuchería dulce golosina"],
+    "🍮": ["flan", "flan dulce postre pudding"],
+    "🍯": ["tarro de miel", "tarro de miel dulce miel tarro"],
+    "🍼": ["biberón", "biberón bebé bibe bibi botella leche"],
+    "🥛": ["vaso de leche", "vaso de leche bebida leche vaso"],
+    "☕": ["bebida caliente", "bebida caliente bebida café caliente té"],
+    "🫖": ["tetera", "tetera bebida infusión té"],
+    "🍵": ["tazón de té", "tazón de té bebida taza té"],
+    "🍶": ["sake", "sake bar bebida botella restaurante tazón"],
+    "🍾": [
+      "botella descorchada",
+      "botella descorchada bar beber botella cava corcho"
+    ],
+    "🍷": ["copa de vino", "copa de vino bar bebida copa vaso vino"],
+    "🍸": ["copa de cóctel", "copa de cóctel bar copa cóctel restaurante"],
+    "🍹": [
+      "bebida tropical",
+      "bebida tropical bar bebida restaurante tropical"
+    ],
+    "🍺": [
+      "jarra de cerveza",
+      "jarra de cerveza bar cerveza jarra restaurante"
+    ],
+    "🍻": [
+      "jarras de cerveza brindando",
+      "jarras de cerveza brindando bar cerveza jarra jarras restaurante"
+    ],
+    "🥂": [
+      "copas brindando",
+      "copas brindando bebida brindar brindis celebración copa"
+    ],
+    "🥃": ["vaso de whisky", "vaso de whisky chupito copa licor vaso whisky"],
+    "🫗": [
+      "líquido derramándose",
+      "líquido derramándose bebida derramar vacío vaso verter"
+    ],
+    "🥤": ["vaso con pajita", "vaso con pajita refresco zumo"],
+    "🧋": [
+      "té de burbujas",
+      "té de burbujas boba bubble tea burbuja leche perla té"
+    ],
+    "🧃": ["tetrabrik", "tetrabrik brick cartón envase zumo"],
+    "🧉": ["mate", "mate bebida infusión"],
+    "🧊": ["cubito de hielo", "cubito de hielo frío iceberg"],
+    "🥢": ["palillos", "palillos cubiertos hashi"],
+    "🍽️": [
+      "cuchillo y tenedor con un plato",
+      "cuchillo y tenedor con un plato cuchillo plato restaurante tenedor"
+    ],
+    "🍴": [
+      "tenedor y cuchillo",
+      "tenedor y cuchillo cuchillo restaurante tenedor"
+    ],
+    "🥄": ["cuchara", "cuchara cubiertos cucharilla"],
+    "🔪": ["cuchillo de cocina", "cuchillo de cocina arma cocinar cuchillo"],
+    "🫙": ["tarro", "tarro almacenar condimento frasco recipiente salsa vacío"],
+    "🏺": ["ánfora", "ánfora acuario beber jarra zodiaco"],
+    "🌍": [
+      "globo terráqueo mostrando Europa y África",
+      "globo terráqueo mostrando europa y áfrica europa tierra mundo planeta áfrica"
+    ],
+    "🌎": [
+      "globo terráqueo mostrando América",
+      "globo terráqueo mostrando américa américa tierra globo mundo planeta"
+    ],
+    "🌏": [
+      "globo terráqueo mostrando Asia y Australia",
+      "globo terráqueo mostrando asia y australia asia australia tierra mundo planeta"
+    ],
+    "🌐": [
+      "globo terráqueo con meridianos",
+      "globo terráqueo con meridianos tierra globo meridianos mundo"
+    ],
+    "🗺️": ["mapa mundial", "mapa mundial mapa mapamundi mundo"],
+    "🗾": ["mapa de Japón", "mapa de japón japón mapa"],
+    "🧭": ["brújula", "brújula compás magnético navegación orientación"],
+    "🏔️": ["montaña con nieve", "montaña con nieve frío montaña nieve"],
+    "⛰️": ["montaña", "montaña monte"],
+    "🛘": [
+      "desprendimiento",
+      "desprendimiento alud avalancha desastre montaña peligro rocas terremoto"
+    ],
+    "🌋": ["volcán", "volcán erupción erupción volcánica"],
+    "🗻": ["monte Fuji", "monte fuji fuji montaña monte naturaleza"],
+    "🏕️": ["camping", "camping acampada campamento vacaciones"],
+    "🏖️": ["playa y sombrilla", "playa y sombrilla playa sombrilla"],
+    "🏜️": ["desierto", "desierto arena"],
+    "🏝️": ["isla desierta", "isla desierta desierta isla"],
+    "🏞️": ["parque nacional", "parque nacional nacional parque"],
+    "🏟️": ["estadio", "estadio estadio"],
+    "🏛️": ["edificio clásico", "edificio clásico clásico edificio"],
+    "🏗️": ["construcción", "construcción edificio obra"],
+    "🧱": ["ladrillo", "ladrillo arcilla cemento muro pared"],
+    "🪨": ["piedra", "piedra pedrusco peña peñasco roca"],
+    "🪵": ["madera", "madera hoguera leña madero palos tronco"],
+    "🛖": ["cabaña", "cabaña casa yurta"],
+    "🏘️": ["casas", "casas edificio urbanización"],
+    "🏚️": [
+      "casa abandonada",
+      "casa abandonada abandonada casa deshabitada inhabitada vacía"
+    ],
+    "🏠": ["casa", "casa vivienda"],
+    "🏡": [
+      "casa con jardín",
+      "casa con jardín casa construcción jardín vivienda"
+    ],
+    "🏢": [
+      "edificio de oficinas",
+      "edificio de oficinas construcción edificio oficinas"
+    ],
+    "🏣": [
+      "oficina de correos japonesa",
+      "oficina de correos japonesa correos edificio japón oficina de correos"
+    ],
+    "🏤": [
+      "oficina de correos europea",
+      "oficina de correos europea correos edificio europa oficina de correos"
+    ],
+    "🏥": ["hospital", "hospital doctor edificio medicina médico"],
+    "🏦": ["banco", "banco banca edificio"],
+    "🏨": ["hotel", "hotel alojamiento edificio turismo"],
+    "🏩": ["hotel del amor", "hotel del amor amor edificio hotel"],
+    "🏪": [
+      "tienda 24 horas",
+      "tienda 24 horas edificio establecimiento tienda de comestibles"
+    ],
+    "🏫": ["colegio", "colegio edificio escuela"],
+    "🏬": ["grandes almacenes", "grandes almacenes comercio"],
+    "🏭": ["fábrica", "fábrica edificio industria"],
+    "🏯": ["castillo japonés", "castillo japonés castillo construcción"],
+    "🏰": ["castillo europeo", "castillo europeo castillo construcción"],
+    "💒": [
+      "iglesia celebrando boda",
+      "iglesia celebrando boda boda iglesia romance"
+    ],
+    "🗼": ["Torre de Tokio", "torre de tokio tokio torre"],
+    "🗽": [
+      "Estatua de la Libertad",
+      "estatua de la libertad estatua libertad nueva ny nyc york"
+    ],
+    "⛪": ["iglesia", "iglesia cristianismo cruz edificio religión"],
+    "🕌": ["mezquita", "mezquita islam religión"],
+    "🛕": ["templo hindú", "templo hindú hindú templo"],
+    "🕍": ["sinagoga", "sinagoga judaísmo religión"],
+    "⛩️": [
+      "santuario sintoísta",
+      "santuario sintoísta japón religión santuario sintoísmo"
+    ],
+    "🕋": ["Kaaba", "kaaba hach islam musulmán religión umrah"],
+    "⛲": ["fuente", "fuente fuente"],
+    "⛺": [
+      "tienda de campaña",
+      "tienda de campaña campaña camping tienda vacaciones"
+    ],
+    "🌁": ["bruma", "bruma niebla"],
+    "🌃": ["noche estrellada", "noche estrellada estrellas noche"],
+    "🏙️": ["paisaje urbano", "paisaje urbano ciudad edificio paisaje"],
+    "🌄": [
+      "amanecer sobre montañas",
+      "amanecer sobre montañas amanecer montaña salida sol"
+    ],
+    "🌅": ["amanecer", "amanecer salida del sol"],
+    "🌆": [
+      "ciudad al atardecer",
+      "ciudad al atardecer atardecer ciudad edificios paisaje"
+    ],
+    "🌇": ["puesta del sol", "puesta del sol edificios"],
+    "🌉": ["puente de noche", "puente de noche noche puente"],
+    "♨️": ["aguas termales", "aguas termales termas vapor"],
+    "🎠": [
+      "caballo de tiovivo",
+      "caballo de tiovivo caballo entretenimiento tiovivo"
+    ],
+    "🛝": ["tobogán", "tobogán jugar parque parque de atracciones"],
+    "🎡": [
+      "noria de feria",
+      "noria de feria atracciones entretenimiento feria noria"
+    ],
+    "🎢": [
+      "montaña rusa",
+      "montaña rusa atracciones entretenimiento feria parque"
+    ],
+    "💈": [
+      "poste de barbero",
+      "poste de barbero barbero barbería peluquero poste"
+    ],
+    "🎪": ["carpa de circo", "carpa de circo carpa circo entretenimiento"],
+    "🚂": [
+      "locomotora de vapor",
+      "locomotora de vapor locomotora tren vehículo"
+    ],
+    "🚃": ["vagón", "vagón ferrocarril tranvía tren eléctrico vehículo"],
+    "🚄": [
+      "tren de alta velocidad",
+      "tren de alta velocidad ave ferrocarril rápido tren velocidad"
+    ],
+    "🚅": ["tren bala", "tren bala bala shinkansen tren vehículo velocidad"],
+    "🚆": ["tren", "tren ferrocarril vehículo"],
+    "🚇": ["metro", "metro subterráneo suburbano transporte"],
+    "🚈": ["tren ligero", "tren ligero ferrocarril transporte tren"],
+    "🚉": ["estación de tren", "estación de tren estación tren"],
+    "🚊": ["tranvía", "tranvía transporte trolebús"],
+    "🚝": ["monorraíl", "monorraíl ferrocarril monocarril transporte tren"],
+    "🚞": [
+      "ferrocarril de montaña",
+      "ferrocarril de montaña ferrocarril montaña vehículo"
+    ],
+    "🚋": ["vagón de tranvía", "vagón de tranvía tranvía vagón vehículo"],
+    "🚌": ["autobús", "autobús bus transporte"],
+    "🚍": ["autobús próximo", "autobús próximo autobús próximo vehículo"],
+    "🚎": ["trolebús", "trolebús transporte tranvía"],
+    "🚐": ["minibús", "minibús autobús bus transporte"],
+    "🚑": ["ambulancia", "ambulancia asistencia médica transporte vehículo"],
+    "🚒": [
+      "coche de bomberos",
+      "coche de bomberos camión camión de bomberos fuego vehículo"
+    ],
+    "🚓": [
+      "coche de policía",
+      "coche de policía coche patrulla policía vehículo"
+    ],
+    "🚔": [
+      "coche de policía próximo",
+      "coche de policía próximo coche patrulla policía próximo vehículo"
+    ],
+    "🚕": ["taxi", "taxi coche vehículo"],
+    "🚖": ["taxi próximo", "taxi próximo taxi vehículo"],
+    "🚗": ["coche", "coche automóvil vehículo"],
+    "🚘": ["coche próximo", "coche próximo automóvil coche próximo vehículo"],
+    "🚙": [
+      "vehículo deportivo utilitario",
+      "vehículo deportivo utilitario camping caravana furgoneta vacaciones vehículo"
+    ],
+    "🛻": ["camioneta", "camioneta pickup ranchera"],
+    "🚚": [
+      "camión de reparto",
+      "camión de reparto mercancías reparto transporte vehículo"
+    ],
+    "🚛": ["camión articulado", "camión articulado camión tráiler vehículo"],
+    "🚜": ["tractor", "tractor agricultura vehículo"],
+    "🏎️": ["coche de carreras", "coche de carreras carreras coche"],
+    "🏍️": ["moto", "moto carreras motocicleta vehículo"],
+    "🛵": ["scooter", "scooter escúter moto"],
+    "🦽": ["silla de ruedas manual", "silla de ruedas manual accesibilidad"],
+    "🦼": [
+      "silla de ruedas eléctrica",
+      "silla de ruedas eléctrica accesibilidad"
+    ],
+    "🛺": ["mototaxi", "mototaxi rickshaw tuk tuk"],
+    "🚲": ["bicicleta", "bicicleta bici vehículo"],
+    "🛴": ["patinete", "patinete patinete"],
+    "🛹": ["monopatín", "monopatín skateboard tabla"],
+    "🛼": ["patines", "patines patín patín de 4 ruedas patín de cuatro ruedas"],
+    "🚏": ["parada de autobús", "parada de autobús autobús parada"],
+    "🛣️": ["autopista", "autopista carretera"],
+    "🛤️": ["vía de tren", "vía de tren tren vía"],
+    "🛢️": ["barril de petróleo", "barril de petróleo barril bidón petróleo"],
+    "⛽": [
+      "surtidor de gasolina",
+      "surtidor de gasolina bomba de gasolina combustible gasolina surtidor"
+    ],
+    "🛞": ["rueda", "rueda círculo girar neumático rodar"],
+    "🚨": [
+      "luces de policía",
+      "luces de policía coche de policía luces policía"
+    ],
+    "🚥": [
+      "semáforo horizontal",
+      "semáforo horizontal luz señales de tráfico tráfico"
+    ],
+    "🚦": [
+      "semáforo",
+      "semáforo luz semáforo vertical señales de tráfico tráfico"
+    ],
+    "🛑": ["señal de stop", "señal de stop octágono parada señal stop"],
+    "🚧": ["obras", "obras construcción señal señal de obras"],
+    "🛙": [
+      "faro",
+      "faro baliza esperanza guía iluminación luz mar marítimo navegación señal"
+    ],
+    "⚓": ["ancla", "ancla barco gancho"],
+    "🛟": ["salvavidas", "salvavidas flotador rescate seguridad socorrista"],
+    "⛵": ["velero", "velero barco barco de vela yate"],
+    "🛶": ["canoa", "canoa barca barco piragua"],
+    "🚤": ["lancha motora", "lancha motora barco vehículo"],
+    "🛳️": ["barco de pasajeros", "barco de pasajeros barco pasajeros vehículo"],
+    "⛴️": ["ferri", "ferri barco ferry"],
+    "🛥️": ["barco a motor", "barco a motor barco motor vehículo"],
+    "🚢": ["barco", "barco vehículo"],
+    "✈️": ["avión", "avión aeroplano"],
+    "🛩️": ["avioneta", "avioneta avión"],
+    "🛫": ["avión despegando", "avión despegando aeroplano avión salida"],
+    "🛬": ["avión aterrizando", "avión aterrizando aeroplano avión llegada"],
+    "🪂": ["paracaídas", "paracaídas ala delta paracaidismo paravela volar"],
+    "💺": [
+      "asiento de transporte",
+      "asiento de transporte asiento plaza silla"
+    ],
+    "🚁": ["helicóptero", "helicóptero aspas rotores vehículo volar"],
+    "🚟": [
+      "ferrocarril de suspensión",
+      "ferrocarril de suspensión ferrocarril suspensión vehículo"
+    ],
+    "🚠": [
+      "teleférico de montaña",
+      "teleférico de montaña cable funicular montaña teleférico vehículo"
+    ],
+    "🚡": ["teleférico", "teleférico aéreo tranvía vehículo"],
+    "🛰️": ["satélite", "satélite espacio vehículo"],
+    "🚀": ["cohete", "cohete espacio vehículo"],
+    "🛸": ["platillo volante", "platillo volante ovni"],
+    "🛎️": [
+      "timbre de hotel",
+      "timbre de hotel botones campanilla hotel timbre"
+    ],
+    "🧳": ["equipaje", "equipaje maleta viajar"],
+    "⌛": [
+      "reloj de arena sin tiempo",
+      "reloj de arena sin tiempo arena reloj temporizador"
+    ],
+    "⏳": [
+      "reloj de arena con tiempo",
+      "reloj de arena con tiempo reloj con arena cayendo temporizador"
+    ],
+    "⌚": ["reloj", "reloj reloj"],
+    "⏰": ["reloj despertador", "reloj despertador alarma despertador reloj"],
+    "⏱️": ["cronómetro", "cronómetro reloj"],
+    "⏲️": ["temporizador", "temporizador reloj"],
+    "🕰️": ["reloj de sobremesa", "reloj de sobremesa reloj sobremesa"],
+    "🕛": ["12 en punto", "12 en punto 12:00 doce reloj"],
+    "🕧": ["doce y media", "doce y media 12:30 reloj"],
+    "🕐": ["1 en punto", "1 en punto 1:00 reloj una"],
+    "🕜": ["una y media", "una y media 1:30 reloj"],
+    "🕑": ["2 en punto", "2 en punto 2:00 dos reloj"],
+    "🕝": ["dos y media", "dos y media 2:30 reloj"],
+    "🕒": ["3 en punto", "3 en punto 3:00 reloj tres"],
+    "🕞": ["tres y media", "tres y media 3:30 reloj"],
+    "🕓": ["4 en punto", "4 en punto 4:00 cuatro reloj"],
+    "🕟": ["cuatro y media", "cuatro y media 4:30 reloj"],
+    "🕔": ["5 en punto", "5 en punto 5:00 cinco reloj"],
+    "🕠": ["cinco y media", "cinco y media 5:30 reloj"],
+    "🕕": ["6 en punto", "6 en punto 6:00 reloj seis"],
+    "🕡": ["seis y media", "seis y media 6:30 reloj"],
+    "🕖": ["7 en punto", "7 en punto 7:00 reloj siete"],
+    "🕢": ["siete y media", "siete y media 7:30 reloj"],
+    "🕗": ["8 en punto", "8 en punto 8:00 ocho reloj"],
+    "🕣": ["ocho y media", "ocho y media 8:30 reloj"],
+    "🕘": ["9 en punto", "9 en punto 9:00 nueve reloj"],
+    "🕤": ["nueve y media", "nueve y media 9:30 reloj"],
+    "🕙": ["10 en punto", "10 en punto 10:00 diez reloj"],
+    "🕥": ["diez y media", "diez y media 10:30 reloj"],
+    "🕚": ["11 en punto", "11 en punto 11:00 once reloj"],
+    "🕦": ["once y media", "once y media 11:30 reloj"],
+    "🌑": ["luna nueva", "luna nueva luna oscuridad"],
+    "🌒": ["luna creciente", "luna creciente creciente cuarto espacio luna"],
+    "🌓": [
+      "luna en cuarto creciente",
+      "luna en cuarto creciente creciente cuarto espacio luna"
+    ],
+    "🌔": [
+      "luna gibosa creciente",
+      "luna gibosa creciente creciente gibosa luna"
+    ],
+    "🌕": ["luna llena", "luna llena llena luna plenilunio"],
+    "🌖": [
+      "luna gibosa menguante",
+      "luna gibosa menguante gibosa luna menguante"
+    ],
+    "🌗": [
+      "luna en cuarto menguante",
+      "luna en cuarto menguante cuarto luna menguante"
+    ],
+    "🌘": ["luna menguante", "luna menguante luna menguante"],
+    "🌙": ["luna", "luna creciente espacio"],
+    "🌚": ["luna nueva con cara", "luna nueva con cara cara espacio luna"],
+    "🌛": [
+      "luna de cuarto creciente con cara",
+      "luna de cuarto creciente con cara cara creciente cuarto espacio luna"
+    ],
+    "🌜": [
+      "luna de cuarto menguante con cara",
+      "luna de cuarto menguante con cara cara creciente cuarto espacio luna"
+    ],
+    "🌡️": ["termómetro", "termómetro temperatura"],
+    "☀️": ["sol", "sol espacio rayos soleado"],
+    "🌝": ["luna llena con cara", "luna llena con cara cara llena luna"],
+    "🌞": ["sol con cara", "sol con cara brillante cara sol"],
+    "🪐": ["planeta con anillos", "planeta con anillos saturnino saturno"],
+    "⭐": ["estrella", "estrella estelar"],
+    "🌟": [
+      "estrella brillante",
+      "estrella brillante brillante estrella resplandeciente"
+    ],
+    "🌠": ["estrella fugaz", "estrella fugaz estrella lluvia"],
+    "🌌": ["Vía Láctea", "vía láctea espacio galaxia láctea vía"],
+    "☁️": ["nube", "nube tiempo"],
+    "⛅": [
+      "sol detrás de una nube",
+      "sol detrás de una nube nube sol sol con nubes"
+    ],
+    "⛈️": [
+      "nube con rayo y lluvia",
+      "nube con rayo y lluvia lluvia nube trueno"
+    ],
+    "🌤️": [
+      "sol detrás de una nube pequeña",
+      "sol detrás de una nube pequeña nube sol"
+    ],
+    "🌥️": [
+      "sol detrás de una nube grande",
+      "sol detrás de una nube grande nube sol"
+    ],
+    "🌦️": [
+      "sol detrás de una nube con lluvia",
+      "sol detrás de una nube con lluvia lluvia nube sol"
+    ],
+    "🌧️": ["nube con lluvia", "nube con lluvia lluvia nube"],
+    "🌨️": ["nube con nieve", "nube con nieve frío nieve nube"],
+    "🌩️": ["nube con rayo", "nube con rayo nube rayo"],
+    "🌪️": ["tornado", "tornado nube torbellino"],
+    "🌫️": ["niebla", "niebla nube"],
+    "🌬️": ["cara de viento", "cara de viento cara nube soplar viento"],
+    "🌀": ["ciclón", "ciclón mareo tifón tornado"],
+    "🌈": ["arcoíris", "arcoíris colores lluvia"],
+    "🌂": ["paraguas cerrado", "paraguas cerrado accesorios lluvia paraguas"],
+    "☂️": ["paraguas", "paraguas lluvia paraguas abierto"],
+    "☔": [
+      "paraguas con gotas de lluvia",
+      "paraguas con gotas de lluvia gotas lluvia paraguas"
+    ],
+    "⛱️": [
+      "sombrilla en la arena",
+      "sombrilla en la arena arena sol sombrilla"
+    ],
+    "⚡": [
+      "alto voltaje",
+      "alto voltaje electricidad peligro peligro de alto voltaje señal de alto voltaje voltaje"
+    ],
+    "❄️": ["copo de nieve", "copo de nieve frío nieve"],
+    "☃️": ["muñeco de nieve con nieve", "muñeco de nieve con nieve nieve"],
+    "⛄": [
+      "muñeco de nieve",
+      "muñeco de nieve muñeco de nieve sin nieve nieve"
+    ],
+    "☄️": ["cometa espacial", "cometa espacial cometa espacio meteorito"],
+    "🪋": [
+      "meteorito",
+      "meteorito apocalipsis bola de fuego caída espacio estrella gravedad roca"
+    ],
+    "🔥": ["fuego", "fuego llama"],
+    "💧": ["gota", "gota agua cómic sudor"],
+    "🌊": ["ola de mar", "ola de mar mar océano ola"],
+    "🎃": [
+      "calabaza de Halloween",
+      "calabaza de halloween halloween calabaza celebración linterna"
+    ],
+    "🎄": [
+      "árbol de Navidad",
+      "árbol de navidad navidad abeto de navidad celebración árbol"
+    ],
+    "🎆": ["fuegos artificiales", "fuegos artificiales celebración"],
+    "🎇": ["bengala", "bengala celebración fuegos artificiales"],
+    "🧨": ["petardo", "petardo dinamita explosivo fuegos artificiales"],
+    "✨": ["chispas", "chispas * bengala estrellas"],
+    "🎈": ["globo", "globo celebración"],
+    "🎉": ["cañón de confeti", "cañón de confeti celebración confeti fiesta"],
+    "🎊": ["bola de confeti", "bola de confeti celebración confeti"],
+    "🎋": [
+      "árbol de tanabata",
+      "árbol de tanabata celebración festividad tanabata árbol"
+    ],
+    "🎍": [
+      "decoración de pino",
+      "decoración de pino año nuevo japonés bambú celebración decoración kadomatsu"
+    ],
+    "🎎": [
+      "muñecas japonesas",
+      "muñecas japonesas celebración festival hinamatsuri muñecas"
+    ],
+    "🎏": [
+      "banderín de carpas",
+      "banderín de carpas banderín carpa celebración koinobori"
+    ],
+    "🎐": [
+      "campanilla de viento",
+      "campanilla de viento campanilla furin viento"
+    ],
+    "🎑": [
+      "ceremonia de contemplación de la luna",
+      "ceremonia de contemplación de la luna celebración contemplación luna tsukimi"
+    ],
+    "🧧": ["sobre rojo", "sobre rojo buena suerte hóngbāo lai see regalo"],
+    "🎀": ["lazo", "lazo celebración"],
+    "🎁": ["regalo", "regalo celebración envoltorio presente regalo envuelto"],
+    "🎗️": ["lazo conmemorativo", "lazo conmemorativo conmemorativo lazo"],
+    "🎟️": ["entradas", "entradas acceso admisión entrada evento"],
+    "🎫": ["tique", "tique acceso admisión"],
+    "🎖️": ["medalla militar", "medalla militar celebración medalla militar"],
+    "🏆": ["trofeo", "trofeo premio"],
+    "🏅": ["medalla deportiva", "medalla deportiva medalla premio"],
+    "🥇": ["medalla de oro", "medalla de oro medalla oro primero"],
+    "🥈": ["medalla de plata", "medalla de plata medalla plata segundo"],
+    "🥉": ["medalla de bronce", "medalla de bronce bronce medalla tercero"],
+    "⚽": ["balón de fútbol", "balón de fútbol balón fútbol"],
+    "⚾": ["béisbol", "béisbol balón baseball pelota"],
+    "🥎": ["pelota de softball", "pelota de softball bola pelota softball"],
+    "🏀": ["balón de baloncesto", "balón de baloncesto balón canasta deporte"],
+    "🏐": [
+      "pelota de voleibol",
+      "pelota de voleibol balón juego pelota voleibol"
+    ],
+    "🏈": [
+      "balón de fútbol americano",
+      "balón de fútbol americano balón deporte fútbol americano"
+    ],
+    "🏉": ["balón de rugby", "balón de rugby balón deporte rugby"],
+    "🎾": ["pelota de tenis", "pelota de tenis deporte pelota tenis"],
+    "🥏": ["disco volador", "disco volador disco frisbee"],
+    "🎳": ["bolos", "bolos bola bola de bolos juego"],
+    "🏏": ["críquet", "críquet juego pelota"],
+    "🏑": [
+      "hockey sobre hierba",
+      "hockey sobre hierba hierba hockey juego palo pelota"
+    ],
+    "🏒": ["hockey sobre hielo", "hockey sobre hielo disco hielo hockey palo"],
+    "🥍": ["lacrosse", "lacrosse bola palo pelota raqueta"],
+    "🏓": ["tenis de mesa", "tenis de mesa juego mesa pelota ping pong"],
+    "🏸": ["bádminton", "bádminton pluma raqueta volante"],
+    "🥊": ["guante de boxeo", "guante de boxeo boxeo deporte guante"],
+    "🥋": [
+      "uniforme de artes marciales",
+      "uniforme de artes marciales artes marciales judo kárate taekwondo"
+    ],
+    "🥅": ["portería", "portería deporte red"],
+    "⛳": ["banderín en hoyo", "banderín en hoyo banderín golf hoyo"],
+    "⛸️": ["patín de hielo", "patín de hielo hielo patín"],
+    "🎣": [
+      "caña de pescar",
+      "caña de pescar caña entretenimiento esparcimiento pesca pez"
+    ],
+    "🤿": [
+      "máscara de buceo",
+      "máscara de buceo bucear buzo esnórquel máscara tubo"
+    ],
+    "🎽": [
+      "camiseta sin mangas",
+      "camiseta sin mangas banda camiseta con banda camiseta de correr deporte"
+    ],
+    "🎿": ["esquís", "esquís esquí esquíes nieve"],
+    "🛷": ["trineo", "trineo trineo"],
+    "🥌": ["piedra de curling", "piedra de curling juego roca"],
+    "🎯": ["diana", "diana blanco en el blanco juego"],
+    "🪀": ["yoyó", "yoyó dieta efecto fluctuar juguete"],
+    "🪁": ["cometa", "cometa juguete planear viento volar"],
+    "🔫": ["pistola de agua", "pistola de agua agua juguete pistola verano"],
+    "🎱": [
+      "bola negra de billar",
+      "bola negra de billar 8 billar bola ocho juego"
+    ],
+    "🔮": [
+      "bola de cristal",
+      "bola de cristal adivinación bola buena fortuna cristal"
+    ],
+    "🪄": [
+      "varita mágica",
+      "varita mágica bruja hechicero magia mago prestidigitación varita"
+    ],
+    "🎮": [
+      "mando de videoconsola",
+      "mando de videoconsola juego mando videojuego"
+    ],
+    "🕹️": ["joystick", "joystick juego mando palanca videojuego"],
+    "🎰": ["máquina tragaperras", "máquina tragaperras juego máquina"],
+    "🎲": ["dado", "dado juego"],
+    "🧩": [
+      "pieza de puzle",
+      "pieza de puzle conectar pieza pista puzle rompecabezas"
+    ],
+    "🧸": ["osito de peluche", "osito de peluche juguete oso peluche"],
+    "🪅": ["piñata", "piñata caballito celebración fiesta"],
+    "🪩": [
+      "bola de espejos",
+      "bola de espejos bailar brillar disco discoteca fiesta"
+    ],
+    "🪆": ["muñeca rusa", "muñeca rusa babushka mamushka matrioska rusia"],
+    "♠️": ["palo de picas", "palo de picas carta juego palo picas"],
+    "♥️": ["palo de corazones", "palo de corazones carta corazones juego palo"],
+    "♦️": ["palo de diamantes", "palo de diamantes carta diamantes juego palo"],
+    "♣️": ["palo de tréboles", "palo de tréboles carta juego palo tréboles"],
+    "♟️": ["peón de ajedrez", "peón de ajedrez ajedrez peón"],
+    "🃏": ["comodín", "comodín joker"],
+    "🀄": [
+      "dragón rojo de mahjong",
+      "dragón rojo de mahjong dragón rojo juego mahjong"
+    ],
+    "🎴": [
+      "cartas de flores",
+      "cartas de flores carta flor hanafuda naipe japonés"
+    ],
+    "🎭": [
+      "máscaras de teatro",
+      "máscaras de teatro actuación arte artes escénicas entretenimiento"
+    ],
+    "🖼️": ["cuadro enmarcado", "cuadro enmarcado marco museo"],
+    "🎨": ["paleta de pintor", "paleta de pintor arte artista paleta pintura"],
+    "🧵": ["hilo", "hilo aguja carrete coser costura"],
+    "🪡": [
+      "aguja de coser",
+      "aguja de coser aguja bordado coser hilar punto tejer"
+    ],
+    "🧶": ["ovillo", "ovillo bola croché punto tejer"],
+    "🪢": ["nudo", "nudo anudar atar enredar trenzar"],
+    "👓": ["gafas", "gafas accesorios ojo ropa"],
+    "🕶️": ["gafas de sol", "gafas de sol gafas ojo oscuras sol"],
+    "🥽": [
+      "gafas de protección",
+      "gafas de protección gafas nadar protección ocular soldar"
+    ],
+    "🥼": [
+      "bata de laboratorio",
+      "bata de laboratorio científico doctor experimento médico"
+    ],
+    "🦺": [
+      "chaleco de seguridad",
+      "chaleco de seguridad chaleco emergencia seguridad"
+    ],
+    "👔": ["corbata", "corbata accesorio ropa"],
+    "👕": ["camiseta", "camiseta ropa"],
+    "👖": ["vaqueros", "vaqueros pantalones ropa"],
+    "🧣": ["bufanda", "bufanda abrigo cuello"],
+    "🧤": ["guantes", "guantes mano"],
+    "🧥": ["abrigo", "abrigo chaquetón"],
+    "🧦": ["calcetines", "calcetines pies ropa"],
+    "👗": ["vestido", "vestido mujer ropa"],
+    "👘": ["kimono", "kimono japonés ropa"],
+    "🥻": ["sari", "sari prenda ropa vestido"],
+    "🩱": ["traje de baño de una pieza", "traje de baño de una pieza bañador"],
+    "🩲": [
+      "ropa interior",
+      "ropa interior bañador bragas braguitas calzoncillos slip"
+    ],
+    "🩳": [
+      "pantalones cortos",
+      "pantalones cortos bañador bermudas calzoncillos ropa interior shorts"
+    ],
+    "👙": ["bikini", "bikini baño playa ropa"],
+    "👚": ["ropa de mujer", "ropa de mujer blusa camisa femenina ropa"],
+    "🪭": [
+      "abanico abierto",
+      "abanico abierto abanico airear bailar calor feria flamenco"
+    ],
+    "👛": ["monedero", "monedero accesorios cartera complementos"],
+    "👜": ["bolso", "bolso accesorios complementos"],
+    "👝": [
+      "bolso de mano",
+      "bolso de mano accesorios bolso cartera complementos"
+    ],
+    "🛍️": ["bolsas de compras", "bolsas de compras bolsa compra"],
+    "🎒": ["mochila escolar", "mochila escolar colegio mochila"],
+    "🩴": ["chancla", "chancla chancla de dedo chancleta chinela sandalia"],
+    "👞": ["zapato de hombre", "zapato de hombre calzado hombre ropa zapato"],
+    "👟": [
+      "zapatilla deportiva",
+      "zapatilla deportiva calzado correr ropa tenis"
+    ],
+    "🥾": [
+      "bota de senderismo",
+      "bota de senderismo bota camping mochilero senderismo"
+    ],
+    "🥿": ["bailarina", "bailarina calzado zapato"],
+    "👠": ["zapato de tacón", "zapato de tacón mujer tacón zapato"],
+    "👡": [
+      "sandalia de mujer",
+      "sandalia de mujer calzado mujer ropa sandalia"
+    ],
+    "🩰": [
+      "zapatillas de ballet",
+      "zapatillas de ballet bailar ballet balé danza"
+    ],
+    "👢": ["bota de mujer", "bota de mujer bota calzado mujer ropa"],
+    "🪮": ["peineta", "peineta afro peine pelo"],
+    "👑": ["corona", "corona accesorios complementos reina rey"],
+    "👒": [
+      "sombrero de mujer",
+      "sombrero de mujer accesorio mujer ropa sombrero"
+    ],
+    "🎩": ["sombrero de copa", "sombrero de copa chistera copa ropa sombrero"],
+    "🎓": ["birrete", "birrete celebración gorro graduación"],
+    "🧢": ["gorra con visera", "gorra con visera béisbol gorra visera"],
+    "🪖": [
+      "casco militar",
+      "casco militar casco ejército guerra guerrero soldado"
+    ],
+    "⛑️": [
+      "casco con una cruz blanca",
+      "casco con una cruz blanca ayuda cara casco cruz"
+    ],
+    "📿": ["rosario", "rosario collar cuentas religión"],
+    "💄": ["pintalabios", "pintalabios barra cosmética labios maquillaje"],
+    "💍": ["anillo", "anillo diamante"],
+    "💎": [
+      "piedra preciosa",
+      "piedra preciosa diamante gema joya piedra preciosa"
+    ],
+    "🔇": [
+      "altavoz silenciado",
+      "altavoz silenciado altavoz altavoz con marca de cancelación mute silencio"
+    ],
+    "🔈": ["altavoz a volumen bajo", "altavoz a volumen bajo volumen bajo"],
+    "🔉": [
+      "altavoz a volumen medio",
+      "altavoz a volumen medio altavoz con volumen medio medio volumen medio"
+    ],
+    "🔊": [
+      "altavoz a volumen alto",
+      "altavoz a volumen alto altavoz alto volumen alto"
+    ],
+    "📢": ["altavoz de mano", "altavoz de mano altavoz comunicación"],
+    "📣": ["megáfono", "megáfono comunicación"],
+    "📯": ["corneta de posta", "corneta de posta corneta posta"],
+    "🔔": ["campana", "campana campana"],
+    "🔕": [
+      "campana con signo de cancelación",
+      "campana con signo de cancelación campana cancelación ruido"
+    ],
+    "🎼": ["pentagrama", "pentagrama música partitura"],
+    "🎵": ["nota musical", "nota musical música nota"],
+    "🎶": ["notas musicales", "notas musicales música notas"],
+    "🎙️": [
+      "micrófono de estudio",
+      "micrófono de estudio estudio micrófono música"
+    ],
+    "🎚️": ["control de volumen", "control de volumen control fader volumen"],
+    "🎛️": [
+      "ruedas de control",
+      "ruedas de control control diales música potenciómetros ruedas"
+    ],
+    "🎤": ["micrófono", "micrófono entretenimiento karaoke micro"],
+    "🎧": ["auricular", "auricular cascos"],
+    "📻": ["radio", "radio radio"],
+    "🎷": ["saxofón", "saxofón instrumento instrumento musical música saxo"],
+    "🎺": ["trompeta", "trompeta instrumento instrumento musical música"],
+    "🪊": ["trombón", "trombón instrumento jazz metal música triste viento"],
+    "🪗": ["acordeón", "acordeón concertina"],
+    "🎸": ["guitarra", "guitarra instrumento instrumento musical música"],
+    "🎹": [
+      "teclado musical",
+      "teclado musical instrumento instrumento musical música piano teclado"
+    ],
+    "🎻": ["violín", "violín instrumento instrumento musical música"],
+    "🪕": ["banjo", "banjo banyo cuerda instrumento música"],
+    "🥁": ["tambor", "tambor baquetas música"],
+    "🪘": ["tamboril", "tamboril conga ritmo tambor"],
+    "🪇": [
+      "maracas",
+      "maracas agitar brasil instrumento movimiento música percusión"
+    ],
+    "🪈": [
+      "flauta",
+      "flauta flautín instrumento instrumento de viento madera música"
+    ],
+    "🪉": ["arpa", "arpa amor cupido harpa instrumento música orquesta"],
+    "📱": ["teléfono móvil", "teléfono móvil celular móvil teléfono"],
+    "📲": [
+      "móvil con una flecha",
+      "móvil con una flecha flecha llamada móvil recibir teléfono"
+    ],
+    "☎️": ["teléfono", "teléfono teléfono"],
+    "📞": [
+      "auricular de teléfono",
+      "auricular de teléfono comunicación teléfono"
+    ],
+    "📟": ["busca", "busca comunicación localizador"],
+    "📠": ["máquina de fax", "máquina de fax comunicación fax"],
+    "🔋": ["pila", "pila batería"],
+    "🪫": [
+      "batería baja",
+      "batería baja batería carga baja electrónico energía baja pila"
+    ],
+    "🔌": [
+      "enchufe eléctrico",
+      "enchufe eléctrico corriente electricidad eléctrico enchufe"
+    ],
+    "💻": ["ordenador portátil", "ordenador portátil ordenador pc personal"],
+    "🖥️": [
+      "ordenador de sobremesa",
+      "ordenador de sobremesa ordenador sobremesa"
+    ],
+    "🖨️": ["impresora", "impresora ordenador"],
+    "⌨️": ["teclado", "teclado ordenador"],
+    "🖱️": ["ratón de ordenador", "ratón de ordenador ordenador ratón"],
+    "🖲️": [
+      "bola de desplazamiento",
+      "bola de desplazamiento ordenador trackball"
+    ],
+    "💽": ["minidisc", "minidisc disco md"],
+    "💾": ["disquete", "disquete disco disco de 3 1/2"],
+    "💿": ["disco óptico", "disco óptico cd disco"],
+    "📀": ["disco DVD", "disco dvd disco dvd"],
+    "🧮": ["ábaco", "ábaco contar cálculo matemáticas"],
+    "🎥": [
+      "cámara de cine",
+      "cámara de cine cine cámara entretenimiento película"
+    ],
+    "🎞️": [
+      "fotograma de película",
+      "fotograma de película cine fotograma película"
+    ],
+    "📽️": ["proyector de cine", "proyector de cine cine película proyector"],
+    "🎬": [
+      "claqueta",
+      "claqueta cine claqueta de cine entretenimiento película"
+    ],
+    "📺": ["televisión", "televisión tv"],
+    "📷": ["cámara de fotos", "cámara de fotos cámara"],
+    "📸": ["cámara con flash", "cámara con flash cámara flash"],
+    "📹": ["videocámara", "videocámara cámara vídeo"],
+    "📼": ["cinta de vídeo", "cinta de vídeo cinta"],
+    "🔍": [
+      "lupa orientada hacia la izquierda",
+      "lupa orientada hacia la izquierda buscar lupa"
+    ],
+    "🔎": [
+      "lupa orientada hacia la derecha",
+      "lupa orientada hacia la derecha buscar lupa"
+    ],
+    "🕯️": ["vela", "vela luz"],
+    "💡": ["bombilla", "bombilla cómic electricidad idea luz"],
+    "🔦": ["linterna", "linterna luz"],
+    "🏮": [
+      "lámpara japonesa",
+      "lámpara japonesa izakaya linterna izakaya linterna japonesa lámpara roja restaurante"
+    ],
+    "🪔": ["lámpara de aceite", "lámpara de aceite aceite diya lámpara"],
+    "📔": [
+      "cuaderno con tapa decorativa",
+      "cuaderno con tapa decorativa cuaderno decoración tapa"
+    ],
+    "📕": ["libro cerrado", "libro cerrado cerrado libro"],
+    "📖": ["libro abierto", "libro abierto abierto libro"],
+    "📗": ["libro verde", "libro verde libro verde"],
+    "📘": ["libro azul", "libro azul azul libro"],
+    "📙": ["libro naranja", "libro naranja libro naranja"],
+    "📚": ["libros", "libros libro"],
+    "📓": ["cuaderno", "cuaderno libreta"],
+    "📒": ["libro de contabilidad", "libro de contabilidad cuaderno"],
+    "📃": ["página doblada", "página doblada documento página"],
+    "📜": ["pergamino", "pergamino pergamino de papel"],
+    "📄": [
+      "página hacia arriba",
+      "página hacia arriba anverso documento página"
+    ],
+    "📰": ["periódico", "periódico diario"],
+    "🗞️": [
+      "periódico enrollado",
+      "periódico enrollado noticias papel periódico"
+    ],
+    "📑": ["marcadores", "marcadores pestañas"],
+    "🔖": ["marcapáginas", "marcapáginas marcador"],
+    "🏷️": ["etiqueta", "etiqueta etiqueta"],
+    "🪙": ["moneda", "moneda dinero metal oro plata tesoro"],
+    "💰": ["bolsa de dinero", "bolsa de dinero bolsa bolsa de dólares dinero"],
+    "🪎": [
+      "cofre de tesoro",
+      "cofre de tesoro botín dinero joyas objetos de valor oro piedras preciosas plata premio riqueza"
+    ],
+    "💴": [
+      "billete de yen",
+      "billete de yen billete billete de banco dinero yen"
+    ],
+    "💵": [
+      "billete de dólar",
+      "billete de dólar billete billete de banco dinero dólar"
+    ],
+    "💶": [
+      "billete de euro",
+      "billete de euro billete billete de banco dinero euro"
+    ],
+    "💷": [
+      "billete de libra",
+      "billete de libra billete de banco dinero libra"
+    ],
+    "💸": [
+      "billete con alas",
+      "billete con alas billete billete de banco dinero dinero con alas"
+    ],
+    "💳": ["tarjeta de crédito", "tarjeta de crédito crédito tarjeta"],
+    "🧾": [
+      "recibo",
+      "recibo contabilidad prueba teneduría de libros testimonio"
+    ],
+    "💹": [
+      "mercado al alza",
+      "mercado al alza alza mercado mercado alcista tabla"
+    ],
+    "✉️": ["sobre", "sobre carta correo"],
+    "📧": [
+      "correo electrónico",
+      "correo electrónico comunicación correo sobre"
+    ],
+    "📨": [
+      "sobre entrante",
+      "sobre entrante carta comunicación correo correo electrónico sobre"
+    ],
+    "📩": [
+      "sobre con flecha",
+      "sobre con flecha carta comunicación correo correo electrónico sobre"
+    ],
+    "📤": [
+      "bandeja de salida",
+      "bandeja de salida bandeja comunicación correo enviado salida"
+    ],
+    "📥": [
+      "bandeja de entrada",
+      "bandeja de entrada bandeja comunicación correo entrada recibido"
+    ],
+    "📦": ["paquete", "paquete caja"],
+    "📫": [
+      "buzón cerrado con la bandera levantada",
+      "buzón cerrado con la bandera levantada bandera buzón buzón cerrado con contenido"
+    ],
+    "📪": [
+      "buzón cerrado con la bandera bajada",
+      "buzón cerrado con la bandera bajada bandera buzón buzón cerrado vacío"
+    ],
+    "📬": [
+      "buzón abierto con la bandera levantada",
+      "buzón abierto con la bandera levantada bandera buzón buzón abierto con contenido"
+    ],
+    "📭": [
+      "buzón abierto con la bandera bajada",
+      "buzón abierto con la bandera bajada bandera buzón buzón abierto vacío"
+    ],
+    "📮": ["buzón", "buzón cartas correo"],
+    "🗳️": ["urna con papeleta", "urna con papeleta papeleta urna voto"],
+    "✏️": ["lápiz", "lápiz escolar escribir lapicero"],
+    "✒️": ["pluma negra", "pluma negra bolígrafo escribir pluma tinta"],
+    "🖋️": ["estilográfica", "estilográfica bolígrafo escribir pluma tinta"],
+    "🖊️": ["bolígrafo", "bolígrafo boli escribir"],
+    "🖌️": ["pincel", "pincel pintar"],
+    "🖍️": ["lápiz de cera", "lápiz de cera cera lápiz"],
+    "📝": ["cuaderno de notas", "cuaderno de notas comunicación"],
+    "🪌": [
+      "goma de borrar",
+      "goma de borrar borrar corrección deshacer dibujar eliminar equivocación error escribir goma quitar"
+    ],
+    "💼": ["maletín", "maletín cartera documentos"],
+    "📁": ["carpeta de archivos", "carpeta de archivos archivo carpeta"],
+    "📂": [
+      "carpeta de archivos abierta",
+      "carpeta de archivos abierta abierta archivo carpeta"
+    ],
+    "🗂️": [
+      "separador de fichas",
+      "separador de fichas fichas fichero separador"
+    ],
+    "📅": ["calendario", "calendario fecha"],
+    "📆": ["calendario recortable", "calendario recortable calendario fecha"],
+    "🗒️": [
+      "bloc de notas de espiral",
+      "bloc de notas de espiral bloc cuaderno espiral notas"
+    ],
+    "🗓️": ["calendario de espiral", "calendario de espiral calendario espiral"],
+    "📇": [
+      "organizador de fichas",
+      "organizador de fichas cartera ficha organizador tarjetas"
+    ],
+    "📈": [
+      "gráfica de evolución ascendente",
+      "gráfica de evolución ascendente ascendente gráfica gráfico tendencia ascendente"
+    ],
+    "📉": [
+      "gráfica de evolución descendente",
+      "gráfica de evolución descendente descendente gráfica gráfico tendencia descendente"
+    ],
+    "📊": ["gráfico de barras", "gráfico de barras barras gráfico"],
+    "📋": ["portapapeles", "portapapeles papeles pinza tabla"],
+    "📌": ["chincheta", "chincheta tachuela"],
+    "📍": ["chincheta redonda", "chincheta redonda chincheta"],
+    "📎": ["clip", "clip clip"],
+    "🖇️": ["clips unidos", "clips unidos clips unidos unión"],
+    "📏": ["regla", "regla regla"],
+    "📐": ["escuadra", "escuadra regla regla triangular triángulo"],
+    "✂️": ["tijeras", "tijeras cortar herramienta"],
+    "🗃️": [
+      "archivador de tarjetas",
+      "archivador de tarjetas archivador archivo caja"
+    ],
+    "🗄️": ["archivador", "archivador archivos oficina organizador"],
+    "🗑️": ["papelera", "papelera basura cubo"],
+    "🔒": ["candado cerrado", "candado cerrado candado cerrado cerrar"],
+    "🔓": ["candado abierto", "candado abierto abierto abrir candado"],
+    "🔏": [
+      "candado con pluma estilográfica",
+      "candado con pluma estilográfica candado cerrado estilográfica pluma privacidad"
+    ],
+    "🔐": [
+      "candado cerrado y llave",
+      "candado cerrado y llave candado cerrado llave seguro"
+    ],
+    "🔑": ["llave", "llave contraseña"],
+    "🗝️": ["llave antigua", "llave antigua antigua llave"],
+    "🪍": [
+      "red con mango",
+      "red con mango atrapar capturar cazamariposas cazar malla pescar red"
+    ],
+    "🔨": ["martillo", "martillo herramienta"],
+    "🪓": ["hacha", "hacha cortar dividir hachuela madera talar"],
+    "⛏️": ["pico", "pico herramienta mina"],
+    "⚒️": ["martillo y pico", "martillo y pico herramienta martillo pico"],
+    "🛠️": [
+      "martillo y llave inglesa",
+      "martillo y llave inglesa herramienta llave inglesa martillo"
+    ],
+    "🗡️": ["puñal", "puñal arma cuchillo daga"],
+    "⚔️": ["espadas cruzadas", "espadas cruzadas arma cruzadas espadas"],
+    "💣": ["bomba", "bomba cómic emoción"],
+    "🪃": ["bumerán", "bumerán boomerang rebotar"],
+    "🏹": [
+      "arco y flecha",
+      "arco y flecha arco arquero flecha sagitario zodiaco"
+    ],
+    "🛡️": ["escudo", "escudo defensa"],
+    "🪚": [
+      "sierra de carpintería",
+      "sierra de carpintería carpintero carpintería herramienta sierra talar"
+    ],
+    "🔧": ["llave inglesa", "llave inglesa herramienta"],
+    "🪛": [
+      "destornillador",
+      "destornillador atornillador herramienta tornillo"
+    ],
+    "🔩": [
+      "tornillo y tuerca",
+      "tornillo y tuerca herramienta tornillo tuerca"
+    ],
+    "⚙️": ["engranaje", "engranaje herramienta"],
+    "🗜️": ["tornillo de banco", "tornillo de banco herramienta tornillo"],
+    "⚖️": ["balanza", "balanza justicia libra peso zodiaco"],
+    "🦯": ["bastón", "bastón accesibilidad ceguera ciega ciego invidente"],
+    "🔗": ["eslabón", "eslabón eslabón"],
+    "⛓️‍💥": ["cadena rota", "cadena rota cadena esposas libertad romper rotura"],
+    "⛓️": ["cadenas", "cadenas cadena"],
+    "🪝": ["gancho", "gancho agarrar anzuelo atrapar garfio"],
+    "🧰": [
+      "caja de herramientas",
+      "caja de herramientas armario herramienta mecánico"
+    ],
+    "🧲": ["imán", "imán atracción herradura magnético"],
+    "🪜": ["escalera", "escalera escalar escalerilla escalón peldaño"],
+    "🪏": [
+      "pala",
+      "pala agujero cavar enterrar excavar hoyo huerto nieve planta"
+    ],
+    "⚗️": ["alambique", "alambique herramienta química"],
+    "🧪": [
+      "tubo de ensayo",
+      "tubo de ensayo ciencia experimento laboratorio química químico"
+    ],
+    "🧫": [
+      "placa de petri",
+      "placa de petri bacterias biología biólogo cultivo laboratorio"
+    ],
+    "🧬": ["adn", "adn biólogo evolución gen genética vida"],
+    "🔬": ["microscopio", "microscopio instrumento laboratorio"],
+    "🔭": ["telescopio", "telescopio astronomía instrumento"],
+    "📡": [
+      "antena de satélite",
+      "antena de satélite antena comunicación satélite"
+    ],
+    "💉": ["jeringuilla", "jeringuilla aguja jeringa medicina médico"],
+    "🩸": [
+      "gota de sangre",
+      "gota de sangre donación de sangre donar sangre herida medicina sangre"
+    ],
+    "💊": ["píldora", "píldora comprimido medicina médico pastilla"],
+    "🩹": ["tirita", "tirita apósito"],
+    "🩼": [
+      "muleta",
+      "muleta ayuda para la movilidad bastón discapacidad lesión palo"
+    ],
+    "🩺": [
+      "estetoscopio",
+      "estetoscopio corazón doctor fonendoscopio latido medicina médico"
+    ],
+    "🩻": [
+      "radiografía",
+      "radiografía doctor doctora esqueleto huesos médico rayos"
+    ],
+    "🚪": ["puerta", "puerta puerta"],
+    "🛗": ["ascensor", "ascensor accesibilidad elevador montacargas"],
+    "🪞": ["espejo", "espejo espéculo reflector reflejo"],
+    "🪟": [
+      "ventana",
+      "ventana abertura apertura cristal marco transparente vista"
+    ],
+    "🛏️": ["cama", "cama dormir hotel"],
+    "🛋️": ["sofá y lámpara", "sofá y lámpara hotel lámpara sofá"],
+    "🪑": ["silla", "silla asiento sentarse"],
+    "🚽": ["inodoro", "inodoro baño váter wc"],
+    "🪠": ["desatascador", "desatascador fontanero retrete servicio succión"],
+    "🚿": ["ducha", "ducha agua baño"],
+    "🛁": ["bañera", "bañera baño"],
+    "🪤": [
+      "trampa de ratones",
+      "trampa de ratones cebo cepo engañar ratonera ratón trampa"
+    ],
+    "🪒": [
+      "cuchilla de afeitar",
+      "cuchilla de afeitar afeitado afeitar afilado barbero navaja"
+    ],
+    "🧴": [
+      "bote de crema",
+      "bote de crema champú crema hidratante protector solar"
+    ],
+    "🧷": ["imperdible", "imperdible pañal punk rock"],
+    "🧹": ["escoba", "escoba barrer bruja fregar"],
+    "🧺": ["cesta", "cesta colada cosecha pícnic"],
+    "🧻": ["rollo de papel", "rollo de papel papel absorbente papel higiénico"],
+    "🪣": ["cubo", "cubo balde barreño cuba cubeta"],
+    "🧼": ["jabón", "jabón bañarse enjabonarse jabonera lavarse pastilla"],
+    "🫧": ["burbujas", "burbujas bajo el agua eructar jabón limpiar"],
+    "🪥": [
+      "cepillo de dientes",
+      "cepillo de dientes cepillo dental higiene limpio servicio"
+    ],
+    "🧽": ["esponja", "esponja absorbente limpiar poroso"],
+    "🧯": ["extintor", "extintor apagar extinguir incendio"],
+    "🛒": [
+      "carrito de la compra",
+      "carrito de la compra carrito carro compra supermercado"
+    ],
+    "🚬": ["cigarrillo", "cigarrillo cigarro fumar"],
+    "⚰️": ["ataúd", "ataúd muerte"],
+    "🪦": ["lápida", "lápida cementario estela sepulcro tumba"],
+    "⚱️": ["urna funeraria", "urna funeraria funeraria muerte urna"],
+    "🧿": ["ojo turco", "ojo turco amuleto mal de ojo nazar talismán"],
+    "🪬": ["hamsa", "hamsa fátima maría miriam amuleto jamsa mano"],
+    "🗿": ["estatua moái", "estatua moái pascua estatua moái"],
+    "🪧": ["letrero", "letrero anuncio aviso cartel pancarta poste"],
+    "🪪": [
+      "carné de identidad",
+      "carné de identidad carné de conducir credenciales identificación permiso seguridad"
+    ],
+    "🏧": [
+      "señal de cajero automático",
+      "señal de cajero automático atm banco cajero"
+    ],
+    "🚮": [
+      "señal de usar papelera",
+      "señal de usar papelera basura papelera señal tirar la basura en la papelera"
+    ],
+    "🚰": ["agua potable", "agua potable agua potable"],
+    "♿": [
+      "símbolo de silla de ruedas",
+      "símbolo de silla de ruedas acceso señal silla silla de ruedas símbolo"
+    ],
+    "🚹": [
+      "aseo para hombres",
+      "aseo para hombres aseo de caballeros baño servicio señal señal con un hombre"
+    ],
+    "🚺": [
+      "señal de aseo para mujeres",
+      "señal de aseo para mujeres aseo de señoras baño servicio señal señal con una mujer"
+    ],
+    "🚻": ["señal de aseos", "señal de aseos aseos servicios wc"],
+    "🚼": ["señal de bebé", "señal de bebé bebé cambiar lactancia"],
+    "🚾": ["aseos", "aseos wc lavabo servicios"],
+    "🛂": ["control de pasaportes", "control de pasaportes control pasaportes"],
+    "🛃": ["aduana", "aduana aduana"],
+    "🛄": ["recogida de equipajes", "recogida de equipajes equipaje maleta"],
+    "🛅": [
+      "consigna",
+      "consigna depósito equipaje servicio de equipaje en depósito"
+    ],
+    "⚠️": ["advertencia", "advertencia cuidado señal"],
+    "🚸": ["niños cruzando", "niños cruzando cruzando niños señal"],
+    "⛔": [
+      "dirección prohibida",
+      "dirección prohibida no prohibido señal señal de dirección prohibida"
+    ],
+    "🚫": ["prohibido", "prohibido entrar no pasar prohibición"],
+    "🚳": [
+      "bicicletas prohibidas",
+      "bicicletas prohibidas bicicleta prohibido vehículo"
+    ],
+    "🚭": ["prohibido fumar", "prohibido fumar fumar no prohibido señal"],
+    "🚯": [
+      "prohibido tirar basura",
+      "prohibido tirar basura basura prohibido señal señal de no tirar basura"
+    ],
+    "🚱": ["agua no potable", "agua no potable agua no potable"],
+    "🚷": [
+      "prohibido el paso de peatones",
+      "prohibido el paso de peatones peatones peatón prohibido señal"
+    ],
+    "📵": [
+      "prohibido el uso de móviles",
+      "prohibido el uso de móviles móvil no hacer llamadas prohibido teléfono"
+    ],
+    "🔞": [
+      "prohibido para menos de 18 años",
+      "prohibido para menos de 18 años 18 no apto para menores prohibido prohibido para menores de 18 años"
+    ],
+    "☢️": [
+      "radiactivo",
+      "radiactivo radiactividad radioactividad radioactivo señal"
+    ],
+    "☣️": ["riesgo biológico", "riesgo biológico peligro señal"],
+    "⬆️": [
+      "flecha hacia arriba",
+      "flecha hacia arriba dirección flecha flecha arriba norte"
+    ],
+    "↗️": [
+      "flecha hacia la esquina superior derecha",
+      "flecha hacia la esquina superior derecha arriba derecha dirección flecha noreste"
+    ],
+    "➡️": [
+      "flecha hacia la derecha",
+      "flecha hacia la derecha derecha dirección este flecha"
+    ],
+    "↘️": [
+      "flecha hacia la esquina inferior derecha",
+      "flecha hacia la esquina inferior derecha abajo derecha dirección flecha sudeste"
+    ],
+    "⬇️": [
+      "flecha hacia abajo",
+      "flecha hacia abajo abajo dirección flecha sur"
+    ],
+    "↙️": [
+      "flecha hacia la esquina inferior izquierda",
+      "flecha hacia la esquina inferior izquierda abajo dirección flecha izquierda suroeste"
+    ],
+    "⬅️": [
+      "flecha hacia la izquierda",
+      "flecha hacia la izquierda flecha izquierda oeste"
+    ],
+    "↖️": [
+      "flecha hacia la esquina superior izquierda",
+      "flecha hacia la esquina superior izquierda arriba dirección flecha izquierda noroeste"
+    ],
+    "↕️": [
+      "flecha arriba y abajo",
+      "flecha arriba y abajo abajo arriba dirección flecha"
+    ],
+    "↔️": [
+      "flecha izquierda y derecha",
+      "flecha izquierda y derecha derecha dirección flecha izquierda"
+    ],
+    "↩️": [
+      "flecha derecha curvándose a la izquierda",
+      "flecha derecha curvándose a la izquierda curva dirección flecha izquierda"
+    ],
+    "↪️": [
+      "flecha izquierda curvándose a la derecha",
+      "flecha izquierda curvándose a la derecha curva derecha dirección flecha"
+    ],
+    "⤴️": [
+      "flecha derecha curvándose hacia arriba",
+      "flecha derecha curvándose hacia arriba arriba curva dirección flecha"
+    ],
+    "⤵️": [
+      "flecha derecha curvándose hacia abajo",
+      "flecha derecha curvándose hacia abajo abajo curva dirección flecha"
+    ],
+    "🔃": [
+      "flechas verticales en sentido horario",
+      "flechas verticales en sentido horario flechas flechas verticales sentido horario horario señal de recarga"
+    ],
+    "🔄": [
+      "flechas en sentido antihorario",
+      "flechas en sentido antihorario dirección flechas sentido antihorario señal de recarga"
+    ],
+    "🔙": [
+      "flecha BACK",
+      "flecha back atrás atrás con flecha izquierda back flecha flecha a la izquierda"
+    ],
+    "🔚": [
+      "flecha END",
+      "flecha end final final con flecha izquierda flecha flecha a la izquierda"
+    ],
+    "🔛": [
+      "flecha ON!",
+      "flecha on! flecha flecha de doble punta con la palabra \"on\" encima on señal"
+    ],
+    "🔜": [
+      "flecha SOON",
+      "flecha soon flecha soon soon con flecha a la derecha"
+    ],
+    "🔝": [
+      "flecha TOP",
+      "flecha top arriba flecha hacia arriba top top con flecha hacia arriba"
+    ],
+    "🛐": ["lugar de culto", "lugar de culto culto religión"],
+    "⚛️": ["símbolo de átomo", "símbolo de átomo símbolo átomo"],
+    "🕉️": ["om", "om hindú religión"],
+    "✡️": [
+      "estrella de David",
+      "estrella de david david estrella judaísmo judío religión"
+    ],
+    "☸️": [
+      "rueda del dharma",
+      "rueda del dharma budismo dharma religión rueda"
+    ],
+    "☯️": ["yin yang", "yin yang religión taoísmo yang yin"],
+    "✝️": ["cruz latina", "cruz latina cristianismo cruz religión"],
+    "☦️": ["cruz ortodoxa", "cruz ortodoxa cruz religión"],
+    "☪️": [
+      "media luna y estrella",
+      "media luna y estrella estrella islam luna religión"
+    ],
+    "☮️": ["símbolo de la paz", "símbolo de la paz paz"],
+    "🕎": ["menorá", "menorá candelabro religión"],
+    "🔯": [
+      "estrella de seis puntas",
+      "estrella de seis puntas adivinación buena fortuna estrella seis puntas"
+    ],
+    "🪯": ["khanda", "khanda religión sij sijismo sikh"],
+    "♈": ["Aries", "aries carnero horóscopo zodiaco"],
+    "♉": ["Tauro", "tauro buey horóscopo toro zodiaco"],
+    "♊": ["Géminis", "géminis gemelos horóscopo zodiaco"],
+    "♋": ["Cáncer", "cáncer cangrejo horóscopo zodiaco"],
+    "♌": ["Leo", "leo horóscopo león zodiaco"],
+    "♍": ["Virgo", "virgo horóscopo zodiaco"],
+    "♎": ["Libra", "libra balanza escala horóscopo justicia zodiaco"],
+    "♏": ["Escorpio", "escorpio escorpión horóscopo zodiaco"],
+    "♐": ["Sagitario", "sagitario arquero horóscopo zodiaco"],
+    "♑": ["Capricornio", "capricornio cabra horóscopo zodiaco"],
+    "♒": ["Acuario", "acuario agua horóscopo zodiaco"],
+    "♓": ["Piscis", "piscis horóscopo pescado pez zodiaco"],
+    "⛎": ["Ofiuco", "ofiuco horóscopo portador serpiente zodiaco"],
+    "🔀": [
+      "reproducción aleatoria",
+      "reproducción aleatoria cruzado flechas flechas entrecruzadas"
+    ],
+    "🔁": ["repetir", "repetir flechas repetición"],
+    "🔂": ["repetir una vez", "repetir una vez flechas repetición uno"],
+    "▶️": ["reproducir", "reproducir botón de reproducción flecha triángulo"],
+    "⏩": ["avance rápido", "avance rápido avanzar doble flecha"],
+    "⏭️": [
+      "pista siguiente",
+      "pista siguiente raya vertical siguiente triángulos"
+    ],
+    "⏯️": [
+      "reproducir o pausa",
+      "reproducir o pausa pausa reproducir triángulo"
+    ],
+    "◀️": ["retroceso", "retroceso izquierda triángulo"],
+    "⏪": [
+      "retroceso rápido",
+      "retroceso rápido flecha flecha doble a la izquierda izquierda rebobinado rebobinar"
+    ],
+    "⏮️": ["pista anterior", "pista anterior atrás escena anterior triángulo"],
+    "🔼": [
+      "triángulo hacia arriba",
+      "triángulo hacia arriba arriba botón botón triángulo hacia arriba triángulo"
+    ],
+    "⏫": [
+      "triángulo doble hacia arriba",
+      "triángulo doble hacia arriba arriba flecha"
+    ],
+    "🔽": [
+      "triángulo hacia abajo",
+      "triángulo hacia abajo abajo botón botón triángulo hacia abajo triángulo"
+    ],
+    "⏬": [
+      "triángulo doble hacia abajo",
+      "triángulo doble hacia abajo triángulo triángulo doble abajo"
+    ],
+    "⏸️": ["pausa", "pausa barras botón vertical"],
+    "⏹️": ["detener", "detener botón cuadrado parar"],
+    "⏺️": ["grabar", "grabar botón círculo"],
+    "⏏️": ["expulsar", "expulsar botón"],
+    "🎦": ["cine", "cine entretenimiento película"],
+    "🔅": ["brillo bajo", "brillo bajo bajo brillo señal de brillo bajo tenue"],
+    "🔆": [
+      "brillo alto",
+      "brillo alto alto brillante brillo señal de brillo alto"
+    ],
+    "📶": [
+      "barras de cobertura",
+      "barras de cobertura antena celular móvil señal teléfono"
+    ],
+    "🛜": ["wifi", "wifi conexión inalámbrica internet red wi-fi"],
+    "📳": [
+      "modo vibración",
+      "modo vibración móvil teléfono teléfono celular vibración"
+    ],
+    "📴": [
+      "teléfono móvil apagado",
+      "teléfono móvil apagado apagado móvil teléfono teléfono celular"
+    ],
+    "♀️": ["signo femenino", "signo femenino mujer signo símbolo"],
+    "♂️": ["signo masculino", "signo masculino hombre signo símbolo"],
+    "⚧️": ["símbolo de transgénero", "símbolo de transgénero transgénero"],
+    "✖️": [
+      "multiplicación",
+      "multiplicación cancelar marca prohibido signo de multiplicación x ×"
+    ],
+    "➕": ["más", "más + signo suma"],
+    "➖": ["menos", "menos - resta signo −"],
+    "➗": ["división", "división signo signo de división ÷"],
+    "🟰": [
+      "signo igual grueso",
+      "signo igual grueso equivalencia igualdad matemáticas mates"
+    ],
+    "♾️": ["infinito", "infinito ilimitado siempre universal"],
+    "‼️": [
+      "exclamación doble",
+      "exclamación doble !! exclamación puntuación sorpresa"
+    ],
+    "⁉️": [
+      "exclamación e interrogación",
+      "exclamación e interrogación ! !? ? exclamación interrogación"
+    ],
+    "❓": [
+      "interrogación roja",
+      "interrogación roja ? interrogación pregunta puntuación signo de interrogación"
+    ],
+    "❔": [
+      "interrogación blanca",
+      "interrogación blanca ? interrogación pregunta puntuación"
+    ],
+    "❕": ["exclamación blanca", "exclamación blanca ! exclamación puntuación"],
+    "❗": [
+      "exclamación roja",
+      "exclamación roja ! exclamación puntuación signo de exclamación"
+    ],
+    "〰️": [
+      "guion ondulado",
+      "guion ondulado guion marca de sonido largo ondulado"
+    ],
+    "💱": [
+      "cambio de divisas",
+      "cambio de divisas cambio dinero divisa moneda"
+    ],
+    "💲": ["símbolo de dólar", "símbolo de dólar dinero dólar símbolo"],
+    "⚕️": [
+      "símbolo de medicina",
+      "símbolo de medicina asclepio esculapio medicina serpiente"
+    ],
+    "♻️": [
+      "símbolo de reciclaje",
+      "símbolo de reciclaje reciclaje reciclar señal símbolo universal de reciclaje sólido universal"
+    ],
+    "⚜️": ["flor de lis", "flor de lis flor lis"],
+    "🔱": ["emblema de tridente", "emblema de tridente ancla emblema tridente"],
+    "📛": [
+      "etiqueta identificativa",
+      "etiqueta identificativa etiqueta nombre"
+    ],
+    "🔰": [
+      "símbolo japonés para principiante",
+      "símbolo japonés para principiante amarillo japonés principiante verde"
+    ],
+    "⭕": ["círculo rojo hueco", "círculo rojo hueco aro círculo o rojo"],
+    "✅": [
+      "botón de marca de verificación",
+      "botón de marca de verificación botón marca selección verificación ✓"
+    ],
+    "☑️": [
+      "casilla con marca de verificación",
+      "casilla con marca de verificación casilla marca selección verificación ✓"
+    ],
+    "✔️": [
+      "marca de verificación",
+      "marca de verificación marca selección verificación ✓"
+    ],
+    "❌": [
+      "marca de cruz",
+      "marca de cruz cancelar cruz marca de tachado tachar x ×"
+    ],
+    "❎": [
+      "botón con marca de cruz",
+      "botón con marca de cruz casilla cruz marca x ×"
+    ],
+    "➰": ["bucle", "bucle giro tirabuzón"],
+    "➿": ["bucle doble", "bucle doble bucle doble"],
+    "〽️": ["marca de alternancia", "marca de alternancia alternancia marca"],
+    "✳️": ["asterisco de ocho puntas", "asterisco de ocho puntas * asterisco"],
+    "✴️": ["estrella de ocho puntas", "estrella de ocho puntas * estrella"],
+    "❇️": ["chispa", "chispa *"],
+    "©️": ["copyright", "copyright c símbolo"],
+    "®️": [
+      "marca registrada",
+      "marca registrada r símbolo de marca registrada"
+    ],
+    "™️": [
+      "símbolo de marca comercial",
+      "símbolo de marca comercial marca comercial"
+    ],
+    "🫟": [
+      "salpicadura",
+      "salpicadura gotear líquido mancha manchar pintura salpicar tinta"
+    ],
+    "#️⃣": ["Teclas: #", "teclas: # teclas"],
+    "*️⃣": ["Teclas: *", "teclas: * teclas"],
+    "0️⃣": ["tecla: 0", "tecla: 0 0 cero tecla"],
+    "1️⃣": ["tecla: 1", "tecla: 1 1 tecla uno"],
+    "2️⃣": ["tecla: 2", "tecla: 2 2 dos tecla"],
+    "3️⃣": ["tecla: 3", "tecla: 3 3 tecla tres"],
+    "4️⃣": ["tecla: 4", "tecla: 4 4 cuatro tecla"],
+    "5️⃣": ["tecla: 5", "tecla: 5 5 cinco tecla"],
+    "6️⃣": ["tecla: 6", "tecla: 6 6 seis tecla"],
+    "7️⃣": ["tecla: 7", "tecla: 7 7 siete tecla"],
+    "8️⃣": ["tecla: 8", "tecla: 8 8 ocho tecla"],
+    "9️⃣": ["tecla: 9", "tecla: 9 9 nueve tecla"],
+    "🔟": ["Teclas: 10", "teclas: 10 teclas"],
+    "🔠": [
+      "letras latinas mayúsculas",
+      "letras latinas mayúsculas abcd letras mayúsculas"
+    ],
+    "🔡": [
+      "letras latinas minúsculas",
+      "letras latinas minúsculas abcd letras minúsculas"
+    ],
+    "🔢": ["números", "números 1234 dígitos"],
+    "🔣": ["símbolos", "símbolos 〒♪&%"],
+    "🔤": ["alfabeto latino", "alfabeto latino abc latino"],
+    "🅰️": ["grupo sanguíneo A", "grupo sanguíneo a a grupo sanguíneo tipo a"],
+    "🆎": [
+      "grupo sanguíneo AB",
+      "grupo sanguíneo ab ab grupo sanguíneo tipo ab"
+    ],
+    "🅱️": ["grupo sanguíneo B", "grupo sanguíneo b b grupo sanguíneo tipo b"],
+    "🆑": ["borrar", "borrar símbolo"],
+    "🆒": ["botón COOL", "botón cool botón cool mola"],
+    "🆓": ["botón FREE", "botón free gratis símbolo gratis"],
+    "ℹ️": ["información", "información i"],
+    "🆔": [
+      "símbolo de identificación",
+      "símbolo de identificación id identidad símbolo identidad"
+    ],
+    "Ⓜ️": ["m en círculo", "m en círculo círculo m"],
+    "🆕": ["botón NEW", "botón new new botón nuevo"],
+    "🆖": ["botón NG", "botón ng botón ng nuevo"],
+    "🅾️": [
+      "grupo sanguíneo tipo O",
+      "grupo sanguíneo tipo o grupo sanguíneo o"
+    ],
+    "🆗": ["botón OK", "botón ok botón ok"],
+    "🅿️": ["aparcamiento", "aparcamiento p parking"],
+    "🆘": [
+      "símbolo de socorro",
+      "símbolo de socorro ayuda socorro sos símbolo"
+    ],
+    "🆙": ["botón UP!", "botón up! arriba información novedad símbolo up"],
+    "🆚": ["botón VS", "botón vs contra frente a símbolo versus vs"],
+    "🈁": [
+      "ideograma japonés para \"aquí\"",
+      "ideograma japonés para \"aquí\" japonés katakana “aquí”"
+    ],
+    "🈂️": [
+      "ideograma japonés para \"de cortesía\"",
+      "ideograma japonés para \"de cortesía\" cortesía japonés katakana"
+    ],
+    "🈷️": [
+      "ideograma japonés para \"cantidad mensual\"",
+      "ideograma japonés para \"cantidad mensual\" ideograma japonés kanji “cantidad mensual”"
+    ],
+    "🈶": [
+      "ideograma japonés para \"de pago\"",
+      "ideograma japonés para \"de pago\" ideograma japonés kanji “de pago”"
+    ],
+    "🈯": [
+      "ideograma japonés para \"reservado\"",
+      "ideograma japonés para \"reservado\" ideograma japonés kanji reservado"
+    ],
+    "🉐": [
+      "ideograma japonés para \"ganga\"",
+      "ideograma japonés para \"ganga\" ganga ideograma japonés kanji"
+    ],
+    "🈹": [
+      "ideograma japonés para \"descuento\"",
+      "ideograma japonés para \"descuento\" descuento ideograma japonés kanji"
+    ],
+    "🈚": [
+      "ideograma japonés para \"gratis\"",
+      "ideograma japonés para \"gratis\" gratis ideograma japonés kanji"
+    ],
+    "🈲": [
+      "ideograma japonés para \"prohibido\"",
+      "ideograma japonés para \"prohibido\" ideograma japonés kanji prohibido"
+    ],
+    "🉑": [
+      "ideograma japonés para \"aceptable\"",
+      "ideograma japonés para \"aceptable\" aceptable ideograma japonés kanji"
+    ],
+    "🈸": [
+      "ideograma japonés para \"aplicación\"",
+      "ideograma japonés para \"aplicación\" aplicación ideograma japonés kanji"
+    ],
+    "🈴": [
+      "ideograma japonés para \"aprobado\"",
+      "ideograma japonés para \"aprobado\" aprobado ideograma japonés kanji"
+    ],
+    "🈳": [
+      "ideograma japonés para \"vacante\"",
+      "ideograma japonés para \"vacante\" ideograma japonés kanji vacante"
+    ],
+    "㊗️": [
+      "ideograma japonés para \"enhorabuena\"",
+      "ideograma japonés para \"enhorabuena\" enhorabuena ideograma japonés kanji"
+    ],
+    "㊙️": [
+      "ideograma japonés para \"secreto\"",
+      "ideograma japonés para \"secreto\" ideograma japonés kanji secreto"
+    ],
+    "🈺": [
+      "ideograma japonés para \"abierto\"",
+      "ideograma japonés para \"abierto\" abierto ideograma japonés kanji"
+    ],
+    "🈵": [
+      "ideograma japonés para \"completo\"",
+      "ideograma japonés para \"completo\" completo ideograma japonés kanji lleno"
+    ],
+    "🔴": ["círculo rojo", "círculo rojo círculo geometría rojo"],
+    "🟠": ["círculo naranja", "círculo naranja círculo naranja"],
+    "🟡": ["círculo amarillo", "círculo amarillo amarillo círculo"],
+    "🟢": ["círculo verde", "círculo verde círculo verde"],
+    "🔵": ["círculo azul", "círculo azul azul círculo geometría"],
+    "🟣": ["círculo morado", "círculo morado círculo lila morado púrpura"],
+    "🟤": ["círculo marrón", "círculo marrón círculo marrón"],
+    "⚫": ["círculo negro", "círculo negro círculo geometría"],
+    "⚪": ["círculo blanco", "círculo blanco círculo geometría"],
+    "🟥": ["cuadrado rojo", "cuadrado rojo cuadrado rojo"],
+    "🟧": ["cuadrado naranja", "cuadrado naranja cuadrado naranja"],
+    "🟨": ["cuadrado amarillo", "cuadrado amarillo amarillo cuadrado"],
+    "🟩": ["cuadrado verde", "cuadrado verde cuadrado verde"],
+    "🟦": ["cuadrado azul", "cuadrado azul azul cuadrado"],
+    "🟪": ["cuadrado morado", "cuadrado morado cuadrado lila morado púrpura"],
+    "🟫": ["cuadrado marrón", "cuadrado marrón cuadrado marrón"],
+    "⬛": [
+      "cuadrado negro grande",
+      "cuadrado negro grande cuadrado geometría negro"
+    ],
+    "⬜": [
+      "cuadrado blanco grande",
+      "cuadrado blanco grande blanco cuadrado geometría"
+    ],
+    "◼️": [
+      "cuadrado negro mediano",
+      "cuadrado negro mediano cuadrado geometría negro"
+    ],
+    "◻️": [
+      "cuadrado blanco mediano",
+      "cuadrado blanco mediano blanco cuadrado geometría"
+    ],
+    "◾": [
+      "cuadrado negro mediano-pequeño",
+      "cuadrado negro mediano-pequeño cuadrado geometría negro"
+    ],
+    "◽": [
+      "cuadrado blanco mediano-pequeño",
+      "cuadrado blanco mediano-pequeño blanco cuadrado geometría"
+    ],
+    "▪️": [
+      "cuadrado negro pequeño",
+      "cuadrado negro pequeño cuadrado geometría negro"
+    ],
+    "▫️": [
+      "cuadrado blanco pequeño",
+      "cuadrado blanco pequeño blanco cuadrado geometría"
+    ],
+    "🔶": [
+      "rombo naranja grande",
+      "rombo naranja grande geometría naranja rombo"
+    ],
+    "🔷": ["rombo azul grande", "rombo azul grande azul geometría rombo"],
+    "🔸": [
+      "rombo naranja pequeño",
+      "rombo naranja pequeño geometría naranja rombo"
+    ],
+    "🔹": ["rombo azul pequeño", "rombo azul pequeño azul geometría rombo"],
+    "🔺": [
+      "triángulo rojo hacia arriba",
+      "triángulo rojo hacia arriba geometría rojo triángulo triángulo hacia arriba rojo"
+    ],
+    "🔻": [
+      "triángulo rojo hacia abajo",
+      "triángulo rojo hacia abajo geometría rojo triángulo triángulo hacia abajo rojo"
+    ],
+    "💠": ["rombo con pétalo", "rombo con pétalo flor geometría rombo"],
+    "🔘": ["botón de opción", "botón de opción botón opción"],
+    "🔳": [
+      "botón cuadrado con borde blanco",
+      "botón cuadrado con borde blanco botón cuadrado"
+    ],
+    "🔲": [
+      "botón cuadrado con borde negro",
+      "botón cuadrado con borde negro botón cuadrado"
+    ],
+    "🏁": [
+      "bandera de cuadros",
+      "bandera de cuadros bandera carreras cuadros deporte motor"
+    ],
+    "🚩": [
+      "bandera triangular",
+      "bandera triangular bandera bandera de localización triangular bandera informativa de localización localización"
+    ],
+    "🎌": ["banderas cruzadas", "banderas cruzadas banderas celebración japón"],
+    "🏴": ["bandera negra", "bandera negra bandera negra ondear"],
+    "🏳️": ["bandera blanca", "bandera blanca bandera blanca ondear"],
+    "🏳️‍🌈": ["bandera del arcoíris", "bandera del arcoíris arcoíris bandera"],
+    "🏳️‍⚧️": [
+      "bandera transgénero",
+      "bandera transgénero lgtb azul bandera blanco rosa transgénero"
+    ],
+    "🏴‍☠️": ["bandera pirata", "bandera pirata jolly roger botín pirata tesoro"],
+    "🇦🇨": [
+      "Bandera: Isla de la Ascensión",
+      "bandera: isla de la ascensión ac bandera"
+    ],
+    "🇦🇩": ["Bandera: Andorra", "bandera: andorra ad bandera"],
+    "🇦🇪": [
+      "Bandera: Emiratos Árabes Unidos",
+      "bandera: emiratos árabes unidos ae bandera"
+    ],
+    "🇦🇫": ["Bandera: Afganistán", "bandera: afganistán af bandera"],
+    "🇦🇬": [
+      "Bandera: Antigua y Barbuda",
+      "bandera: antigua y barbuda ag bandera"
+    ],
+    "🇦🇮": ["Bandera: Anguila", "bandera: anguila ai bandera"],
+    "🇦🇱": ["Bandera: Albania", "bandera: albania al bandera"],
+    "🇦🇲": ["Bandera: Armenia", "bandera: armenia am bandera"],
+    "🇦🇴": ["Bandera: Angola", "bandera: angola ao bandera"],
+    "🇦🇶": ["Bandera: Antártida", "bandera: antártida aq bandera"],
+    "🇦🇷": ["Bandera: Argentina", "bandera: argentina ar bandera"],
+    "🇦🇸": ["Bandera: Samoa Americana", "bandera: samoa americana as bandera"],
+    "🇦🇹": ["Bandera: Austria", "bandera: austria at bandera"],
+    "🇦🇺": ["Bandera: Australia", "bandera: australia au bandera"],
+    "🇦🇼": ["Bandera: Aruba", "bandera: aruba aw bandera"],
+    "🇦🇽": ["Bandera: Islas Aland", "bandera: islas aland ax bandera"],
+    "🇦🇿": ["Bandera: Azerbaiyán", "bandera: azerbaiyán az bandera"],
+    "🇧🇦": [
+      "Bandera: Bosnia y Herzegovina",
+      "bandera: bosnia y herzegovina ba bandera"
+    ],
+    "🇧🇧": ["Bandera: Barbados", "bandera: barbados bb bandera"],
+    "🇧🇩": ["Bandera: Bangladés", "bandera: bangladés bd bandera"],
+    "🇧🇪": ["Bandera: Bélgica", "bandera: bélgica be bandera"],
+    "🇧🇫": ["Bandera: Burkina Faso", "bandera: burkina faso bf bandera"],
+    "🇧🇬": ["Bandera: Bulgaria", "bandera: bulgaria bg bandera"],
+    "🇧🇭": ["Bandera: Baréin", "bandera: baréin bh bandera"],
+    "🇧🇮": ["Bandera: Burundi", "bandera: burundi bi bandera"],
+    "🇧🇯": ["Bandera: Benín", "bandera: benín bj bandera"],
+    "🇧🇱": ["Bandera: San Bartolomé", "bandera: san bartolomé bl bandera"],
+    "🇧🇲": ["Bandera: Bermudas", "bandera: bermudas bm bandera"],
+    "🇧🇳": ["Bandera: Brunéi", "bandera: brunéi bn bandera"],
+    "🇧🇴": ["Bandera: Bolivia", "bandera: bolivia bo bandera"],
+    "🇧🇶": [
+      "Bandera: Caribe neerlandés",
+      "bandera: caribe neerlandés bq bandera"
+    ],
+    "🇧🇷": ["Bandera: Brasil", "bandera: brasil br bandera"],
+    "🇧🇸": ["Bandera: Bahamas", "bandera: bahamas bs bandera"],
+    "🇧🇹": ["Bandera: Bután", "bandera: bután bt bandera"],
+    "🇧🇻": ["Bandera: Isla Bouvet", "bandera: isla bouvet bv bandera"],
+    "🇧🇼": ["Bandera: Botsuana", "bandera: botsuana bw bandera"],
+    "🇧🇾": ["Bandera: Bielorrusia", "bandera: bielorrusia by bandera"],
+    "🇧🇿": ["Bandera: Belice", "bandera: belice bz bandera"],
+    "🇨🇦": ["Bandera: Canadá", "bandera: canadá bandera ca"],
+    "🇨🇨": ["Bandera: Islas Cocos", "bandera: islas cocos bandera cc"],
+    "🇨🇩": [
+      "Bandera: República Democrática del Congo",
+      "bandera: república democrática del congo bandera cd"
+    ],
+    "🇨🇫": [
+      "Bandera: República Centroafricana",
+      "bandera: república centroafricana bandera cf"
+    ],
+    "🇨🇬": ["Bandera: Congo", "bandera: congo bandera cg"],
+    "🇨🇭": ["Bandera: Suiza", "bandera: suiza bandera ch"],
+    "🇨🇮": ["Bandera: Côte d’Ivoire", "bandera: côte d’ivoire bandera ci"],
+    "🇨🇰": ["Bandera: Islas Cook", "bandera: islas cook bandera ck"],
+    "🇨🇱": ["Bandera: Chile", "bandera: chile bandera cl"],
+    "🇨🇲": ["Bandera: Camerún", "bandera: camerún bandera cm"],
+    "🇨🇳": ["Bandera: China", "bandera: china bandera cn"],
+    "🇨🇴": ["Bandera: Colombia", "bandera: colombia bandera co"],
+    "🇨🇵": ["Bandera: Isla Clipperton", "bandera: isla clipperton bandera cp"],
+    "🇨🇶": ["Bandera: Sark", "bandera: sark bandera cq"],
+    "🇨🇷": ["Bandera: Costa Rica", "bandera: costa rica bandera cr"],
+    "🇨🇺": ["Bandera: Cuba", "bandera: cuba bandera cu"],
+    "🇨🇻": ["Bandera: Cabo Verde", "bandera: cabo verde bandera cv"],
+    "🇨🇼": ["Bandera: Curazao", "bandera: curazao bandera cw"],
+    "🇨🇽": ["Bandera: Isla de Navidad", "bandera: isla de navidad bandera cx"],
+    "🇨🇾": ["Bandera: Chipre", "bandera: chipre bandera cy"],
+    "🇨🇿": ["Bandera: Chequia", "bandera: chequia bandera cz"],
+    "🇩🇪": ["Bandera: Alemania", "bandera: alemania bandera de"],
+    "🇩🇬": ["Bandera: Diego García", "bandera: diego garcía bandera dg"],
+    "🇩🇯": ["Bandera: Yibuti", "bandera: yibuti bandera dj"],
+    "🇩🇰": ["Bandera: Dinamarca", "bandera: dinamarca bandera dk"],
+    "🇩🇲": ["Bandera: Dominica", "bandera: dominica bandera dm"],
+    "🇩🇴": [
+      "Bandera: República Dominicana",
+      "bandera: república dominicana bandera do"
+    ],
+    "🇩🇿": ["Bandera: Argelia", "bandera: argelia bandera dz"],
+    "🇪🇦": ["Bandera: Ceuta y Melilla", "bandera: ceuta y melilla bandera ea"],
+    "🇪🇨": ["Bandera: Ecuador", "bandera: ecuador bandera ec"],
+    "🇪🇪": ["Bandera: Estonia", "bandera: estonia bandera ee"],
+    "🇪🇬": ["Bandera: Egipto", "bandera: egipto bandera eg"],
+    "🇪🇭": [
+      "Bandera: Sáhara Occidental",
+      "bandera: sáhara occidental bandera eh"
+    ],
+    "🇪🇷": ["Bandera: Eritrea", "bandera: eritrea bandera er"],
+    "🇪🇸": ["Bandera: España", "bandera: españa bandera es"],
+    "🇪🇹": ["Bandera: Etiopía", "bandera: etiopía bandera et"],
+    "🇪🇺": ["Bandera: Unión Europea", "bandera: unión europea bandera eu"],
+    "🇫🇮": ["Bandera: Finlandia", "bandera: finlandia bandera fi"],
+    "🇫🇯": ["Bandera: Fiyi", "bandera: fiyi bandera fj"],
+    "🇫🇰": ["Bandera: Islas Malvinas", "bandera: islas malvinas bandera fk"],
+    "🇫🇲": ["Bandera: Micronesia", "bandera: micronesia bandera fm"],
+    "🇫🇴": ["Bandera: Islas Feroe", "bandera: islas feroe bandera fo"],
+    "🇫🇷": ["Bandera: Francia", "bandera: francia bandera fr"],
+    "🇬🇦": ["Bandera: Gabón", "bandera: gabón bandera ga"],
+    "🇬🇧": ["Bandera: Reino Unido", "bandera: reino unido bandera gb"],
+    "🇬🇩": ["Bandera: Granada", "bandera: granada bandera gd"],
+    "🇬🇪": ["Bandera: Georgia", "bandera: georgia bandera ge"],
+    "🇬🇫": ["Bandera: Guayana Francesa", "bandera: guayana francesa bandera gf"],
+    "🇬🇬": ["Bandera: Guernesey", "bandera: guernesey bandera gg"],
+    "🇬🇭": ["Bandera: Ghana", "bandera: ghana bandera gh"],
+    "🇬🇮": ["Bandera: Gibraltar", "bandera: gibraltar bandera gi"],
+    "🇬🇱": ["Bandera: Groenlandia", "bandera: groenlandia bandera gl"],
+    "🇬🇲": ["Bandera: Gambia", "bandera: gambia bandera gm"],
+    "🇬🇳": ["Bandera: Guinea", "bandera: guinea bandera gn"],
+    "🇬🇵": ["Bandera: Guadalupe", "bandera: guadalupe bandera gp"],
+    "🇬🇶": [
+      "Bandera: Guinea Ecuatorial",
+      "bandera: guinea ecuatorial bandera gq"
+    ],
+    "🇬🇷": ["Bandera: Grecia", "bandera: grecia bandera gr"],
+    "🇬🇸": [
+      "Bandera: Islas Georgia del Sur y Sandwich del Sur",
+      "bandera: islas georgia del sur y sandwich del sur bandera gs"
+    ],
+    "🇬🇹": ["Bandera: Guatemala", "bandera: guatemala bandera gt"],
+    "🇬🇺": ["Bandera: Guam", "bandera: guam bandera gu"],
+    "🇬🇼": ["Bandera: Guinea-Bisáu", "bandera: guinea-bisáu bandera gw"],
+    "🇬🇾": ["Bandera: Guyana", "bandera: guyana bandera gy"],
+    "🇭🇰": [
+      "Bandera: RAE de Hong Kong (China)",
+      "bandera: rae de hong kong (china) bandera hk"
+    ],
+    "🇭🇲": [
+      "Bandera: Islas Heard y McDonald",
+      "bandera: islas heard y mcdonald bandera hm"
+    ],
+    "🇭🇳": ["Bandera: Honduras", "bandera: honduras bandera hn"],
+    "🇭🇷": ["Bandera: Croacia", "bandera: croacia bandera hr"],
+    "🇭🇹": ["Bandera: Haití", "bandera: haití bandera ht"],
+    "🇭🇺": ["Bandera: Hungría", "bandera: hungría bandera hu"],
+    "🇮🇨": ["Bandera: Canarias", "bandera: canarias bandera ic"],
+    "🇮🇩": ["Bandera: Indonesia", "bandera: indonesia bandera id"],
+    "🇮🇪": ["Bandera: Irlanda", "bandera: irlanda bandera ie"],
+    "🇮🇱": ["Bandera: Israel", "bandera: israel bandera il"],
+    "🇮🇲": ["Bandera: Isla de Man", "bandera: isla de man bandera im"],
+    "🇮🇳": ["Bandera: India", "bandera: india bandera in"],
+    "🇮🇴": [
+      "Bandera: Territorio Británico del Océano Índico",
+      "bandera: territorio británico del océano índico bandera io"
+    ],
+    "🇮🇶": ["Bandera: Irak", "bandera: irak bandera iq"],
+    "🇮🇷": ["Bandera: Irán", "bandera: irán bandera ir"],
+    "🇮🇸": ["Bandera: Islandia", "bandera: islandia bandera is"],
+    "🇮🇹": ["Bandera: Italia", "bandera: italia bandera it"],
+    "🇯🇪": ["Bandera: Jersey", "bandera: jersey bandera je"],
+    "🇯🇲": ["Bandera: Jamaica", "bandera: jamaica bandera jm"],
+    "🇯🇴": ["Bandera: Jordania", "bandera: jordania bandera jo"],
+    "🇯🇵": ["Bandera: Japón", "bandera: japón bandera jp"],
+    "🇰🇪": ["Bandera: Kenia", "bandera: kenia bandera ke"],
+    "🇰🇬": ["Bandera: Kirguistán", "bandera: kirguistán bandera kg"],
+    "🇰🇭": ["Bandera: Camboya", "bandera: camboya bandera kh"],
+    "🇰🇮": ["Bandera: Kiribati", "bandera: kiribati bandera ki"],
+    "🇰🇲": ["Bandera: Comoras", "bandera: comoras bandera km"],
+    "🇰🇳": [
+      "Bandera: San Cristóbal y Nieves",
+      "bandera: san cristóbal y nieves bandera kn"
+    ],
+    "🇰🇵": ["Bandera: Corea del Norte", "bandera: corea del norte bandera kp"],
+    "🇰🇷": ["Bandera: Corea del Sur", "bandera: corea del sur bandera kr"],
+    "🇰🇼": ["Bandera: Kuwait", "bandera: kuwait bandera kw"],
+    "🇰🇾": ["Bandera: Islas Caimán", "bandera: islas caimán bandera ky"],
+    "🇰🇿": ["Bandera: Kazajistán", "bandera: kazajistán bandera kz"],
+    "🇱🇦": ["Bandera: Laos", "bandera: laos bandera la"],
+    "🇱🇧": ["Bandera: Líbano", "bandera: líbano bandera lb"],
+    "🇱🇨": ["Bandera: Santa Lucía", "bandera: santa lucía bandera lc"],
+    "🇱🇮": ["Bandera: Liechtenstein", "bandera: liechtenstein bandera li"],
+    "🇱🇰": ["Bandera: Sri Lanka", "bandera: sri lanka bandera lk"],
+    "🇱🇷": ["Bandera: Liberia", "bandera: liberia bandera lr"],
+    "🇱🇸": ["Bandera: Lesoto", "bandera: lesoto bandera ls"],
+    "🇱🇹": ["Bandera: Lituania", "bandera: lituania bandera lt"],
+    "🇱🇺": ["Bandera: Luxemburgo", "bandera: luxemburgo bandera lu"],
+    "🇱🇻": ["Bandera: Letonia", "bandera: letonia bandera lv"],
+    "🇱🇾": ["Bandera: Libia", "bandera: libia bandera ly"],
+    "🇲🇦": ["Bandera: Marruecos", "bandera: marruecos bandera ma"],
+    "🇲🇨": ["Bandera: Mónaco", "bandera: mónaco bandera mc"],
+    "🇲🇩": ["Bandera: Moldavia", "bandera: moldavia bandera md"],
+    "🇲🇪": ["Bandera: Montenegro", "bandera: montenegro bandera me"],
+    "🇲🇫": ["Bandera: San Martín", "bandera: san martín bandera mf"],
+    "🇲🇬": ["Bandera: Madagascar", "bandera: madagascar bandera mg"],
+    "🇲🇭": ["Bandera: Islas Marshall", "bandera: islas marshall bandera mh"],
+    "🇲🇰": [
+      "Bandera: Macedonia del Norte",
+      "bandera: macedonia del norte bandera mk"
+    ],
+    "🇲🇱": ["Bandera: Mali", "bandera: mali bandera ml"],
+    "🇲🇲": [
+      "Bandera: Myanmar (Birmania)",
+      "bandera: myanmar (birmania) bandera mm"
+    ],
+    "🇲🇳": ["Bandera: Mongolia", "bandera: mongolia bandera mn"],
+    "🇲🇴": [
+      "Bandera: RAE de Macao (China)",
+      "bandera: rae de macao (china) bandera mo"
+    ],
+    "🇲🇵": [
+      "Bandera: Islas Marianas del Norte",
+      "bandera: islas marianas del norte bandera mp"
+    ],
+    "🇲🇶": ["Bandera: Martinica", "bandera: martinica bandera mq"],
+    "🇲🇷": ["Bandera: Mauritania", "bandera: mauritania bandera mr"],
+    "🇲🇸": ["Bandera: Montserrat", "bandera: montserrat bandera ms"],
+    "🇲🇹": ["Bandera: Malta", "bandera: malta bandera mt"],
+    "🇲🇺": ["Bandera: Mauricio", "bandera: mauricio bandera mu"],
+    "🇲🇻": ["Bandera: Maldivas", "bandera: maldivas bandera mv"],
+    "🇲🇼": ["Bandera: Malaui", "bandera: malaui bandera mw"],
+    "🇲🇽": ["Bandera: México", "bandera: méxico bandera mx"],
+    "🇲🇾": ["Bandera: Malasia", "bandera: malasia bandera my"],
+    "🇲🇿": ["Bandera: Mozambique", "bandera: mozambique bandera mz"],
+    "🇳🇦": ["Bandera: Namibia", "bandera: namibia bandera na"],
+    "🇳🇨": ["Bandera: Nueva Caledonia", "bandera: nueva caledonia bandera nc"],
+    "🇳🇪": ["Bandera: Níger", "bandera: níger bandera ne"],
+    "🇳🇫": ["Bandera: Isla Norfolk", "bandera: isla norfolk bandera nf"],
+    "🇳🇬": ["Bandera: Nigeria", "bandera: nigeria bandera ng"],
+    "🇳🇮": ["Bandera: Nicaragua", "bandera: nicaragua bandera ni"],
+    "🇳🇱": ["Bandera: Países Bajos", "bandera: países bajos bandera nl"],
+    "🇳🇴": ["Bandera: Noruega", "bandera: noruega bandera no"],
+    "🇳🇵": ["Bandera: Nepal", "bandera: nepal bandera np"],
+    "🇳🇷": ["Bandera: Nauru", "bandera: nauru bandera nr"],
+    "🇳🇺": ["Bandera: Niue", "bandera: niue bandera nu"],
+    "🇳🇿": ["Bandera: Nueva Zelanda", "bandera: nueva zelanda bandera nz"],
+    "🇴🇲": ["Bandera: Omán", "bandera: omán bandera om"],
+    "🇵🇦": ["Bandera: Panamá", "bandera: panamá bandera pa"],
+    "🇵🇪": ["Bandera: Perú", "bandera: perú bandera pe"],
+    "🇵🇫": [
+      "Bandera: Polinesia Francesa",
+      "bandera: polinesia francesa bandera pf"
+    ],
+    "🇵🇬": [
+      "Bandera: Papúa Nueva Guinea",
+      "bandera: papúa nueva guinea bandera pg"
+    ],
+    "🇵🇭": ["Bandera: Filipinas", "bandera: filipinas bandera ph"],
+    "🇵🇰": ["Bandera: Pakistán", "bandera: pakistán bandera pk"],
+    "🇵🇱": ["Bandera: Polonia", "bandera: polonia bandera pl"],
+    "🇵🇲": [
+      "Bandera: San Pedro y Miquelón",
+      "bandera: san pedro y miquelón bandera pm"
+    ],
+    "🇵🇳": ["Bandera: Islas Pitcairn", "bandera: islas pitcairn bandera pn"],
+    "🇵🇷": ["Bandera: Puerto Rico", "bandera: puerto rico bandera pr"],
+    "🇵🇸": [
+      "Bandera: Territorios Palestinos",
+      "bandera: territorios palestinos bandera ps"
+    ],
+    "🇵🇹": ["Bandera: Portugal", "bandera: portugal bandera pt"],
+    "🇵🇼": ["Bandera: Palaos", "bandera: palaos bandera pw"],
+    "🇵🇾": ["Bandera: Paraguay", "bandera: paraguay bandera py"],
+    "🇶🇦": ["Bandera: Catar", "bandera: catar bandera qa"],
+    "🇷🇪": ["Bandera: Reunión", "bandera: reunión bandera re"],
+    "🇷🇴": ["Bandera: Rumanía", "bandera: rumanía bandera ro"],
+    "🇷🇸": ["Bandera: Serbia", "bandera: serbia bandera rs"],
+    "🇷🇺": ["Bandera: Rusia", "bandera: rusia bandera ru"],
+    "🇷🇼": ["Bandera: Ruanda", "bandera: ruanda bandera rw"],
+    "🇸🇦": ["Bandera: Arabia Saudí", "bandera: arabia saudí bandera sa"],
+    "🇸🇧": ["Bandera: Islas Salomón", "bandera: islas salomón bandera sb"],
+    "🇸🇨": ["Bandera: Seychelles", "bandera: seychelles bandera sc"],
+    "🇸🇩": ["Bandera: Sudán", "bandera: sudán bandera sd"],
+    "🇸🇪": ["Bandera: Suecia", "bandera: suecia bandera se"],
+    "🇸🇬": ["Bandera: Singapur", "bandera: singapur bandera sg"],
+    "🇸🇭": ["Bandera: Santa Elena", "bandera: santa elena bandera sh"],
+    "🇸🇮": ["Bandera: Eslovenia", "bandera: eslovenia bandera si"],
+    "🇸🇯": [
+      "Bandera: Svalbard y Jan Mayen",
+      "bandera: svalbard y jan mayen bandera sj"
+    ],
+    "🇸🇰": ["Bandera: Eslovaquia", "bandera: eslovaquia bandera sk"],
+    "🇸🇱": ["Bandera: Sierra Leona", "bandera: sierra leona bandera sl"],
+    "🇸🇲": ["Bandera: San Marino", "bandera: san marino bandera sm"],
+    "🇸🇳": ["Bandera: Senegal", "bandera: senegal bandera sn"],
+    "🇸🇴": ["Bandera: Somalia", "bandera: somalia bandera so"],
+    "🇸🇷": ["Bandera: Surinam", "bandera: surinam bandera sr"],
+    "🇸🇸": ["Bandera: Sudán del Sur", "bandera: sudán del sur bandera ss"],
+    "🇸🇹": [
+      "Bandera: Santo Tomé y Príncipe",
+      "bandera: santo tomé y príncipe bandera st"
+    ],
+    "🇸🇻": ["Bandera: El Salvador", "bandera: el salvador bandera sv"],
+    "🇸🇽": ["Bandera: Sint Maarten", "bandera: sint maarten bandera sx"],
+    "🇸🇾": ["Bandera: Siria", "bandera: siria bandera sy"],
+    "🇸🇿": ["Bandera: Esuatini", "bandera: esuatini bandera sz"],
+    "🇹🇦": ["Bandera: Tristán de Acuña", "bandera: tristán de acuña bandera ta"],
+    "🇹🇨": [
+      "Bandera: Islas Turcas y Caicos",
+      "bandera: islas turcas y caicos bandera tc"
+    ],
+    "🇹🇩": ["Bandera: Chad", "bandera: chad bandera td"],
+    "🇹🇫": [
+      "Bandera: Territorios Australes Franceses",
+      "bandera: territorios australes franceses bandera tf"
+    ],
+    "🇹🇬": ["Bandera: Togo", "bandera: togo bandera tg"],
+    "🇹🇭": ["Bandera: Tailandia", "bandera: tailandia bandera th"],
+    "🇹🇯": ["Bandera: Tayikistán", "bandera: tayikistán bandera tj"],
+    "🇹🇰": ["Bandera: Tokelau", "bandera: tokelau bandera tk"],
+    "🇹🇱": ["Bandera: Timor-Leste", "bandera: timor-leste bandera tl"],
+    "🇹🇲": ["Bandera: Turkmenistán", "bandera: turkmenistán bandera tm"],
+    "🇹🇳": ["Bandera: Túnez", "bandera: túnez bandera tn"],
+    "🇹🇴": ["Bandera: Tonga", "bandera: tonga bandera to"],
+    "🇹🇷": ["Bandera: Turquía", "bandera: turquía bandera tr"],
+    "🇹🇹": [
+      "Bandera: Trinidad y Tobago",
+      "bandera: trinidad y tobago bandera tt"
+    ],
+    "🇹🇻": ["Bandera: Tuvalu", "bandera: tuvalu bandera tv"],
+    "🇹🇼": ["Bandera: Taiwán", "bandera: taiwán bandera tw"],
+    "🇹🇿": ["Bandera: Tanzania", "bandera: tanzania bandera tz"],
+    "🇺🇦": ["Bandera: Ucrania", "bandera: ucrania bandera ua"],
+    "🇺🇬": ["Bandera: Uganda", "bandera: uganda bandera ug"],
+    "🇺🇲": [
+      "Bandera: Islas menores alejadas de EE. UU.",
+      "bandera: islas menores alejadas de ee. uu. bandera um"
+    ],
+    "🇺🇳": ["Bandera: Naciones Unidas", "bandera: naciones unidas bandera un"],
+    "🇺🇸": ["Bandera: Estados Unidos", "bandera: estados unidos bandera us"],
+    "🇺🇾": ["Bandera: Uruguay", "bandera: uruguay bandera uy"],
+    "🇺🇿": ["Bandera: Uzbekistán", "bandera: uzbekistán bandera uz"],
+    "🇻🇦": [
+      "Bandera: Ciudad del Vaticano",
+      "bandera: ciudad del vaticano bandera va"
+    ],
+    "🇻🇨": [
+      "Bandera: San Vicente y las Granadinas",
+      "bandera: san vicente y las granadinas bandera vc"
+    ],
+    "🇻🇪": ["Bandera: Venezuela", "bandera: venezuela bandera ve"],
+    "🇻🇬": [
+      "Bandera: Islas Vírgenes Británicas",
+      "bandera: islas vírgenes británicas bandera vg"
+    ],
+    "🇻🇮": [
+      "Bandera: Islas Vírgenes de EE. UU.",
+      "bandera: islas vírgenes de ee. uu. bandera vi"
+    ],
+    "🇻🇳": ["Bandera: Vietnam", "bandera: vietnam bandera vn"],
+    "🇻🇺": ["Bandera: Vanuatu", "bandera: vanuatu bandera vu"],
+    "🇼🇫": ["Bandera: Wallis y Futuna", "bandera: wallis y futuna bandera wf"],
+    "🇼🇸": ["Bandera: Samoa", "bandera: samoa bandera ws"],
+    "🇽🇰": ["Bandera: Kosovo", "bandera: kosovo bandera xk"],
+    "🇾🇪": ["Bandera: Yemen", "bandera: yemen bandera ye"],
+    "🇾🇹": ["Bandera: Mayotte", "bandera: mayotte bandera yt"],
+    "🇿🇦": ["Bandera: Sudáfrica", "bandera: sudáfrica bandera za"],
+    "🇿🇲": ["Bandera: Zambia", "bandera: zambia bandera zm"],
+    "🇿🇼": ["Bandera: Zimbabue", "bandera: zimbabue bandera zw"],
+    "🏴󠁧󠁢󠁥󠁮󠁧󠁿": ["Bandera: Inglaterra", "bandera: inglaterra bandera gbeng"],
+    "🏴󠁧󠁢󠁳󠁣󠁴󠁿": ["Bandera: Escocia", "bandera: escocia bandera gbsct"],
+    "🏴󠁧󠁢󠁷󠁬󠁳󠁿": ["Bandera: Gales", "bandera: gales bandera gbwls"]
+  }
+}

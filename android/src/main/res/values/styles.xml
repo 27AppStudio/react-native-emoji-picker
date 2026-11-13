@@ -1,0 +1,8 @@
+<resources>
+
+    <!-- The theme the picker's bottom sheet is built with, over the activity. Apps
+         restyle the sheet by redefining this style in their own styles.xml:
+         colorSurfaceContainerLow is the sheet, colorAccent the selected category. -->
+    <style name="Theme.RNEmojiPicker" parent="Theme.Material3.DayNight.BottomSheetDialog" />
+
+</resources>

@@ -1,0 +1,4671 @@
+{
+  "recents": "Veelgebruikt",
+  "search": "Zoek",
+  "groups": {
+    "smileys-emotion": "smileys & emotie",
+    "people-body": "mensen & lichaam",
+    "component": "componenten",
+    "animals-nature": "dieren & natuur",
+    "food-drink": "eten & drinken",
+    "travel-places": "reizen & plaatsen",
+    "activities": "activiteiten",
+    "objects": "objecten",
+    "symbols": "symbolen",
+    "flags": "vlaggen"
+  },
+  "names": {
+    "😀": [
+      "grijnzend gezicht",
+      "grijnzend gezicht blij fijn gezicht glimlachen grijns grijnzend lach lachen leuk tanden vrolijk"
+    ],
+    "😃": [
+      "grijnzend gezicht met grote ogen",
+      "grijnzend gezicht met grote ogen blij gaaf gezicht glimlachen grijns grijnzend groot joepie lach mond ogen open tanden"
+    ],
+    "😄": [
+      "grijnzend gezicht met lachende ogen",
+      "grijnzend gezicht met lachende ogen blij gezicht glimlachen grijns grijnzend lach lachen lol mond ogen oog open"
+    ],
+    "😁": [
+      "stralend gezicht met lachende ogen",
+      "stralend gezicht met lachende ogen blij fijn gezicht glimlachen grijns grijnzend lach ogen oog stralend tanden"
+    ],
+    "😆": [
+      "grijnzend gezicht met dichtgeknepen ogen",
+      "grijnzend gezicht met dichtgeknepen ogen blij gesloten gezicht glimlachen grijnzend haha hahaha lach lachen lol mond ogen open rofl scheelzien"
+    ],
+    "😅": [
+      "grijnzend gezicht met zweetdruppels",
+      "grijnzend gezicht met zweetdruppels gestrest gezicht glimlachen grijnzend koud lach mond neerslachtig nerveus open opgewonden stress zweet"
+    ],
+    "🤣": [
+      "gezicht dat op de grond rolt van het lachen",
+      "gezicht dat op de grond rolt van het lachen blij gezicht grappig haha hehe hilarisch huilen lachen lmao lol rofl roflmao rollen traan vloer vreugde"
+    ],
+    "😂": [
+      "gezicht met tranen van vreugde",
+      "gezicht met tranen van vreugde blij gevoelens gezicht grappig haha hehe hilarisch huilen lachen lmao lol rofl roflmao traan vreugde"
+    ],
+    "🙂": [
+      "enigszins lachend gezicht",
+      "enigszins lachend gezicht blij enigszins gezicht glimlachen lach"
+    ],
+    "🙃": [
+      "omgekeerd gezicht",
+      "omgekeerd gezicht gezicht glimlach hehe omgekeerd"
+    ],
+    "🫠": [
+      "smeltend gezicht",
+      "smeltend gezicht beschaamd gezicht haha heet lol oplossen sarcasme sarcastisch smelt smelten verdwijnen vloeibaar warm"
+    ],
+    "🫫": [
+      "barstend gezicht",
+      "barstend gezicht afbrokkelend brekend maskeren onthullen spanning transformatie weerbarstig"
+    ],
+    "😉": [
+      "knipogend gezicht",
+      "knipogend gezicht flirten gezicht hartenbreker knipogen knipoog knipoogt plagerij sexy zwoel"
+    ],
+    "😊": [
+      "lachend gezicht met lachende ogen",
+      "lachend gezicht met lachende ogen blozen gelukkig gezicht glimlach glimlachen ogen oog tevreden"
+    ],
+    "😇": [
+      "lachend gezicht met halo",
+      "lachend gezicht met halo blij elfje engel engelachtig engelen fantasie geest gezegend gezicht glimlach glimlachen onschuldig sprookje stralenkrans verhaal vredig"
+    ],
+    "🥰": [
+      "lachend gezicht met hartjes",
+      "lachend gezicht met hartjes 3 crush dol gezicht glimlach glimlachen hart hartjes hou van jou jou liefde romantiek"
+    ],
+    "😍": [
+      "lachend gezicht met hartvormige ogen",
+      "lachend gezicht met hartvormige ogen gevoelens gezicht hartjes hartjesogen kussen lach liefde oog romantiek schatje"
+    ],
+    "🤩": [
+      "sterren in de ogen",
+      "sterren in de ogen gezicht grijnzend lach ogen opgewonden ster sterren als ogen wauw"
+    ],
+    "😘": [
+      "gezicht dat kus toeblaast",
+      "gezicht dat kus toeblaast flirten gezicht hartje kus kusje blazen kussen romantiek smiley xoxo zoen"
+    ],
+    "😗": [
+      "kussend gezicht",
+      "kussend gezicht afspraakje date gezicht hou van jou hvj kus kussen smiley xoxo zoen"
+    ],
+    "☺️": [
+      "lachend gezicht",
+      "lachend gezicht blij gezicht lach lachen omtrek ontspannen"
+    ],
+    "😚": [
+      "kussend gezicht met gesloten ogen",
+      "kussend gezicht met gesloten ogen blosjes blozen gesloten gesloten ogen gezicht kus kussend gezicht met ogen dicht oog rode wangen smiley zoen"
+    ],
+    "😙": [
+      "kussend gezicht met lachende ogen",
+      "kussend gezicht met lachende ogen 143 afspraakje daten flirten gesloten gezicht ik hou van je kus kussen lach lachen liefde nacht ogen oog"
+    ],
+    "🥲": [
+      "lachend gezicht met traan",
+      "lachend gezicht met traan aangedaan blij dankbaar enigszins lachend gelukkig opgelucht smiley traan trots"
+    ],
+    "😋": [
+      "lachend gezicht dat lippen likt",
+      "lachend gezicht dat lippen likt genieten gezicht glimlach jammie lachend gezicht lekker mmm smiley smullen"
+    ],
+    "😛": [
+      "gezicht met uitgestoken tong",
+      "gezicht met uitgestoken tong gezicht gezicht met uitgestoken tong en open ogen grapje grappig ontdeugend smiley tong tong uitsteken uitgesteken tong"
+    ],
+    "😜": [
+      "knipoog met uitgestoken tong",
+      "knipoog met uitgestoken tong gezicht gezicht met uitgestoken tong en knipoog grap grapjas knipoog oog plagen smiley tong"
+    ],
+    "🤪": [
+      "gek gezicht",
+      "gek gezicht gekke blik gestoord groot klein oog smiley"
+    ],
+    "😝": [
+      "gezicht met uitgestoken tong en dichtgeknepen ogen",
+      "gezicht met uitgestoken tong en dichtgeknepen ogen bah dichte ogen gezicht oog smaak smerig smiley tong uitgestoken tong vies vreselijk"
+    ],
+    "🤑": [
+      "gezicht met geld in de mond",
+      "gezicht met geld in de mond betaald geld geldmond gezicht mond"
+    ],
+    "🤗": [
+      "blij gezicht met uitgestoken handen",
+      "blij gezicht met uitgestoken handen blij gezicht handen knuffel knuffelen uitgestoken"
+    ],
+    "🤭": [
+      "gezicht met hand over de mond",
+      "gezicht met hand over de mond geheim geschrokken gezicht met hand over mond giechelen oeps smiley verrast"
+    ],
+    "🫢": [
+      "gezicht met open ogen en hand voor mond",
+      "gezicht met open ogen en hand voor mond bang geschokt gezicht met open ogen en hand over de mond ongeloof ontzag schaamte smiley verbazing verrassing"
+    ],
+    "🫣": [
+      "gezicht met glurend oog",
+      "gezicht met glurend oog geboeid gluren smiley spieken staren stiekem stiekem kijken"
+    ],
+    "🤫": [
+      "gezicht dat tot stilte maant",
+      "gezicht dat tot stilte maant gezicht manen sst stil stilte"
+    ],
+    "🤔": [
+      "nadenkend gezicht",
+      "nadenkend gezicht afvragen denken gezicht hmm kin nadenken nadenkend overwegen"
+    ],
+    "🫡": [
+      "saluerend gezicht",
+      "saluerend gezicht bevel ja oké saluut smiley troepen zonnig"
+    ],
+    "🤐": [
+      "gezicht met een rits als mond",
+      "gezicht met een rits als mond dicht geheim gezicht houden mond rits rits als mond stil zwijg"
+    ],
+    "🤨": [
+      "gezicht met opgeheven wenkbrauw",
+      "gezicht met opgeheven wenkbrauw afkeurend frons gezicht met opgetrokken wenkbrauw hmm ongeloof sceptisch skeptisch smiley verrassing wantrouwen wantrouwend wat"
+    ],
+    "😐": [
+      "neutraal gezicht",
+      "neutraal gezicht geen commentaar gezicht jaloers neutraal niet leuk ongemakkelijk pokerface pokergezicht uitdrukkingsloos uitgestreken"
+    ],
+    "😑": [
+      "uitdrukkingsloos gezicht",
+      "uitdrukkingsloos gezicht dichtgeknepen geen commentaar geen uitdrukking gezicht jaloers lame omg ontevreden smiley tegenzin ugh uitdrukkingsloos vooruit wtf"
+    ],
+    "😶": [
+      "gezicht zonder mond",
+      "gezicht zonder mond geen mond geheim gezicht mond niets zeggen persoon rustig smiley sprakeloos stil zwijgen"
+    ],
+    "🫥": [
+      "gezicht in stippellijn",
+      "gezicht in stippellijn depressief depri gedeprimeerd introvert onzichtbaar smiley verbergen verdwijnen"
+    ],
+    "😶‍🌫️": [
+      "gezicht in de wolken",
+      "gezicht in de wolken afwezig gezicht in de mist hoofd in de wolken"
+    ],
+    "😏": [
+      "gniffelend gezicht",
+      "gniffelend gezicht arrogant flirten gezicht gezicht met grote grijns gladjes gniffelen grijnzen schuin smiley swag vol van zichzelf wenkbrauwen"
+    ],
+    "😒": [
+      "chagrijnig gezicht",
+      "chagrijnig gezicht boos ehm gezicht jaloers niet blij niet leuk ongelukkig smiley ugh uhh verveeld whatever"
+    ],
+    "🙄": [
+      "gezicht met rollende ogen",
+      "gezicht met rollende ogen gezicht ogen rollen rollen met de ogen schaduw ugh wat dan ook"
+    ],
+    "😬": [
+      "gezicht met grimas",
+      "gezicht met grimas gezicht grimas grimasgezicht grinniken niks oeps ongemakkelijk smiley tanden op elkaar"
+    ],
+    "😮‍💨": [
+      "gezicht dat uitademt",
+      "gezicht dat uitademt blazen fluisteren fluiten kreunen naar adem snakken opgelucht roken rook smiley uitademen uitgeput"
+    ],
+    "🤥": [
+      "liegend gezicht",
+      "liegend gezicht gezicht leugen leugenaar liegen pinokkio"
+    ],
+    "🫨": [
+      "schuddend gezicht",
+      "schuddend gezicht aardbeving gek gezicht omg paniek schok schudden trillen verbijstering verrassing wauw wow"
+    ],
+    "🙂‍↔️": [
+      "hoofd dat horizontaal beweegt",
+      "hoofd dat horizontaal beweegt bewegen heen en weer horizontaal nee schudden van links naar rechts"
+    ],
+    "🙂‍↕️": [
+      "hoofd dat verticaal beweegt",
+      "hoofd dat verticaal beweegt bewegen instemmen ja knikken op en neer verticaal"
+    ],
+    "😌": [
+      "opgelucht gezicht",
+      "opgelucht gezicht gezicht kalmte opgelucht opluchting vrede zen"
+    ],
+    "😔": [
+      "peinzend gezicht",
+      "peinzend gezicht afgewezen balen gezicht moedeloos peinzend smiley teleurgesteld terneergeslagen triest verdrietig verloren"
+    ],
+    "😪": [
+      "slaperig gezicht",
+      "slaperig gezicht gezicht huilen slaap smiley traan"
+    ],
+    "🤤": ["kwijlend gezicht", "kwijlend gezicht gezicht kwijlend"],
+    "😴": [
+      "slapend gezicht",
+      "slapend gezicht bedtijd dutje gapen gezicht moe slaap slaap lekker slapen smiley vermoeid welterusten zzz"
+    ],
+    "🫩": [
+      "gezicht met wallen onder de ogen",
+      "gezicht met wallen onder de ogen moe slaperig uitgeput"
+    ],
+    "😷": [
+      "gezicht met doktersmasker",
+      "gezicht met doktersmasker besmet dokter doktersmasker gezicht gezicht met masker koud masker medicijn medisch masker smiley virus ziek"
+    ],
+    "🤒": [
+      "gezicht met thermometer",
+      "gezicht met thermometer gezicht niet lekker thermometer ziek"
+    ],
+    "🤕": [
+      "gezicht met een verband om het hoofd",
+      "gezicht met een verband om het hoofd gewond gezicht gezicht met hoofdverband pijn verband verwonding"
+    ],
+    "🤢": [
+      "misselijk gezicht",
+      "misselijk gezicht gadver gezicht misselijk overgeven vies ziek"
+    ],
+    "🤮": [
+      "brakend gezicht",
+      "brakend gezicht braaksel braken misselijk overgeven spuwen walgelijk ziek"
+    ],
+    "🤧": [
+      "niezend gezicht",
+      "niezend gezicht gezicht gezondheid griep koorts niezen niezend ziek"
+    ],
+    "🥵": [
+      "heet gezicht",
+      "heet gezicht beroerte gezicht heet hijgen hitte koortsig rood gezicht sterven tong zweten"
+    ],
+    "🥶": [
+      "koud gezicht",
+      "koud gezicht bevriezen bevriezing blauw gezicht ijspegels koud onder nul tanden"
+    ],
+    "🥴": [
+      "wazig gezicht",
+      "wazig gezicht aangeschoten beneveld beschonken dronken duizelig gezicht mond ogen scheel wazig"
+    ],
+    "😵": [
+      "duizelig gezicht",
+      "duizelig gezicht dood duizelig gezicht gezicht met mond open en kruisjes als ogen smiley ziek"
+    ],
+    "😵‍💫": [
+      "gezicht met spiraalvormige ogen",
+      "gezicht met spiraalvormige ogen dronken duizelig gehypnotiseerd probleem smiley spiraalvormig stoned verward wow"
+    ],
+    "🤯": [
+      "ontploffend hoofd",
+      "ontploffend hoofd exploderen geschokt ondersteboven onmogelijk smiley verbaasd verbijsterd verrast wow"
+    ],
+    "🤠": [
+      "gezicht met cowboyhoed",
+      "gezicht met cowboyhoed cowboy cowgirl gezicht hoed"
+    ],
+    "🥳": [
+      "feestend gezicht",
+      "feestend gezicht feest feesten fuif gelukkig gezicht hoed hoera opgewonden roltong verjaardag vieren viering"
+    ],
+    "🥸": [
+      "vermomd gezicht",
+      "vermomd gezicht bril gezicht incognito neus smiley snor vermomming wenkbrauwen"
+    ],
+    "😎": [
+      "lachend gezicht met zonnebril",
+      "lachend gezicht met zonnebril bril chillen cool gaaf geweldig gezicht glimlach ontspannen stijl stoer strand zonnebril"
+    ],
+    "🤓": [
+      "nerdgezicht",
+      "nerdgezicht geek gezicht gezicht met bril en tanden nerd nerderig smiley"
+    ],
+    "🧐": [
+      "gezicht met monocle",
+      "gezicht met monocle chic gezicht klasse monocle rijk saai"
+    ],
+    "😕": [
+      "verward gezicht",
+      "verward gezicht gezicht hmm ik weet het niet in de war ontevreden peinzend smiley teleurgesteld uhm verward"
+    ],
+    "🫤": [
+      "gezicht met schuine mond",
+      "gezicht met schuine mond gefrustreerd het zal wel meh onzeker sceptisch smiley teleurgesteld"
+    ],
+    "😟": [
+      "bezorgd gezicht",
+      "bezorgd gezicht bedroefd bezorgd gestresst gezicht nerveus smiley stress triest zenuwen zorgen"
+    ],
+    "🙁": [
+      "licht fronsend gezicht",
+      "licht fronsend gezicht fronsen fronsend gezicht licht verdrietig"
+    ],
+    "☹️": [
+      "fronsend gezicht",
+      "fronsend gezicht fronsen fronsend gezicht verdrietig"
+    ],
+    "😮": [
+      "gezicht met open mond",
+      "gezicht met open mond geschokt geschrokken mond oeps omg ongelofelijk ongelooflijk open sympathie vergeten wauw"
+    ],
+    "😯": [
+      "verstomd gezicht",
+      "verstomd gezicht geschokt gezicht omg smiley verbaasd verrast verstomd wauw wow"
+    ],
+    "😲": [
+      "verbaasd gezicht",
+      "verbaasd gezicht geschokt gezicht kosten nee omg totaal verbaasd"
+    ],
+    "😳": [
+      "blozend gezicht",
+      "blozend gezicht beschaamd gek gezicht heet hitte jeetje onder de indruk ongeloof ongemakkelijk sjonge verbaasd verbijsterd wat wauw"
+    ],
+    "🫪": [
+      "verwrongen gezicht",
+      "verwrongen gezicht geschokt kwetsbaar onrust opgeblazen paniek verrast"
+    ],
+    "🥺": [
+      "smekend gezicht",
+      "smekend gezicht alsjeblieft genade gezicht grote ogen smeken smekende blik smiley verdrietig waarom niet zielig gezicht"
+    ],
+    "🥹": [
+      "gezicht dat tranen tegenhoudt",
+      "gezicht dat tranen tegenhoudt alsjeblieft aww beschaamd bewondering dankbaar dankbaarheid gevoelens houden huilen tegen tranen trots verdrietig vreugde weerstaan"
+    ],
+    "😦": [
+      "fronsend gezicht met open mond",
+      "fronsend gezicht met open mond bang betrapt eng frons fronsen gezicht hoede mond open verrassing wat wauw"
+    ],
+    "😧": [
+      "gekweld gezicht",
+      "gekweld gezicht bang gezicht lijden lijdend ontevreden smiley stress verrast"
+    ],
+    "😨": [
+      "bang gezicht",
+      "bang gezicht angst angstig bang bezorgd gezicht schuld"
+    ],
+    "😰": [
+      "angstig gezicht met zweetdruppel",
+      "angstig gezicht met zweetdruppel angstzweet blauw blauw gezicht met angstzweet gehaast gezicht gezicht met open mond en zweetdruppel koud nerveus zweet zweetdruppel"
+    ],
+    "😥": [
+      "teleurgesteld maar opgelucht gezicht",
+      "teleurgesteld maar opgelucht gezicht bijna gezicht ingewikkeld oef opgelucht smiley teleurgesteld zweetdruppel zweten"
+    ],
+    "😢": [
+      "huilend gezicht",
+      "huilend gezicht bedroefd gevoelens gezicht huilen smiley traan triest"
+    ],
+    "😭": [
+      "hard huilend gezicht",
+      "hard huilend gezicht bedroefd gezicht hard huilen huilen ontroostbaar smiley snikken traan tranen tranen met tuiten"
+    ],
+    "😱": [
+      "angstig schreeuwend gezicht",
+      "angstig schreeuwend gezicht angst angstig bang doodsbang geschrokken gezicht gezicht dat schreeuwt van angst munch schreeuw schreeuwend van angst smiley"
+    ],
+    "😖": [
+      "onthutst gezicht",
+      "onthutst gezicht bah boos gefrustreerd gezicht geïrriteerd onthutst smiley verdrietig verwarring"
+    ],
+    "😣": [
+      "volhardend gezicht",
+      "volhardend gezicht concentratie concentreren focus gezicht hoofdpijn volharden volharding"
+    ],
+    "😞": [
+      "teleurgesteld gezicht",
+      "teleurgesteld gezicht afgewezen afwijzing bedroefd gezicht niet blij schuldig smiley teleurstelling terneergeslagen triest verloren"
+    ],
+    "😓": [
+      "neerslachtig gezicht met zweetdruppel",
+      "neerslachtig gezicht met zweetdruppel angstzweet bang dichtgeknepen ogen gezicht gezicht met angstzweet koud nerveus smiley zweet"
+    ],
+    "😩": [
+      "moe gezicht",
+      "moe gezicht aanstellen gezicht honger moe nee ontevreden smiley tegenzin vermoeid zeuren"
+    ],
+    "😫": [
+      "vermoeid gezicht",
+      "vermoeid gezicht bah gezicht jakkes moe niesen niezen smiley vermoeid vies"
+    ],
+    "🥱": [
+      "gapend gezicht",
+      "gapend gezicht bed dutje gaap gapen geeuwen gezicht moe rusten saai slaap lekker slaperig vermoeid verveeld"
+    ],
+    "😤": [
+      "gezicht blazend van woede",
+      "gezicht blazend van woede boos gewonnen gezicht gezicht met stoom uit neus kokend van woede ontevreden triomf witheet woedend ziedend"
+    ],
+    "😡": [
+      "pruilend gezicht",
+      "pruilend gezicht boos gezicht kwaad pruilend rood smiley woede woedend"
+    ],
+    "😠": [
+      "boos gezicht",
+      "boos gezicht boos fronsen gefrustreerd gezicht kwaad smiley woedend"
+    ],
+    "🤬": [
+      "gezicht met symbolen op mond",
+      "gezicht met symbolen op mond boos censuur gezicht met tekens over mond kwaad schelden smiley vloeken"
+    ],
+    "😈": [
+      "lachend gezicht met hoorns",
+      "lachend gezicht met hoorns duivels fantasie gezicht glimlach hoorns lach lachend paars gezicht met hoorns ondeugend smiley sprookje"
+    ],
+    "👿": [
+      "boos gezicht met hoorns",
+      "boos gezicht met hoorns boos duiveltje demon duivel duivels fantasie gezicht hoorns kleine duivel paars duivelsgezicht smiley sprookje"
+    ],
+    "💀": [
+      "schedel",
+      "schedel dood doodshoofd gezicht monster skelet sprookje"
+    ],
+    "☠️": [
+      "doodshoofd met gekruiste beenderen",
+      "doodshoofd met gekruiste beenderen bot dood doodshoofd gekruiste botten gezicht monster schedel"
+    ],
+    "💩": [
+      "drol",
+      "drol grappig monster poep poep met gezichtje smiley stinkt"
+    ],
+    "🤡": ["clownsgezicht", "clownsgezicht clown gezicht"],
+    "👹": [
+      "boeman",
+      "boeman duivel eng fantasie gezicht masker monster oger sprookje verhaal wezen"
+    ],
+    "👺": [
+      "kobold",
+      "kobold fabel fantasie gezicht japans masker monster mythologie smiley sprookje tengu wezen"
+    ],
+    "👻": [
+      "spook",
+      "spook boe fantasie geest gezicht halloween monster spook met tong uit mond sprookje uitgestoken tong wezen"
+    ],
+    "👽": [
+      "buitenaards wezen",
+      "buitenaards wezen alien buitenaards fantasie gezicht monster ruimte sprookje ufo wezen"
+    ],
+    "👾": [
+      "buitenaards monster",
+      "buitenaards monster alien buitenaards game gezicht monster pixels ruimte space invader spel ufo videogame wezen"
+    ],
+    "🤖": ["robot", "robot gezicht monster"],
+    "😺": [
+      "grijnzende kat",
+      "grijnzende kat dier gezicht grijnzen kat lach lachen mond open"
+    ],
+    "😸": [
+      "grijnzende kat met lachende ogen",
+      "grijnzende kat met lachende ogen dier gezicht grijns grijnzend kattengezicht met lachende ogen kat lach oog vrolijk"
+    ],
+    "😹": [
+      "kat met tranen van vreugde",
+      "kat met tranen van vreugde dier gezicht kat lach lachen lol traan tranen vreugde"
+    ],
+    "😻": [
+      "lachende kat met hartvormige ogen",
+      "lachende kat met hartvormige ogen dier gezicht hart hartjesogen kat lach lachen liefde oog"
+    ],
+    "😼": [
+      "gniffelende kat",
+      "gniffelende kat gezicht grimas ironisch ironische lach kat kattenkwaad lach ondeugend kattengezicht smiley spottend"
+    ],
+    "😽": [
+      "kussende kat",
+      "kussende kat dier gezicht kat kus kussend kattengezicht met gesloten ogen oog smiley"
+    ],
+    "🙀": [
+      "vermoeide kat",
+      "vermoeide kat dier geschokt geschrokken kat gezicht kat oh nee smiley verbazing vermoeid verrast"
+    ],
+    "😿": [
+      "huilende kat",
+      "huilende kat dier gezicht huilen huilend kat traan verdrietig"
+    ],
+    "😾": [
+      "pruilende kat",
+      "pruilende kat boos boos kattengezicht dier gezicht kat mokken pruilen smiley"
+    ],
+    "🙈": [
+      "geen kwaad zien",
+      "geen kwaad zien aap beschaamd dier gebaar geen gezicht kwaad niet niet kijken schaamte uit den boze verboden verlegen wil niet zien zie zien"
+    ],
+    "🙉": [
+      "geen kwaad horen",
+      "geen kwaad horen aap dier gebaar geen geheim gezicht horen kwaad luisteren niet uit den boze verboden wil niet horen"
+    ],
+    "🙊": [
+      "geen kwaad spreken",
+      "geen kwaad spreken aap gebaar geen geheim gezicht kwaad niet oeps spreken stiekem uit den boze verboden"
+    ],
+    "💌": [
+      "liefdesbrief",
+      "liefdesbrief brief brief met hart hart liefde post romantiek valentijn"
+    ],
+    "💘": [
+      "hart met pijl",
+      "hart met pijl afspraakje cupido date hart hou van jou hvj liefde pijl pijl door hart romantiek valentijn"
+    ],
+    "💝": [
+      "hart met strik",
+      "hart met strik valentijn emotie hart hou van jou hvj liefde strik valentijn xoxo"
+    ],
+    "💖": [
+      "fonkelend hart",
+      "fonkelend hart fonkelend glinsterend hart hou van jou hvj spannend sprankelend xoxo"
+    ],
+    "💗": [
+      "groeiend hart",
+      "groeiend hart emotie groeiend hart hartslag hou van jou hvj kloppend hart nerveus spannend xoxo"
+    ],
+    "💓": [
+      "kloppend hart",
+      "kloppend hart cardio hart hartslag hou van jou hvj kloppen slaan"
+    ],
+    "💞": [
+      "ronddraaiende harten",
+      "ronddraaiende harten draaien draaiende harten emotie hart harten jubileum"
+    ],
+    "💕": [
+      "twee harten",
+      "twee harten hart hou van jou hvj jubileum liefde xoxo"
+    ],
+    "💟": [
+      "decoratief hart",
+      "decoratief hart emotie hart hartdecoratie paars hart wit hart"
+    ],
+    "❣️": [
+      "hart als uitroepteken",
+      "hart als uitroepteken hart met druppel eronder interpunctie leesteken punctuatie teken uitroep uitroepteken uitroepteken met hart"
+    ],
+    "💔": [
+      "gebroken hart",
+      "gebroken hart alleen breken droevig eenzaam emotie gebroken liefdesverdriet verdrietig"
+    ],
+    "❤️‍🔥": [
+      "hart in vuur en vlam",
+      "hart in vuur en vlam branden hart heilig hart liefde lust"
+    ],
+    "❤️‍🩹": [
+      "helend hart",
+      "helend hart gezond gezonder helend herstellen herstellend verbeterend"
+    ],
+    "❤️": ["rood hart", "rood hart emotie hart liefde"],
+    "🩷": ["roze hart", "roze hart hart leuk liefde roze schattig"],
+    "🧡": ["oranje hart", "oranje hart oranje"],
+    "💛": ["geel hart", "geel hart emotie geel hart hou van jou hvj liefde"],
+    "💚": [
+      "groen hart",
+      "groen hart groen hart hou van jou hvj romantisch xoxo"
+    ],
+    "💙": [
+      "blauw hart",
+      "blauw hart blauw emotie hart hou van jou hvj liefde romantiek"
+    ],
+    "🩵": [
+      "lichtblauw hart",
+      "lichtblauw hart blauwgroen groenblauw hart lichtblauw"
+    ],
+    "💜": ["paars hart", "paars hart emotie hart hou van jou hvj paars"],
+    "🤎": ["bruin hart", "bruin hart bruin hart liefde symbool"],
+    "🖤": ["zwart hart", "zwart hart hart kwaad slecht verdorven zwart"],
+    "🩶": ["grijs hart", "grijs hart grijs hart leigrijs zilver"],
+    "🤍": ["wit hart", "wit hart hart liefde symbool wit"],
+    "💋": [
+      "lipafdruk",
+      "lipafdruk afdruk daten emotie kus kusafdruk liefde lippen romantiek sexy zoen"
+    ],
+    "💯": [
+      "maximumscore",
+      "maximumscore 100 100 punten beste cijfer fantastisch foutloos getal geweldig score top zeker"
+    ],
+    "💢": [
+      "woedesymbool",
+      "woedesymbool boos cartoonesk kwaad ontdaan strip symbool teken woede"
+    ],
+    "🫯": [
+      "vechtwolk",
+      "vechtwolk debat onenigheid ruzie tumult vechtpartij woordenwisseling worsteling"
+    ],
+    "💥": ["botsing", "botsing boem bom botsen ontploffen strip"],
+    "💫": ["duizelig", "duizelig cartoonesk ster strip vallende ster"],
+    "💦": [
+      "zweetdruppels",
+      "zweetdruppels druppels spetteren sporten strip water work-out zweet"
+    ],
+    "💨": [
+      "wegrennen",
+      "wegrennen cartoonesk moet gaan rennen rook scheet strip vertrokken weg wind"
+    ],
+    "🕳️": ["gat", "gat hole"],
+    "💬": [
+      "spraakballon",
+      "spraakballon aan het typen ballon cartoonesk dialoog spraak strip tekstballon tekstballon met puntjes"
+    ],
+    "👁️‍🗨️": [
+      "spraakballon met oog",
+      "spraakballon met oog ballon bubbel getuige oog spraak"
+    ],
+    "🗨️": [
+      "spraakballon naar links",
+      "spraakballon naar links dialoog spraak zwarte spraakballon"
+    ],
+    "🗯️": [
+      "boze spraakballon naar rechts",
+      "boze spraakballon naar rechts ballon kwaad tekstballon boos woede woedeballon woedeballon naar rechts"
+    ],
+    "💭": [
+      "gedachteballon",
+      "gedachteballon ballon besef cartoonesk dagdromen denkballon denkwolkje gedachten gedachtenballon strip uitvinden uitvinding"
+    ],
+    "💤": [
+      "slaapsymbool",
+      "slaapsymbool cartoonesk goedenacht moe rust saai slaap slaapwel slapen slaperig strip vermoeid zzz"
+    ],
+    "👋": [
+      "zwaaiende hand",
+      "zwaaiende hand ben je er doei groet groeten hallo hand is daar iemand moet gaan spreek je later tot later tot ziens ttyl zwaai zwaaien"
+    ],
+    "🤚": [
+      "achterkant van opgeheven hand",
+      "achterkant van opgeheven hand achterzijde opgestoken hand hand hand omhoog handrug opgestoken rug van hand vijf vingers"
+    ],
+    "🖐️": [
+      "opgeheven hand met uitgestoken vingers",
+      "opgeheven hand met uitgestoken vingers hand opgeheven stop uitgestoken vinger vingers"
+    ],
+    "✋": ["opgeheven hand", "opgeheven hand 5 hand hoog opgeheven stop vijf"],
+    "🖖": [
+      "Vulcaanse groet",
+      "vulcaanse groet hand leef lang en voorspoedig spock star trek vinger vulcaanse groet vulcan vulcangroet"
+    ],
+    "🫱": [
+      "hand naar rechts",
+      "hand naar rechts hand handdruk naar rechts rechts reiken schudden vasthouden"
+    ],
+    "🫲": [
+      "hand naar links",
+      "hand naar links eens hand handdruk links naar links uitgestoken hand"
+    ],
+    "🫳": [
+      "handpalm omlaag",
+      "handpalm omlaag hand laten vallen oprapen wegjagen wegsturen"
+    ],
+    "🫴": [
+      "handpalm omhoog",
+      "handpalm omhoog aanbieden hand kom vangen wenken"
+    ],
+    "🫷": [
+      "hand die naar links duwt",
+      "hand die naar links duwt duwen high five naar links stoppen wachten weigeren"
+    ],
+    "🫸": [
+      "hand die naar rechts duwt",
+      "hand die naar rechts duwt duwen high five naar rechts stoppen wachten weigeren"
+    ],
+    "👌": [
+      "OK-handgebaar",
+      "ok-handgebaar fantastisch geweldig goed hand oké prima top vingers"
+    ],
+    "🤌": [
+      "samengeknepen vingers",
+      "samengeknepen vingers italiaans gebaar hand handgebaar maffia ondervraging samengeknepen sarcastisch vingers"
+    ],
+    "🤏": [
+      "hand met samengeknepen vingers",
+      "hand met samengeknepen vingers beetje gebaar voor kleine hoeveelheid hand klein kleine hoeveelheid vingers weinig"
+    ],
+    "✌️": [
+      "winnende hand",
+      "winnende hand hand peace twee vingers v vredesteken"
+    ],
+    "🤞": [
+      "gekruiste vingers",
+      "gekruiste vingers gekruist geluk hand kruisen vinger vingers"
+    ],
+    "🫰": [
+      "hand met wijsvinger en duim gekruist",
+      "hand met wijsvinger en duim gekruist duur geld hand hart liefde vingerknip vingers"
+    ],
+    "🤟": [
+      "ik-hou-van-je-gebaar",
+      "ik-hou-van-je-gebaar hvj ily ik hou van jou-gebaar gebarentaal hand"
+    ],
+    "🤘": ["duivelshorens", "duivelshorens hand hoorns rock on teken vinger"],
+    "🤙": [
+      "bel me-gebaar",
+      "bel me-gebaar bel mij-gebaar bellen hand handgebaar voor bellen"
+    ],
+    "👈": [
+      "achterkant van hand met naar links wijzende wijsvinger",
+      "achterkant van hand met naar links wijzende wijsvinger achterkant hand links vinger wijs wijsvinger wijzen"
+    ],
+    "👉": [
+      "achterkant van hand met naar rechts wijzende wijsvinger",
+      "achterkant van hand met naar rechts wijzende wijsvinger achterkant hand rechts vinger wijs wijsvinger wijzen"
+    ],
+    "👆": [
+      "achterkant van hand met omhoog wijzende wijsvinger",
+      "achterkant van hand met omhoog wijzende wijsvinger achterkant hand omhoog vinger wijs wijsvinger wijzen"
+    ],
+    "🖕": ["middelvinger", "middelvinger hand midden vinger"],
+    "👇": [
+      "achterkant van hand met omlaag wijzende wijsvinger",
+      "achterkant van hand met omlaag wijzende wijsvinger achterkant hand omlaag vinger wijs wijsvinger wijzen"
+    ],
+    "☝️": [
+      "omhoog wijzende wijsvinger",
+      "omhoog wijzende wijsvinger dit hand omhoog vinger wijs wijsvinger wijzen"
+    ],
+    "🫵": [
+      "wijsvinger die naar de kijker wijst",
+      "wijsvinger die naar de kijker wijst aanwijzen hand jij vinger wijzen"
+    ],
+    "👍": ["duim omhoog", "duim omhoog +1 duim goed hand ja leuk omhoog"],
+    "👎": [
+      "duim omlaag",
+      "duim omlaag -1 duim fout hand lichaam niet goed niet leuk omlaag slecht stom"
+    ],
+    "🫹": [
+      "duim naar links",
+      "duim naar links dat dit grip links neutraal wijzen"
+    ],
+    "🫺": [
+      "duim naar rechts",
+      "duim naar rechts dat dit grip neutraal rechts wijzen"
+    ],
+    "✊": [
+      "opgeheven vuist",
+      "opgeheven vuist gebald hand opgeheven solidariteit stoot vuist"
+    ],
+    "👊": [
+      "stotende vuist",
+      "stotende vuist boks gebald gebalde vuist groet hand mee eens stoot vuist"
+    ],
+    "🤛": [
+      "naar links gerichte vuist",
+      "naar links gerichte vuist linksom naar links vuist"
+    ],
+    "🤜": [
+      "naar rechts gerichte vuist",
+      "naar rechts gerichte vuist naar rechts rechtsom vuist"
+    ],
+    "👏": [
+      "klappende handen",
+      "klappende handen applaudiseren applaus bidden dankjewel gefeliciteerd goed gedaan goedkeuring hand hoera klappen"
+    ],
+    "🙌": [
+      "juichend omhooggestoken handen",
+      "juichend omhooggestoken handen feest gebaar hand handen hoera lof omhoog omhooggestoken"
+    ],
+    "🫶": [
+      "handen in de vorm van een hart",
+      "handen in de vorm van een hart <3 handen hart hou jou"
+    ],
+    "👐": ["open handen", "open handen hand handen jazz hands open"],
+    "🤲": [
+      "beide handpalmen omhoog",
+      "beide handpalmen omhoog bidden gebed hand kommetje maken met handen palmen bij elkaar"
+    ],
+    "🤝": ["handdruk", "handdruk deal hand overeenkomst schudden vergadering"],
+    "🙏": [
+      "gevouwen handen",
+      "gevouwen handen alsjeblieft bedankt bidden buigen dank gebaar gebed geef me de vijf gevouwen gezegend hand handen tegen elkaar high five smeken vragen"
+    ],
+    "✍️": ["schrijvende hand", "schrijvende hand hand schrijf schrijven"],
+    "💅": [
+      "nagellak",
+      "nagellak beauty cosmetica hand lak manicure nagel nagels lakken verzorging"
+    ],
+    "🤳": ["selfie", "selfie camera telefoon"],
+    "💪": [
+      "spierballen",
+      "spierballen aanspannen arm biceps bodybuilder flex gewichtheffen spannen spier spierbal sportschool sterk strip"
+    ],
+    "🦾": [
+      "armprothese",
+      "armprothese bionische arm kunstarm mechanische arm prothese toegankelijkheid"
+    ],
+    "🦿": [
+      "beenprothese",
+      "beenprothese bionisch been kunstbeen mechanisch been prothese toegankelijkheid"
+    ],
+    "🦵": ["been", "been gebogen knie ledemaat schop voet"],
+    "🦶": ["voet", "voet enkel schop schoppen stampen trap"],
+    "👂": ["oor", "oor geluid horen lichaam luisteren"],
+    "🦻": [
+      "oor met gehoorapparaat",
+      "oor met gehoorapparaat doof gehoorapparaat oor met oorapparaat oorapparaat slechthorend toegankelijkheid"
+    ],
+    "👃": ["neus", "neus geur lichaam ruiken stinkt"],
+    "🧠": ["brein", "brein hersenen intelligent slim"],
+    "🫀": [
+      "hart",
+      "hart anatomisch cardiologie echt hartslag orgaan polsslag rood"
+    ],
+    "🫁": [
+      "longen",
+      "longen adem ademhaling inademen lichaam lucht orgaan uitademen zuurstof"
+    ],
+    "🦷": ["tand", "tand parelmoer tandarts tanden wit"],
+    "🦴": ["bot", "bot botten hond skelet vorkbeen"],
+    "👀": ["ogen", "ogen gezicht kijken omg ondeugend oog staren"],
+    "👁️": ["oog", "oog lichaam pupil één oog"],
+    "👅": ["tong", "tong lichaam lik slurp"],
+    "👄": ["mond", "mond kus lippen open mond roze lippen zoen"],
+    "🫦": [
+      "mond die op lip bijt",
+      "mond die op lip bijt angst bezorgd flirten lippen nerveus ongemakkelijk ongerust sexy"
+    ],
+    "👶": ["baby", "baby jong kindje pasgeboren persoon"],
+    "🧒": ["kind", "kind heldere ogen jong jonger kleinkind"],
+    "👦": ["jongen", "jongen jong kind persoon"],
+    "👧": [
+      "meisje",
+      "meisje dochter enthousiast jong maagd persoon staartjes sterrenbeeld"
+    ],
+    "🧑": ["volwassene", "volwassene persoon"],
+    "👱": [
+      "persoon met blond haar",
+      "persoon met blond haar blond blond haar mens persoon"
+    ],
+    "👨": ["man", "man volwassen vriend"],
+    "🧔": [
+      "persoon: baard",
+      "persoon: baard baard bebaard persoon persoon met baard"
+    ],
+    "🧔‍♂️": ["man: baard", "man: baard baard man"],
+    "🧔‍♀️": ["vrouw: baard", "vrouw: baard baard vrouw"],
+    "👨‍🦰": ["man: rood haar", "man: rood haar man rood haar volwassen vriend"],
+    "👨‍🦱": [
+      "man: krullend haar",
+      "man: krullend haar krullend haar man volwassen vriend"
+    ],
+    "👨‍🦳": ["man: wit haar", "man: wit haar man volwassen vriend wit haar"],
+    "👨‍🦲": ["man: kaal", "man: kaal kaal man volwassen vriend"],
+    "👩": ["vrouw", "vrouw dame volwassene"],
+    "👩‍🦰": [
+      "vrouw: rood haar",
+      "vrouw: rood haar dame rood haar volwassene vrouw"
+    ],
+    "🧑‍🦰": [
+      "volwassene: rood haar",
+      "volwassene: rood haar persoon rood haar volwassene"
+    ],
+    "👩‍🦱": [
+      "vrouw: krullend haar",
+      "vrouw: krullend haar dame krullend haar volwassene vrouw"
+    ],
+    "🧑‍🦱": [
+      "volwassene: krullend haar",
+      "volwassene: krullend haar krullend haar persoon volwassene"
+    ],
+    "👩‍🦳": ["vrouw: wit haar", "vrouw: wit haar dame volwassene vrouw wit haar"],
+    "🧑‍🦳": [
+      "volwassene: wit haar",
+      "volwassene: wit haar persoon volwassene wit haar"
+    ],
+    "👩‍🦲": ["vrouw: kaal", "vrouw: kaal dame kaal volwassene vrouw"],
+    "🧑‍🦲": ["volwassene: kaal", "volwassene: kaal kaal persoon volwassene"],
+    "👱‍♀️": [
+      "vrouw met blond haar",
+      "vrouw met blond haar blond blondine haar vrouw"
+    ],
+    "👱‍♂️": ["man met blond haar", "man met blond haar blond haar man"],
+    "🧓": [
+      "oudere persoon",
+      "oudere persoon bejaard genderneutraal niet nader omschreven geslacht oud ouder persoon oudere volwassene persoon volwassene"
+    ],
+    "👴": [
+      "oude man",
+      "oude man grootvader kaal man opa oud ouder volwassen wijs"
+    ],
+    "👵": [
+      "oude vrouw",
+      "oude vrouw dame grootmoeder oma oud ouder volwassene vrouw wijs"
+    ],
+    "🙍": [
+      "fronsend persoon",
+      "fronsend persoon bedroefd frons fronzen persoon teleurgesteld uitdrukking verdrietig verontrust vrouw"
+    ],
+    "🙍‍♂️": [
+      "fronsende man",
+      "fronsende man frons man ontevreden persoon sip uitdrukking verdrietig"
+    ],
+    "🙍‍♀️": ["fronsende vrouw", "fronsende vrouw frons uitdrukking vrouw"],
+    "🙎": [
+      "pruilend persoon",
+      "pruilend persoon humeurig persoon pruilen pruilende vrouw pruillip skeptisch teleurgesteld uitdrukking vrouw"
+    ],
+    "🙎‍♂️": [
+      "pruilende man",
+      "pruilende man man persoon pruilen sip uitdrukking verdrietig"
+    ],
+    "🙎‍♀️": ["pruilende vrouw", "pruilende vrouw pruilen uitdrukking vrouw"],
+    "🙅": [
+      "persoon die nee-gebaar maakt",
+      "persoon die nee-gebaar maakt nee gebaar hand illegaal niet persoon verboden"
+    ],
+    "🙅‍♂️": [
+      "man die nee-gebaar maakt",
+      "man die nee-gebaar maakt nee gebaar hand illegaal man niet verboden"
+    ],
+    "🙅‍♀️": [
+      "vrouw die nee-gebaar maakt",
+      "vrouw die nee-gebaar maakt gebaar hand illegaal verboden vrouw"
+    ],
+    "🙆": [
+      "persoon die OK-gebaar maakt",
+      "persoon die ok-gebaar maakt ok gebaar gebaren hand oefening omg persoon"
+    ],
+    "🙆‍♂️": [
+      "man die OK-gebaar maakt",
+      "man die ok-gebaar maakt ok gebaar gebaren hand man oefening omg"
+    ],
+    "🙆‍♀️": [
+      "vrouw die OK-gebaar maakt",
+      "vrouw die ok-gebaar maakt ok gebaar hand vrouw"
+    ],
+    "💁": [
+      "persoon achter informatiebalie",
+      "persoon achter informatiebalie brutaal hand hand ophouden hulp informatie knikken persoon roddelen sarcasme sarcastisch uitleg geven vrouw met hand omhoog"
+    ],
+    "💁‍♂️": [
+      "man achter informatiebalie",
+      "man achter informatiebalie brutaal hand hooghartig man man knikt pols persoon pols knikken polsgebaar sarcasme sarcastisch uitdagend"
+    ],
+    "💁‍♀️": [
+      "vrouw achter informatiebalie",
+      "vrouw achter informatiebalie brutaal pols knikken vrouw"
+    ],
+    "🙋": [
+      "persoon met opgeheven hand",
+      "persoon met opgeheven hand antwoord blij gebaar hand ik weet het omhoog persoon vraag vrouw die hand opsteekt"
+    ],
+    "🙋‍♂️": [
+      "man met opgeheven hand",
+      "man met opgeheven hand gebaar hand in de lucht hand omhoog hand opsteken ik weet het man man met opgestoken hand persoon vraag"
+    ],
+    "🙋‍♀️": [
+      "vrouw met opgeheven hand",
+      "vrouw met opgeheven hand gebaar hand opsteken vrouw"
+    ],
+    "🧏": [
+      "doof persoon",
+      "doof persoon doof horen oor slechthorend toegankelijkheid"
+    ],
+    "🧏‍♂️": [
+      "dove man",
+      "dove man doof gebaar gebarentaal horen man oor toegankelijkheid"
+    ],
+    "🧏‍♀️": [
+      "dove vrouw",
+      "dove vrouw doof gebaar gebarentaal horen oor toegankelijkheid vrouw"
+    ],
+    "🙇": [
+      "buigende persoon",
+      "buigende persoon buigende man buiging diepe buiging excuses gebaar persoon persoon die buiging maakt sorry spijt verontschuldiging"
+    ],
+    "🙇‍♂️": [
+      "buigende man",
+      "buigende man buigen excuses gebaar gunst man sorry"
+    ],
+    "🙇‍♀️": [
+      "buigende vrouw",
+      "buigende vrouw buigen buiging excuses gebaar gunst persoon schaamte schuld sorry verontschuldigen vrouw vrouw die buigt"
+    ],
+    "🤦": [
+      "persoon die het gezicht met de hand bedekt",
+      "persoon die het gezicht met de hand bedekt ergernis gebaar gezicht hand voor gezicht niet opnieuw ongeloof ongelooflijk palm persoon schaamte zucht"
+    ],
+    "🤦‍♂️": [
+      "man die het gezicht met de hand bedekt",
+      "man die het gezicht met de hand bedekt ergernis facepalm gebaar gezicht bedekken man omg ongeloof ongelooflijk persoon schaamte"
+    ],
+    "🤦‍♀️": [
+      "vrouw die het gezicht met de hand bedekt",
+      "vrouw die het gezicht met de hand bedekt ergernis facepalm gebaar gezicht bedekken omg ongeloof ongelooflijk persoon schaamte vrouw"
+    ],
+    "🤷": [
+      "persoon die schouders ophaalt",
+      "persoon die schouders ophaalt gebaar idk ik weet het niet misschien onverschilligheid onwetend onwetendheid schouderophalen twijfel"
+    ],
+    "🤷‍♂️": [
+      "man die schouders ophaalt",
+      "man die schouders ophaalt gebaar geen idee man man haalt schouders op onverschillig onverschilligheid onwetendheid persoon schouderophalen twijfel"
+    ],
+    "🤷‍♀️": [
+      "vrouw die schouders ophaalt",
+      "vrouw die schouders ophaalt gebaar geen idee onverschillig onverschilligheid onwetendheid persoon schouderophalen twijfel vrouw weet niet"
+    ],
+    "🧑‍⚕️": [
+      "gezondheidsmedewerker",
+      "gezondheidsmedewerker dokter gezondheidszorg therapeut verpleegster"
+    ],
+    "👨‍⚕️": [
+      "mannelijke gezondheidsmedewerker",
+      "mannelijke gezondheidsmedewerker arts gezondheid gezondheidszorg man therapeut verpleger werknemer"
+    ],
+    "👩‍⚕️": [
+      "gezondheidsmedewerkster",
+      "gezondheidsmedewerkster arts gezondheid gezondheidszorg therapeute verpleegster vrouw werknemer"
+    ],
+    "🧑‍🎓": ["student", "student scholier"],
+    "👨‍🎓": ["mannelijke student", "mannelijke student man scholier student"],
+    "👩‍🎓": ["studente", "studente scholier student vrouw"],
+    "🧑‍🏫": ["docent", "docent leraar professor"],
+    "👨‍🏫": [
+      "mannelijke docent",
+      "mannelijke docent docent instructeur leraar man professor"
+    ],
+    "👩‍🏫": ["docente", "docente instructrice lerares professor vrouw"],
+    "🧑‍⚖️": ["rechter", "rechter recht weegschaal"],
+    "👨‍⚖️": [
+      "mannelijke rechter",
+      "mannelijke rechter gerechtigheid man recht rechter weegschaal"
+    ],
+    "👩‍⚖️": [
+      "vrouwelijke rechter",
+      "vrouwelijke rechter gerechtigheid recht rechter vrouw weegschaal"
+    ],
+    "🧑‍🌾": ["boer", "boer tuinder veehouder"],
+    "👨‍🌾": ["mannelijke boer", "mannelijke boer boer man tuinder veehouder"],
+    "👩‍🌾": ["boerin", "boerin boer tuinder veehouder vrouw"],
+    "🧑‍🍳": ["kok", "kok chef-kok"],
+    "👨‍🍳": ["mannelijke kok", "mannelijke kok chef-kok kok man"],
+    "👩‍🍳": ["kokkin", "kokkin chef-kok kok vrouw"],
+    "🧑‍🔧": ["monteur", "monteur elektricien handelsman loodgieter"],
+    "👨‍🔧": [
+      "mannelijke monteur",
+      "mannelijke monteur elektricien handelsman loodgieter man monteur"
+    ],
+    "👩‍🔧": [
+      "monteuse",
+      "monteuse elektricien handelsman loodgieter monteur vrouw"
+    ],
+    "🧑‍🏭": [
+      "fabrieksarbeider",
+      "fabrieksarbeider arbeider fabriek industrieel lopende band"
+    ],
+    "👨‍🏭": [
+      "mannelijke fabrieksarbeider",
+      "mannelijke fabrieksarbeider arbeider fabriek industrieel lopende band man"
+    ],
+    "👩‍🏭": [
+      "fabrieksarbeidster",
+      "fabrieksarbeidster arbeider fabriek industrieel lopende band vrouw"
+    ],
+    "🧑‍💼": ["kantoormedewerker", "kantoormedewerker architect bedrijf manager"],
+    "👨‍💼": [
+      "mannelijke kantoormedewerker",
+      "mannelijke kantoormedewerker ambtenaar architect bedrijf kantoor man manager werknemer"
+    ],
+    "👩‍💼": [
+      "kantoormedewerkster",
+      "kantoormedewerkster ambtenaar architect bedrijf kantoor manager vrouw werknemer"
+    ],
+    "🧑‍🔬": [
+      "wetenschapper",
+      "wetenschapper bioloog ingenieur natuurkundige scheikundige"
+    ],
+    "👨‍🔬": [
+      "mannelijke wetenschapper",
+      "mannelijke wetenschapper bioloog ingenieur man natuurkundige scheikundige wetenschapper wiskundige"
+    ],
+    "👩‍🔬": [
+      "wetenschapster",
+      "wetenschapster biologe ingenieur natuurkundige scheikundige vrouw wiskundige"
+    ],
+    "🧑‍💻": [
+      "technoloog",
+      "technoloog ontwikkelaar programmeur techneut uitvinder"
+    ],
+    "👨‍💻": [
+      "mannelijke technoloog",
+      "mannelijke technoloog computer man ontwikkelaar programmeur software technoloog uitvinder"
+    ],
+    "👩‍💻": [
+      "technologe",
+      "technologe computer ontwikkelaar programmeur software uitvindster vrouw"
+    ],
+    "🧑‍🎤": ["zanger", "zanger acteur entertainer rock ster"],
+    "👨‍🎤": [
+      "mannelijke zanger",
+      "mannelijke zanger acteur entertainer man rock rockster ster zanger"
+    ],
+    "👩‍🎤": ["zangeres", "zangeres actrice entertainer rock rockster ster vrouw"],
+    "🧑‍🎨": ["kunstenaar", "kunstenaar palet"],
+    "👨‍🎨": [
+      "mannelijke kunstenaar",
+      "mannelijke kunstenaar kunstenaar man palet"
+    ],
+    "👩‍🎨": ["kunstenares", "kunstenares palet vrouw"],
+    "🧑‍✈️": ["piloot", "piloot vliegtuig"],
+    "👨‍✈️": ["mannelijke piloot", "mannelijke piloot man piloot vliegtuig"],
+    "👩‍✈️": ["pilote", "pilote piloot vliegtuig vrouw"],
+    "🧑‍🚀": ["astronaut", "astronaut raket"],
+    "👨‍🚀": [
+      "mannelijke astronaut",
+      "mannelijke astronaut astronaut man raket ruimte"
+    ],
+    "👩‍🚀": ["astronaute", "astronaute astronaut raket ruimte vrouw"],
+    "🧑‍🚒": ["brandweerman", "brandweerman brandweerwagen"],
+    "👨‍🚒": [
+      "mannelijke brandweerman",
+      "mannelijke brandweerman brandweer brandweerman brandweerwagen man"
+    ],
+    "👩‍🚒": ["brandweervrouw", "brandweervrouw brandweer brandweerwagen vrouw"],
+    "👮": [
+      "politieagent",
+      "politieagent agent arresteren beroep boete misdaad persoon politie politieman werk"
+    ],
+    "👮‍♂️": ["politieman", "politieman agent man politie"],
+    "👮‍♀️": [
+      "politievrouw",
+      "politievrouw agent arresteren beroep boete misdaad persoon politie politieagente vrouw vrouwelijke politieagent"
+    ],
+    "🕵️": ["detective", "detective speurder spion"],
+    "🕵️‍♂️": [
+      "mannelijke detective",
+      "mannelijke detective detective man speurder spion"
+    ],
+    "🕵️‍♀️": [
+      "vrouwelijke detective",
+      "vrouwelijke detective detective speurder spionne vrouw"
+    ],
+    "💂": ["wachter", "wachter bewaker buckingham palace londen"],
+    "💂‍♂️": ["mannelijke wachter", "mannelijke wachter man wachter"],
+    "💂‍♀️": [
+      "vrouwelijke wachter",
+      "vrouwelijke wachter buckingham palace londen persoon vrouw wachter"
+    ],
+    "🥷": [
+      "ninja",
+      "ninja geheim japan krijger persoon samurai sluipmoordenaar vechten verborgen zwaard"
+    ],
+    "👷": [
+      "bouwvakker",
+      "bouwvakker bouw helm klusser man persoon renovatie renoveren werk"
+    ],
+    "👷‍♂️": [
+      "mannelijke bouwvakker",
+      "mannelijke bouwvakker bouw bouwvakker man"
+    ],
+    "👷‍♀️": [
+      "vrouwelijke bouwvakker",
+      "vrouwelijke bouwvakker baan beroep bouw bouwvakker helm persoon vrouw werk"
+    ],
+    "🫅": [
+      "persoon met kroon",
+      "persoon met kroon edele heerser iemand van koninklijken bloede keizer koning koninklijk persoon regaal"
+    ],
+    "🤴": ["prins", "prins fantasie koning koninklijk kroon royalty sprookje"],
+    "👸": [
+      "prinses",
+      "prinses fantasie koningin kroon persoon sprookje vrouw met kroon"
+    ],
+    "👳": ["persoon met tulband", "persoon met tulband dragen persoon tulband"],
+    "👳‍♂️": ["man met tulband", "man met tulband man tulband"],
+    "👳‍♀️": ["vrouw met tulband", "vrouw met tulband dragen tulband vrouw"],
+    "👲": [
+      "man met Chinees petje",
+      "man met chinees petje gua pi mao hoed man man met chinese hoed persoon petje"
+    ],
+    "🧕": [
+      "vrouw met hoofddoek",
+      "vrouw met hoofddoek hidjab hijab hoofddoek mantilla persoon sluier"
+    ],
+    "🤵": [
+      "persoon in smoking",
+      "persoon in smoking bruiloft formeel persoon smoking"
+    ],
+    "🤵‍♂️": ["man in smoking", "man in smoking man smoking"],
+    "🤵‍♀️": ["vrouw in smoking", "vrouw in smoking smoking vrouw"],
+    "👰": ["persoon met sluier", "persoon met sluier bruiloft persoon sluier"],
+    "👰‍♂️": ["man met sluier", "man met sluier man sluier"],
+    "👰‍♀️": ["vrouw met sluier", "vrouw met sluier sluier vrouw"],
+    "🤰": ["zwangere vrouw", "zwangere vrouw vrouw zwanger"],
+    "🫃": [
+      "zwangere man",
+      "zwangere man buik man opgeblazen te veel eten vol zwanger"
+    ],
+    "🫄": [
+      "zwanger persoon",
+      "zwanger persoon baby buik opgeblazen persoon vol zwanger"
+    ],
+    "🤱": ["borstvoeding", "borstvoeding baby borst de borst geven persoon"],
+    "👩‍🍼": [
+      "vrouw die een baby voedt",
+      "vrouw die een baby voedt baby borstvoeding mama moeder oppas pasgeboren voeden voeding vrouw"
+    ],
+    "👨‍🍼": [
+      "man die een baby voedt",
+      "man die een baby voedt baby borstvoeding man melk papa persoon vader voeden voeding"
+    ],
+    "🧑‍🍼": [
+      "persoon die een baby voedt",
+      "persoon die een baby voedt baby borstvoeding oppas ouder pasgeboren voeden voeding"
+    ],
+    "👼": [
+      "baby-engel",
+      "baby-engel baby engel fantasie gezicht kerk sprookje"
+    ],
+    "🎅": [
+      "kerstman",
+      "kerstman kerstmis fantasie feestdag kerst viering vrolijk"
+    ],
+    "🤶": [
+      "kerstvrouw",
+      "kerstvrouw feest kerst kerstmis moedertje kerst persoon viering"
+    ],
+    "🧑‍🎄": [
+      "kersttransgender",
+      "kersttransgender kerstman feestdagen kerst kerstdagen kerstman kerstmis kerstmuts kerstvrouw persoon"
+    ],
+    "🦸": ["superheld", "superheld goed held superkracht"],
+    "🦸‍♂️": [
+      "mannelijke superheld",
+      "mannelijke superheld goed held man superkrachten"
+    ],
+    "🦸‍♀️": [
+      "vrouwelijke superheld",
+      "vrouwelijke superheld goed held heldin superkrachten vrouw"
+    ],
+    "🦹": [
+      "superschurk",
+      "superschurk crimineel kwaad schurk slecht superkracht"
+    ],
+    "🦹‍♂️": [
+      "mannelijke superschurk",
+      "mannelijke superschurk boef crimineel man slecht superkrachten"
+    ],
+    "🦹‍♀️": [
+      "vrouwelijke superschurk",
+      "vrouwelijke superschurk boef crimineel slecht superkrachten vrouw"
+    ],
+    "🧙": [
+      "magiër",
+      "magiër fantasie heks magie spreuk sprookje tovenaar tovenares"
+    ],
+    "🧙‍♂️": ["mannelijke magiër", "mannelijke magiër heksenmeester tovenaar"],
+    "🧙‍♀️": ["vrouwelijke magiër", "vrouwelijke magiër heks tovenares"],
+    "🧚": ["elfje", "elfje fantasie mythe persoon pixie sprookje vleugels"],
+    "🧚‍♂️": ["mannelijk elfje", "mannelijk elfje oberon puck"],
+    "🧚‍♀️": ["vrouwelijk elfje", "vrouwelijk elfje titania"],
+    "🧛": [
+      "vampier",
+      "vampier dracula bloed eng halloween ondode snijtanden tanden verkleden"
+    ],
+    "🧛‍♂️": ["mannelijke vampier", "mannelijke vampier dracula ondode"],
+    "🧛‍♀️": ["vrouwelijke vampier", "vrouwelijke vampier ondode"],
+    "🧜": [
+      "zeemeermin",
+      "zeemeermin drietand folklore meermin oceaan schepsel sirene sprookje zee"
+    ],
+    "🧜‍♂️": ["zeemeerman", "zeemeerman triton"],
+    "🧜‍♀️": ["sirene", "sirene meermin"],
+    "🧝": [
+      "elf",
+      "elf in de ban van de ring-stijl lotr-stijl fantasie folklore legolas magisch mythe"
+    ],
+    "🧝‍♂️": ["mannelijke elf", "mannelijke elf magisch"],
+    "🧝‍♀️": ["vrouwelijke elf", "vrouwelijke elf magisch"],
+    "🧞": [
+      "geest in de fles",
+      "geest in de fles aladin djinn fantasie geest lamp mythe sprookje wens"
+    ],
+    "🧞‍♂️": ["mannelijke geest in de fles", "mannelijke geest in de fles djinn"],
+    "🧞‍♀️": [
+      "vrouwelijke geest in de fles",
+      "vrouwelijke geest in de fles djinn"
+    ],
+    "🧟": [
+      "zombie",
+      "zombie eng halloween horror levende doden lopende dode monster ondode"
+    ],
+    "🧟‍♂️": ["mannelijke zombie", "mannelijke zombie lopende dode ondode"],
+    "🧟‍♀️": ["vrouwelijke zombie", "vrouwelijke zombie lopende dode ondode"],
+    "🧌": ["trol", "trol fantasie monster trollen"],
+    "🫈": [
+      "harig wezen",
+      "harig wezen bigfoot cryptide harig reus sasquatch wildeman woud yeti"
+    ],
+    "💆": [
+      "persoon die hoofdmassage krijgt",
+      "persoon die hoofdmassage krijgt gespannen gezicht gezichtsmassage hoofdpijn massage ontspannen persoon relaxen salon spa spanning"
+    ],
+    "💆‍♂️": [
+      "man die hoofdmassage krijgt",
+      "man die hoofdmassage krijgt geduld gezicht gezichtmassage man man krijgt gezichtsmassage massage masseren ontspannen ontspannend persoon relaxen relaxing"
+    ],
+    "💆‍♀️": [
+      "vrouw die hoofdmassage krijgt",
+      "vrouw die hoofdmassage krijgt gezicht massage vrouw"
+    ],
+    "💇": [
+      "persoon die wordt geknipt",
+      "persoon die wordt geknipt beauty beroep haar knippen kapper kapsalon kapsel kapster salon schaar schoonheid"
+    ],
+    "💇‍♂️": [
+      "man die wordt geknipt",
+      "man die wordt geknipt haar kapper kapsel knippen man man wordt geknipt persoon verzorging"
+    ],
+    "💇‍♀️": ["vrouw die wordt geknipt", "vrouw die wordt geknipt kapsel vrouw"],
+    "🚶": [
+      "voetganger",
+      "voetganger lopen persoon slenteren stappen struien wandelaar wandelen"
+    ],
+    "🚶‍♂️": ["wandelende man", "wandelende man lopen man wandelen"],
+    "🚶‍♀️": [
+      "wandelende vrouw",
+      "wandelende vrouw kuieren lopen persoon slenteren voetganger vrouw wandelaar wandelen"
+    ],
+    "🚶‍➡️": [
+      "voetganger: naar rechts gericht",
+      "voetganger: naar rechts gericht gericht lopen naar persoon rechts slenteren stappen struien voetganger wandelaar wandelen"
+    ],
+    "🚶‍♀️‍➡️": [
+      "wandelende vrouw: naar rechts gericht",
+      "wandelende vrouw: naar rechts gericht gericht kuieren lopen naar persoon rechts slenteren voetganger vrouw wandelaar wandelen wandelende vrouw"
+    ],
+    "🚶‍♂️‍➡️": [
+      "wandelende man: naar rechts gericht",
+      "wandelende man: naar rechts gericht gericht lopen man naar rechts wandelen wandelende man"
+    ],
+    "🧍": ["staande persoon", "staande persoon persoon staan staand"],
+    "🧍‍♂️": ["staande man", "staande man man staand"],
+    "🧍‍♀️": ["staande vrouw", "staande vrouw staand vrouw"],
+    "🧎": [
+      "knielende persoon",
+      "knielende persoon knielen knielend knieën persoon"
+    ],
+    "🧎‍♂️": ["knielende man", "knielende man knielend man"],
+    "🧎‍♀️": ["knielende vrouw", "knielende vrouw knielend vrouw"],
+    "🧎‍➡️": [
+      "knielende persoon: naar rechts gericht",
+      "knielende persoon: naar rechts gericht gericht knielen knielend knieën naar persoon rechts"
+    ],
+    "🧎‍♀️‍➡️": [
+      "knielende vrouw: naar rechts gericht",
+      "knielende vrouw: naar rechts gericht gericht knielend knielende vrouw naar rechts vrouw"
+    ],
+    "🧎‍♂️‍➡️": [
+      "knielende man: naar rechts gericht",
+      "knielende man: naar rechts gericht gericht knielend knielende man man naar rechts"
+    ],
+    "🧑‍🦯": [
+      "persoon met taststok",
+      "persoon met taststok blind toegankelijkheid"
+    ],
+    "🧑‍🦯‍➡️": [
+      "persoon met taststok: naar rechts gericht",
+      "persoon met taststok: naar rechts gericht blind gericht naar persoon met taststok rechts toegankelijkheid"
+    ],
+    "👨‍🦯": [
+      "man met taststok",
+      "man met taststok blind man man met blindenstok toegankelijkheid"
+    ],
+    "👨‍🦯‍➡️": [
+      "man met taststok: naar rechts gericht",
+      "man met taststok: naar rechts gericht blind gericht man man met blindenstok man met taststok naar rechts toegankelijkheid"
+    ],
+    "👩‍🦯": [
+      "vrouw met taststok",
+      "vrouw met taststok blind toegankelijkheid vrouw vrouw met blindenstok"
+    ],
+    "👩‍🦯‍➡️": [
+      "vrouw met taststok: naar rechts gericht",
+      "vrouw met taststok: naar rechts gericht blind gericht naar rechts toegankelijkheid vrouw vrouw met blindenstok vrouw met taststok"
+    ],
+    "🧑‍🦼": [
+      "persoon in elektrische rolstoel",
+      "persoon in elektrische rolstoel rolstoel toegankelijkheid"
+    ],
+    "🧑‍🦼‍➡️": [
+      "persoon in elektrische rolstoel: naar rechts gericht",
+      "persoon in elektrische rolstoel: naar rechts gericht gericht naar persoon in elektrische rolstoel rechts rolstoel toegankelijkheid"
+    ],
+    "👨‍🦼": [
+      "man in elektrische rolstoel",
+      "man in elektrische rolstoel elektrisch man rolstoel toegankelijkheid"
+    ],
+    "👨‍🦼‍➡️": [
+      "man in elektrische rolstoel: naar rechts gericht",
+      "man in elektrische rolstoel: naar rechts gericht elektrisch gericht man naar rechts rolstoel toegankelijkheid"
+    ],
+    "👩‍🦼": [
+      "vrouw in elektrische rolstoel",
+      "vrouw in elektrische rolstoel elektrisch rolstoel toegankelijkheid vrouw"
+    ],
+    "👩‍🦼‍➡️": [
+      "vrouw in elektrische rolstoel: naar rechts gericht",
+      "vrouw in elektrische rolstoel: naar rechts gericht elektrisch gericht naar rechts rolstoel toegankelijkheid vrouw"
+    ],
+    "🧑‍🦽": [
+      "persoon in rolstoel",
+      "persoon in rolstoel rolstoel toegankelijkheid"
+    ],
+    "🧑‍🦽‍➡️": [
+      "persoon in rolstoel: naar rechts gericht",
+      "persoon in rolstoel: naar rechts gericht gericht naar persoon in rolstoel rechts rolstoel toegankelijkheid"
+    ],
+    "👨‍🦽": [
+      "man in rolstoel",
+      "man in rolstoel handmatig man rolstoel toegankelijkheid"
+    ],
+    "👨‍🦽‍➡️": [
+      "man in rolstoel: naar rechts gericht",
+      "man in rolstoel: naar rechts gericht gericht handmatig man naar rechts rolstoel toegankelijkheid"
+    ],
+    "👩‍🦽": [
+      "vrouw in rolstoel",
+      "vrouw in rolstoel handmatig rolstoel toegankelijkheid vrouw"
+    ],
+    "👩‍🦽‍➡️": [
+      "vrouw in rolstoel: naar rechts gericht",
+      "vrouw in rolstoel: naar rechts gericht gericht handmatig naar rechts rolstoel toegankelijkheid vrouw"
+    ],
+    "🏃": [
+      "hardloper",
+      "hardloper hardlopen hollen joggen man marathon persoon rennen snel sport"
+    ],
+    "🏃‍♂️": ["rennende man", "rennende man hardlopen man marathon rennen"],
+    "🏃‍♀️": [
+      "rennende vrouw",
+      "rennende vrouw atleet baan beroep haasten hardlopen kom eraan marathon persoon rennen snel sport vlug vrouw werk"
+    ],
+    "🏃‍➡️": [
+      "hardloper: naar rechts gericht",
+      "hardloper: naar rechts gericht gericht hardlopen hardloper hollen joggen man marathon naar persoon rechts rennen snel sport"
+    ],
+    "🏃‍♀️‍➡️": [
+      "rennende vrouw: naar rechts gericht",
+      "rennende vrouw: naar rechts gericht atleet baan beroep gericht haasten hardlopen kom eraan marathon naar persoon rechts rennen rennende vrouw snel sport vlug vrouw werk"
+    ],
+    "🏃‍♂️‍➡️": [
+      "rennende man: naar rechts gericht",
+      "rennende man: naar rechts gericht gericht hardlopen man marathon naar rechts rennen rennende man"
+    ],
+    "🧑‍🩰": ["balletdanser", "balletdanser ballet danser"],
+    "💃": [
+      "dansende vrouw",
+      "dansende vrouw dansen dansende vrouw met rode jurk danseres elegant feest flamenco persoon salsa tango vrouw"
+    ],
+    "🕺": [
+      "dansende man",
+      "dansende man dansen disco feest festival flamenco man persoon salsa tango"
+    ],
+    "🕴️": [
+      "zwevende man in pak",
+      "zwevende man in pak pak persoon zaken zwevend"
+    ],
+    "👯": [
+      "mensen met konijnenoren",
+      "mensen met konijnenoren bestie bff dansen danser danseressen feesten konijnenoor konijnenoren meisje personen tweeling vriendinnen vrouw"
+    ],
+    "👯‍♂️": [
+      "mannen met konijnenoren",
+      "mannen met konijnenoren beste vrienden bff dansen danser feesten feestende mannen konijnenoor konijnenoren mannen twee dansers"
+    ],
+    "👯‍♀️": [
+      "vrouwen met konijnenoren",
+      "vrouwen met konijnenoren danseres feesten konijnenoor vrouwen"
+    ],
+    "🧖": [
+      "persoon in ruimte vol stoom",
+      "persoon in ruimte vol stoom hamam ontspannen persoon in stomende ruimte relaxen sauna stoombad stoomcabine stoomruimte"
+    ],
+    "🧖‍♂️": [
+      "man in ruimte vol stoom",
+      "man in ruimte vol stoom sauna stoomruimte"
+    ],
+    "🧖‍♀️": [
+      "vrouw in ruimte vol stoom",
+      "vrouw in ruimte vol stoom sauna stoomruimte"
+    ],
+    "🧗": [
+      "klimmende persoon",
+      "klimmende persoon alpinisme berg bergbeklimmen bergbeklimmer klimmen klimmer sport"
+    ],
+    "🧗‍♂️": ["klimmende man", "klimmende man klimmer"],
+    "🧗‍♀️": ["klimmende vrouw", "klimmende vrouw klimmer"],
+    "🤺": ["schermer", "schermer degen persoon schermen"],
+    "🏇": [
+      "jockey op renpaard",
+      "jockey op renpaard jockey paard paardrijden racen renpaard sport"
+    ],
+    "⛷️": ["skiër", "skiër ski sneeuw"],
+    "🏂": ["snowboarder", "snowboarder ski sneeuw snowboard sport"],
+    "🏌️": [
+      "golfer",
+      "golfer bal birdie golf golfbaan golfbal green persoon die golf speelt pga sport"
+    ],
+    "🏌️‍♂️": ["golfende man", "golfende man golfen man"],
+    "🏌️‍♀️": [
+      "golfende vrouw",
+      "golfende vrouw bal drivingrange golfen sport vrouw"
+    ],
+    "🏄": [
+      "surfer",
+      "surfer golf golven oceaan sport strand surfen surfende persoon zee"
+    ],
+    "🏄‍♂️": ["mannelijke surfer", "mannelijke surfer man surfen"],
+    "🏄‍♀️": [
+      "vrouwelijke surfer",
+      "vrouwelijke surfer golven sport surfen surfende vrouw vrouw"
+    ],
+    "🚣": [
+      "persoon in roeiboot",
+      "persoon in roeiboot boot meer persoon in boot roeiboot roeien roeiende persoon roeispaan sport"
+    ],
+    "🚣‍♂️": ["man in roeiboot", "man in roeiboot boot man roeiboot"],
+    "🚣‍♀️": [
+      "vrouw in roeiboot",
+      "vrouw in roeiboot boot cruise kano meer peddel rivier roeiboot roeien roeispaan vissen vlot vrouw"
+    ],
+    "🏊": [
+      "zwemmende persoon",
+      "zwemmende persoon freestyle persoon sport triatlon zwemmen zwemmer"
+    ],
+    "🏊‍♂️": ["zwemmende man", "zwemmende man man zwemmen"],
+    "🏊‍♀️": ["zwemmende vrouw", "zwemmende vrouw sport vrouw zwemmen zwemster"],
+    "⛹️": [
+      "basketbalspeler",
+      "basketbalspeler nba bal basketbal basketballer dribbelen persoon met bal sport vrije worp"
+    ],
+    "⛹️‍♂️": ["basketballer", "basketballer bal man"],
+    "⛹️‍♀️": [
+      "basketbalster",
+      "basketbalster bal basketbal sport vrouw vrouw met bal"
+    ],
+    "🏋️": [
+      "gewichtheffer",
+      "gewichtheffer bodybuilder gewicht heffer krachtsport krachttraining sport sportschool sterk trainen work-out"
+    ],
+    "🏋️‍♂️": [
+      "mannelijke gewichtheffer",
+      "mannelijke gewichtheffer gewichtheffen man"
+    ],
+    "🏋️‍♀️": [
+      "vrouwelijke gewichtheffer",
+      "vrouwelijke gewichtheffer gewichtheffen gewichtheffende vrouw sport vrouw"
+    ],
+    "🚴": [
+      "fietsende persoon",
+      "fietsende persoon fiets fietsen fietser persoon sport wielrennen"
+    ],
+    "🚴‍♂️": ["fietsende man", "fietsende man fiets fietsen man wielrenner"],
+    "🚴‍♀️": [
+      "fietsende vrouw",
+      "fietsende vrouw fiets fietsen fietster sport vrouw wielrennen"
+    ],
+    "🚵": [
+      "persoon op mountainbike",
+      "persoon op mountainbike berg fiets fietsen fietser mountainbiken persoon sport"
+    ],
+    "🚵‍♂️": [
+      "man op mountainbike",
+      "man op mountainbike berg fiets fietsen fietser man"
+    ],
+    "🚵‍♀️": [
+      "vrouw op mountainbike",
+      "vrouw op mountainbike berg fiets fietsen fietster mountainbiken sport vrouw"
+    ],
+    "🤸": [
+      "persoon die een radslag doet",
+      "persoon die een radslag doet blij buiten gymnastiek olympische spelen persoon radslag sport turnen"
+    ],
+    "🤸‍♂️": [
+      "man die een radslag doet",
+      "man die een radslag doet blij gymnastiek lenig man man doet radslag persoon radslag sport turnen turner"
+    ],
+    "🤸‍♀️": [
+      "vrouw die een radslag doet",
+      "vrouw die een radslag doet blij gymnastiek lenig persoon radslag sport turnen turnster vrouw vrouw doet radslag"
+    ],
+    "🤼": [
+      "personen die worstelen",
+      "personen die worstelen duel olympische spelen sport toernooi worstelaar worstelen"
+    ],
+    "🤼‍♂️": [
+      "worstelende mannen",
+      "worstelende mannen mannen persoon sport strijd toernooi worstelaars worstelen"
+    ],
+    "🤼‍♀️": [
+      "worstelende vrouwen",
+      "worstelende vrouwen olympische spelen persoon sport strijd toernooi vechten vrouwen worstelen"
+    ],
+    "🤽": [
+      "persoon die waterpolo speelt",
+      "persoon die waterpolo speelt persoon polo spelen sport water waterpolo zwemmen"
+    ],
+    "🤽‍♂️": [
+      "man die waterpolo speelt",
+      "man die waterpolo speelt man polo spelen sport water waterpolo zwemmen"
+    ],
+    "🤽‍♀️": [
+      "vrouw die waterpolo speelt",
+      "vrouw die waterpolo speelt polo spelen sport vrouw water waterpolo zwemmen"
+    ],
+    "🤾": [
+      "persoon die handbal speelt",
+      "persoon die handbal speelt bal gooien handbal sport springen worp"
+    ],
+    "🤾‍♂️": [
+      "man die handbal speelt",
+      "man die handbal speelt handballen handballende man handballer man sport"
+    ],
+    "🤾‍♀️": [
+      "vrouw die handbal speelt",
+      "vrouw die handbal speelt bal gooien handballen handballende vrouw sport springen vrouw worp"
+    ],
+    "🤹": [
+      "persoon die jongleert",
+      "persoon die jongleert balanceren balans beheren hanteren jongleren multitasken nummer persoon vaardigheid"
+    ],
+    "🤹‍♂️": [
+      "man die jongleert",
+      "man die jongleert ballen goochelaar jongleren jonglerende man jongleur man multitasken vaardigheid"
+    ],
+    "🤹‍♀️": [
+      "vrouw die jongleert",
+      "vrouw die jongleert jongleren jonglerende vrouw multitasken vrouw"
+    ],
+    "🧘": [
+      "persoon in lotushouding",
+      "persoon in lotushouding benen gekruist kleermakerszit meditatie ontspannen relax yoga zen"
+    ],
+    "🧘‍♂️": ["man in lotushouding", "man in lotushouding meditatie yoga"],
+    "🧘‍♀️": ["vrouw in lotushouding", "vrouw in lotushouding meditatie yoga"],
+    "🛀": [
+      "persoon in badkuip",
+      "persoon in badkuip bad badkuip badkuip met douche persoon in bad"
+    ],
+    "🛌": [
+      "persoon in bed",
+      "persoon in bed bed deken dutje goedenacht hotel moe slaap slaapwel slapen vermoeid welterusten zzz"
+    ],
+    "🧑‍🤝‍🧑": [
+      "personen hand in hand",
+      "personen hand in hand hand hand in hand handen vasthouden koppeltje paar persoon samen stel vasthouden"
+    ],
+    "👭": [
+      "vrouwen hand in hand",
+      "vrouwen hand in hand beste vrienden bff daten flirten hand meisjes paar schatje tweeling vasthouden vrienden vrouwen zussen"
+    ],
+    "👫": [
+      "man en vrouw hand in hand",
+      "man en vrouw hand in hand afspraakje bae date flirten hand hand in hand koppel man stel vasthouden verliefd vrienden vrouw"
+    ],
+    "👬": [
+      "mannen hand in hand",
+      "mannen hand in hand beste vrienden bff broers daten flirten hand jongens paar schatje tweeling vasthouden vrienden"
+    ],
+    "💏": [
+      "kus",
+      "kus afspraakje date kussen liefde personen romantiek stel stelletje verliefd"
+    ],
+    "👩‍❤️‍💋‍👨": [
+      "kus: vrouw, man",
+      "kus: vrouw, man afspraakje date kus kussen liefde man personen romantiek stel stelletje verliefd vrouw"
+    ],
+    "👨‍❤️‍💋‍👨": [
+      "kus: man, man",
+      "kus: man, man afspraakje date kus kussen liefde man personen romantiek stel stelletje verliefd"
+    ],
+    "👩‍❤️‍💋‍👩": [
+      "kus: vrouw, vrouw",
+      "kus: vrouw, vrouw afspraakje date kus kussen liefde personen romantiek stel stelletje verliefd vrouw"
+    ],
+    "💑": [
+      "stel met hart",
+      "stel met hart hart jubileum liefde personen relatie romantiek stel stelletje stelletje met hart verliefd"
+    ],
+    "👩‍❤️‍👨": [
+      "stel met hart: vrouw, man",
+      "stel met hart: vrouw, man hart jubileum liefde man personen relatie romantiek stel stel met hart stelletje stelletje met hart verliefd vrouw"
+    ],
+    "👨‍❤️‍👨": [
+      "stel met hart: man, man",
+      "stel met hart: man, man hart jubileum liefde man personen relatie romantiek stel stel met hart stelletje stelletje met hart verliefd"
+    ],
+    "👩‍❤️‍👩": [
+      "stel met hart: vrouw, vrouw",
+      "stel met hart: vrouw, vrouw hart jubileum liefde personen relatie romantiek stel stel met hart stelletje stelletje met hart verliefd vrouw"
+    ],
+    "👨‍👩‍👦": [
+      "gezin: man, vrouw, jongen",
+      "gezin: man, vrouw, jongen gezin jongen kind man vrouw"
+    ],
+    "👨‍👩‍👧": [
+      "gezin: man, vrouw, meisje",
+      "gezin: man, vrouw, meisje gezin kind man meisje vrouw"
+    ],
+    "👨‍👩‍👧‍👦": [
+      "gezin: man, vrouw, meisje, jongen",
+      "gezin: man, vrouw, meisje, jongen gezin jongen kind man meisje vrouw"
+    ],
+    "👨‍👩‍👦‍👦": [
+      "gezin: man, vrouw, jongen, jongen",
+      "gezin: man, vrouw, jongen, jongen gezin jongen kind man vrouw"
+    ],
+    "👨‍👩‍👧‍👧": [
+      "gezin: man, vrouw, meisje, meisje",
+      "gezin: man, vrouw, meisje, meisje gezin kind man meisje vrouw"
+    ],
+    "👨‍👨‍👦": [
+      "gezin: man, man, jongen",
+      "gezin: man, man, jongen gezin jongen kind man"
+    ],
+    "👨‍👨‍👧": [
+      "gezin: man, man, meisje",
+      "gezin: man, man, meisje gezin kind man meisje"
+    ],
+    "👨‍👨‍👧‍👦": [
+      "gezin: man, man, meisje, jongen",
+      "gezin: man, man, meisje, jongen gezin jongen kind man meisje"
+    ],
+    "👨‍👨‍👦‍👦": [
+      "gezin: man, man, jongen, jongen",
+      "gezin: man, man, jongen, jongen gezin jongen kind man"
+    ],
+    "👨‍👨‍👧‍👧": [
+      "gezin: man, man, meisje, meisje",
+      "gezin: man, man, meisje, meisje gezin kind man meisje"
+    ],
+    "👩‍👩‍👦": [
+      "gezin: vrouw, vrouw, jongen",
+      "gezin: vrouw, vrouw, jongen gezin jongen kind vrouw"
+    ],
+    "👩‍👩‍👧": [
+      "gezin: vrouw, vrouw, meisje",
+      "gezin: vrouw, vrouw, meisje gezin kind meisje vrouw"
+    ],
+    "👩‍👩‍👧‍👦": [
+      "gezin: vrouw, vrouw, meisje, jongen",
+      "gezin: vrouw, vrouw, meisje, jongen gezin jongen kind meisje vrouw"
+    ],
+    "👩‍👩‍👦‍👦": [
+      "gezin: vrouw, vrouw, jongen, jongen",
+      "gezin: vrouw, vrouw, jongen, jongen gezin jongen kind vrouw"
+    ],
+    "👩‍👩‍👧‍👧": [
+      "gezin: vrouw, vrouw, meisje, meisje",
+      "gezin: vrouw, vrouw, meisje, meisje gezin kind meisje vrouw"
+    ],
+    "👨‍👦": ["gezin: man, jongen", "gezin: man, jongen gezin jongen kind man"],
+    "👨‍👦‍👦": [
+      "gezin: man, jongen, jongen",
+      "gezin: man, jongen, jongen gezin jongen kind man"
+    ],
+    "👨‍👧": ["gezin: man, meisje", "gezin: man, meisje gezin kind man meisje"],
+    "👨‍👧‍👦": [
+      "gezin: man, meisje, jongen",
+      "gezin: man, meisje, jongen gezin jongen kind man meisje"
+    ],
+    "👨‍👧‍👧": [
+      "gezin: man, meisje, meisje",
+      "gezin: man, meisje, meisje gezin kind man meisje"
+    ],
+    "👩‍👦": [
+      "gezin: vrouw, jongen",
+      "gezin: vrouw, jongen gezin jongen kind vrouw"
+    ],
+    "👩‍👦‍👦": [
+      "gezin: vrouw, jongen, jongen",
+      "gezin: vrouw, jongen, jongen gezin jongen kind vrouw"
+    ],
+    "👩‍👧": [
+      "gezin: vrouw, meisje",
+      "gezin: vrouw, meisje gezin kind meisje vrouw"
+    ],
+    "👩‍👧‍👦": [
+      "gezin: vrouw, meisje, jongen",
+      "gezin: vrouw, meisje, jongen gezin jongen kind meisje vrouw"
+    ],
+    "👩‍👧‍👧": [
+      "gezin: vrouw, meisje, meisje",
+      "gezin: vrouw, meisje, meisje gezin kind meisje vrouw"
+    ],
+    "🗣️": [
+      "silhouet van sprekend hoofd",
+      "silhouet van sprekend hoofd gezicht hoofd silhouet spreek spreken"
+    ],
+    "👤": [
+      "silhouet van persoon",
+      "silhouet van persoon buste mysterieus schaduw silhouet"
+    ],
+    "👥": [
+      "silhouet van twee personen",
+      "silhouet van twee personen bff buste bustes in silhouet schaduw silhouet vrienden"
+    ],
+    "🫂": [
+      "personen in een omhelzing",
+      "personen in een omhelzing bedankt dag hallo knuffel knuffelen liefde omhelzing persoon vriendschap"
+    ],
+    "👪": ["gezin", "gezin kind"],
+    "🧑‍🧑‍🧒": [
+      "gezin: volwassene, volwassene, kind",
+      "gezin: volwassene, volwassene, kind gezin kind volwassene"
+    ],
+    "🧑‍🧑‍🧒‍🧒": [
+      "gezin: volwassene, volwassene, kind, kind",
+      "gezin: volwassene, volwassene, kind, kind gezin kind volwassene"
+    ],
+    "🧑‍🧒": [
+      "gezin: volwassene, kind",
+      "gezin: volwassene, kind gezin kind volwassene"
+    ],
+    "🧑‍🧒‍🧒": [
+      "gezin: volwassene, kind, kind",
+      "gezin: volwassene, kind, kind gezin kind volwassene"
+    ],
+    "👣": [
+      "voetafdrukken",
+      "voetafdrukken afdruk blote voeten kleding lopen onderweg voetafdruk"
+    ],
+    "🫆": ["vingerafdruk", "vingerafdruk forensisch identiteit veiligheid"],
+    "🐵": ["apengezicht", "apengezicht aap banaan dier gezicht"],
+    "🐒": ["aap", "aap banaan dier"],
+    "🦍": ["gorilla", "gorilla dier"],
+    "🦧": ["orang-oetang", "orang-oetang aap dier"],
+    "🐶": [
+      "hondengezicht",
+      "hondengezicht dier gezicht hond huisdier puppy puppy’s schattig"
+    ],
+    "🐕": ["hond", "hond dier dieren honden huisdier"],
+    "🦮": [
+      "blindengeleidehond",
+      "blindengeleidehond blind dier geleide hond toegankelijkheid"
+    ],
+    "🐕‍🦺": [
+      "assistentiehond",
+      "assistentiehond assistentie dier hond hulp toegankelijkheid"
+    ],
+    "🐩": ["poedel", "poedel dier hond pluizig"],
+    "🐺": ["wolf", "wolf dier gezicht"],
+    "🦊": ["vos", "vos dier gezicht"],
+    "🦝": ["wasbeer", "wasbeer dier nieuwsgierig sluw"],
+    "🐱": ["kattengezicht", "kattengezicht dier gezicht huisdier kat kitten"],
+    "🐈": ["kat", "kat dier dieren huisdier katten kitten"],
+    "🐈‍⬛": [
+      "zwarte kat",
+      "zwarte kat dier halloween kat katachtig miauw pech zwart"
+    ],
+    "🦁": [
+      "leeuw",
+      "leeuw leo alfa brul dier gezicht manen orde safari sterk sterrenbeeld"
+    ],
+    "🐯": [
+      "tijgergezicht",
+      "tijgergezicht dier gezicht groot kat roofdier tijger"
+    ],
+    "🐅": ["tijger", "tijger dier dierentuin groot kat roofdier"],
+    "🐆": ["luipaard", "luipaard dier dierentuin groot kat roofdier"],
+    "🐴": [
+      "paardengezicht",
+      "paardengezicht boerderij dier dressuur gezicht paard paarden"
+    ],
+    "🫎": ["eland", "eland dier gewei zoogdier"],
+    "🫏": ["ezel", "ezel dier grauwtje koppig muildier pakezel zoogdier"],
+    "🐎": ["paard", "paard boerderij dier racen renpaard ruitersport"],
+    "🦄": ["eenhoorn", "eenhoorn gezicht"],
+    "🦓": ["zebra", "zebra dier streep"],
+    "🦌": ["hert", "hert dier"],
+    "🦬": ["bizon", "bizon buffel dier kudde wisent"],
+    "🐮": [
+      "koeiengezicht",
+      "koeiengezicht boe boerderij dier gezicht koe melk"
+    ],
+    "🐂": ["os", "os taurus boerderij dier dieren sterrenbeeld stier"],
+    "🐃": ["waterbuffel", "waterbuffel buffel dier dierentuin water"],
+    "🐄": ["koe", "koe boe boerderij dier dieren melk"],
+    "🐷": [
+      "varkensgezicht",
+      "varkensgezicht boerderij dier gezicht spek varken"
+    ],
+    "🐖": ["varken", "varken boerderij dier spek zeug"],
+    "🐗": ["zwijn", "zwijn dier varken"],
+    "🐽": ["varkensneus", "varkensneus gezicht neus varken"],
+    "🐏": [
+      "ram",
+      "ram aries dier dierentuin horens mannelijk schaap sterrenbeeld"
+    ],
+    "🐑": ["ooi", "ooi blaten boerderij dier lam schaap vrouwelijk wol wollig"],
+    "🐐": ["geit", "geit capricorn boerderij dier melk sterrenbeeld"],
+    "🐪": ["dromedaris", "dromedaris bult dier kameel woestijn één"],
+    "🐫": ["kameel", "kameel bult dier dromedaris twee twee bulten woestijn"],
+    "🦙": ["lama", "lama alpaca dier guanaco vicuña wol"],
+    "🦒": ["giraffe", "giraffe dier vlekken"],
+    "🐘": ["olifant", "olifant dier"],
+    "🦣": ["mammoet", "mammoet dier groot slagtand uitsterven wollig"],
+    "🦏": ["neushoorn", "neushoorn dier"],
+    "🦛": ["nijlpaard", "nijlpaard dier hippopotamus"],
+    "🐭": ["muizengezicht", "muizengezicht dier gezicht muis"],
+    "🐁": ["muis", "muis dier dieren"],
+    "🐀": ["rat", "rat dier"],
+    "🐹": ["hamster", "hamster dier gezicht huisdier"],
+    "🐰": ["konijnengezicht", "konijnengezicht dier gezicht huisdier konijn"],
+    "🐇": ["konijn", "konijn dier huisdier konijntje"],
+    "🐿️": ["eekhoorn", "eekhoorn dier"],
+    "🦫": ["bever", "bever dam dier tanden"],
+    "🦔": ["egel", "egel dier stekelig"],
+    "🦇": ["vleermuis", "vleermuis dier vampier"],
+    "🐻": ["beer", "beer dier gezicht grizzly grommen honing"],
+    "🐻‍❄️": ["ijsbeer", "ijsbeer beer noordpool wit"],
+    "🐨": ["koala", "koala australië beer buideldier dier down gezicht under"],
+    "🐼": ["panda", "panda bamboe dier gezicht"],
+    "🦥": ["luiaard", "luiaard lui traag"],
+    "🦦": ["otter", "otter dier speels vissen"],
+    "🦨": ["stinkdier", "stinkdier dier stank"],
+    "🦘": ["kangoeroe", "kangoeroe buideldier dier joey springen"],
+    "🦡": ["das", "das dier honing kwellen"],
+    "🐾": ["pootafdrukken", "pootafdrukken afdruk poot poten"],
+    "🦃": ["kalkoen", "kalkoen dier gevogelte"],
+    "🐔": ["kip", "kip dier gevogelte"],
+    "🐓": ["haan", "haan dier ornithologie vogel"],
+    "🐣": ["kuiken uit ei", "kuiken uit ei baby dier ei kuiken uitkomen vogel"],
+    "🐤": ["kuikentje", "kuikentje baby dier gevogelte kuiken vogel"],
+    "🐥": [
+      "naar voren kijkend kuikentje",
+      "naar voren kijkend kuikentje baby dier gevogelte kuiken vogel"
+    ],
+    "🐦": ["vogel", "vogel dier duif"],
+    "🐧": ["pinguïn", "pinguïn antarctica dier vogel"],
+    "🕊️": ["duif", "duif ornithologie vliegen vogel vrede"],
+    "🦅": ["adelaar", "adelaar dier ornithologie vogel"],
+    "🦆": ["eend", "eend dier vogel woerd"],
+    "🦢": ["zwaan", "zwaan dier jonge zwaan lelijk eendje vogel zwanenjong"],
+    "🦉": ["uil", "uil dier vogel wijs wijsheid"],
+    "🦤": ["dodo", "dodo dier groot ornithologie uitsterven vogel"],
+    "🪶": ["veer", "veer licht verenkleed vlucht vogel"],
+    "🦩": ["flamingo", "flamingo dier flamboyant ornithologie tropisch vogel"],
+    "🦚": [
+      "pauw",
+      "pauw dier kleurrijk mooie vogel opzichtig pauwhen pronkerig trots trots als een pauw vogel"
+    ],
+    "🦜": ["papegaai", "papegaai dier lorre napraten piraat praten vogel"],
+    "🪽": [
+      "vleugel",
+      "vleugel engelachtig luchtvaart mythologie vliegen vogel"
+    ],
+    "🐦‍⬛": [
+      "merel",
+      "merel dier kauw kraai kraaiachtige ornithologie raaf roek snavel vogel zwart"
+    ],
+    "🪿": ["gans", "gans gevogelte onnozel snateren vogel"],
+    "🐦‍🔥": [
+      "feniks",
+      "feniks as fantasie hergeboorte herrezen mythe reïncarnatie vogel vuurvogel"
+    ],
+    "🐸": ["kikker", "kikker dier gezicht"],
+    "🐊": ["krokodil", "krokodil dier dierentuin"],
+    "🐢": ["schildpad", "schildpad dier waterschildpad"],
+    "🦎": ["hagedis", "hagedis dier reptiel"],
+    "🐍": ["slang", "slang ophiuchus dier dierenriem drager serpent"],
+    "🐲": ["drakengezicht", "drakengezicht dier draak gezicht sprookje"],
+    "🐉": ["draak", "draak dier ridders sprookje"],
+    "🦕": [
+      "sauropode",
+      "sauropode brachiosaurus brontosaurus dinosaurus diplodocus"
+    ],
+    "🦖": ["T-Rex", "t-rex rex t tyrannosaurus dinosaurus"],
+    "🐳": [
+      "spuitende walvis",
+      "spuitende walvis dier gezicht oceaan spuitend strand walvis"
+    ],
+    "🐋": ["walvis", "walvis dier oceaan strand"],
+    "🐬": ["dolfijn", "dolfijn dier flipper oceaan strand"],
+    "🫍": ["orka", "orka oceaan walvis zee"],
+    "🦭": ["zeehond", "zeehond dier leeuw oceaan zee"],
+    "🐟": ["vis", "vis pisces dier eten sterrenbeeld vissen"],
+    "🐠": ["tropische vis", "tropische vis dier tropisch vis vissen"],
+    "🐡": ["kogelvis", "kogelvis dier vis"],
+    "🦈": ["haai", "haai dier vis"],
+    "🐙": ["octopus", "octopus dier oceaan wezen"],
+    "🐚": ["schelp", "schelp dier spiraal strand zee"],
+    "🪸": ["koraal", "koraal klimaat oceaan rif verandering zee"],
+    "🪼": [
+      "kwal",
+      "kwal aquarium au beet branden dier gelei leven oceaan ongewerveld plankton steek tentakels zee"
+    ],
+    "🦀": ["krab", "krab dierenriem kreeft"],
+    "🦞": ["kreeft", "kreeft bisque dier scharen zeevruchten"],
+    "🦐": ["garnaal", "garnaal klein schaaldier voedsel"],
+    "🦑": ["inktvis", "inktvis dier voedsel weekdier"],
+    "🦪": ["oester", "oester duiken parel"],
+    "🐌": ["slak", "slak dier escargot naaktslak natuur tuin"],
+    "🦋": ["vlinder", "vlinder insect mooi"],
+    "🫌": [
+      "monarchvlinder",
+      "monarchvlinder fragiel hoop insect metamorfose migratie rups transformatie verandering"
+    ],
+    "🐛": ["insect", "insect beestje dier tuin"],
+    "🐜": ["mier", "mier dier insect tuin"],
+    "🐝": ["honingbij", "honingbij bij dier hommel honing insect lente natuur"],
+    "🪲": ["kever", "kever beestje dier insect"],
+    "🐞": [
+      "lieveheersbeestje",
+      "lieveheersbeestje dier insect kever lieveheersbeest natuur tuin"
+    ],
+    "🦗": ["krekel", "krekel orthoptera dier insect sprinkhaan"],
+    "🪳": ["kakkerlak", "kakkerlak bakkerstor dier insect plaag"],
+    "🕷️": ["spin", "spin dier insect"],
+    "🕸️": ["spinnenweb", "spinnenweb spin web"],
+    "🦂": ["schorpioen", "schorpioen scorpio scorpius sterrenbeeld"],
+    "🦟": ["mug", "mug beet insect koorts malaria ongedierte virus ziekte"],
+    "🪰": ["vlieg", "vlieg dier insect made ongedierte rottend ziekte"],
+    "🪱": ["worm", "worm dier parasiet regenworm ringworm"],
+    "🦠": ["microbe", "microbe amoebe bacteriën virus wetenschap"],
+    "💐": [
+      "boeket",
+      "boeket afspraakje bedankt beterschap bloem date jubileum romantiek verjaardag"
+    ],
+    "🌸": [
+      "kersenbloesem",
+      "kersenbloesem bloem bloesem kers lente plant voorjaar"
+    ],
+    "💮": ["witte bloem", "witte bloem bloem wit"],
+    "🪷": [
+      "lotus",
+      "lotus boeddhisme hindoeïsme bloem puurheid rust schoonheid sereen vrede"
+    ],
+    "🏵️": ["rozet", "rozet plant"],
+    "🌹": ["roos", "roos bloem elegant liefde plant rood schoonheid valentijn"],
+    "🥀": ["verwelkte bloem", "verwelkte bloem bloem sterven verwelkt"],
+    "🌺": ["hibiscus", "hibiscus bloem plant"],
+    "🌻": ["zonnebloem", "zonnebloem bloem buiten plant zon"],
+    "🌼": ["bloesem", "bloesem bloem boterbloem paardenbloem plant"],
+    "🌷": ["tulp", "tulp bloem bloesem groei plant"],
+    "🪻": [
+      "hyacint",
+      "hyacint bloem lavendel leeuwenbek lupine vlinderbloemige"
+    ],
+    "🌱": ["zaailing", "zaailing jong plant spruit stekje"],
+    "🪴": ["potplant", "potplant decor groeien huis plant pot verzorgen"],
+    "🌲": ["naaldboom", "naaldboom boom bos dennenboom kerst"],
+    "🌳": ["loofboom", "loofboom boom bos groen habitat verliezen"],
+    "🌴": ["palmboom", "palmboom boom palm plant strand tropisch"],
+    "🌵": ["cactus", "cactus droogte natuur plant woestijn"],
+    "🌾": ["rijstplant", "rijstplant aar graan granen plant rijst rijstaar"],
+    "🌿": ["kruid", "kruid blad plant"],
+    "☘️": ["klavertjedrie", "klavertjedrie iers plant"],
+    "🍀": [
+      "klavertjevier",
+      "klavertjevier 4 iers blad geluk klaver plant vier"
+    ],
+    "🍁": ["esdoornblad", "esdoornblad blad esdoorn vallend"],
+    "🍂": [
+      "vallende bladeren",
+      "vallende bladeren blad gevallen herfst vallend"
+    ],
+    "🍃": ["blad in de wind", "blad in de wind blad blazen fladderen wind"],
+    "🪹": ["leeg nest", "leeg nest leeg nest nestelen tak thuis"],
+    "🪺": [
+      "nest met eieren",
+      "nest met eieren ei eieren nest nestelen tak vogel"
+    ],
+    "🍄": ["paddenstoel", "paddenstoel schimmel zwam"],
+    "🪾": [
+      "boom zonder bladeren",
+      "boom zonder bladeren boom boomstam dood droogte hout kaal leeg takken winter zonder bladeren"
+    ],
+    "🍇": ["druiven", "druiven dionysus druif fruit"],
+    "🍈": ["meloen", "meloen fruit kanteloep"],
+    "🍉": ["watermeloen", "watermeloen fruit"],
+    "🍊": [
+      "mandarijn",
+      "mandarijn c citrus fruit nectarine sinaasappel vitamine"
+    ],
+    "🍋": ["citroen", "citroen citrus fruit zuur"],
+    "🍋‍🟩": [
+      "limoen",
+      "limoen citrus cocktail fruit groen margarita sap tropisch vrucht zuur"
+    ],
+    "🍌": ["banaan", "banaan fruit kalium"],
+    "🍍": ["ananas", "ananas eten fruit tropisch voedsel"],
+    "🥭": ["mango", "mango eten fruit tropisch"],
+    "🍎": [
+      "rode appel",
+      "rode appel appel dieet fruit gezondheid rijp rood voedsel"
+    ],
+    "🍏": ["groene appel", "groene appel appel fruit groen"],
+    "🍐": ["peer", "peer fruit"],
+    "🍑": ["perzik", "perzik fruit"],
+    "🍒": ["kersen", "kersen bessen fruit kers rood"],
+    "🍓": ["aardbei", "aardbei bes fruit"],
+    "🫐": [
+      "bosbessen",
+      "bosbessen bes bessen blauw blauwbessen bosbes fruit voedsel"
+    ],
+    "🥝": ["kiwi", "kiwi fruit voedsel"],
+    "🍅": ["tomaat", "tomaat fruit groente voedsel"],
+    "🫒": ["olijf", "olijf voedsel"],
+    "🥥": ["kokosnoot", "kokosnoot eten palm palmboom pina colada voedsel"],
+    "🥑": ["avocado", "avocado fruit voedsel"],
+    "🍆": ["aubergine", "aubergine groente"],
+    "🥔": ["aardappel", "aardappel groente voedsel"],
+    "🥕": ["wortel", "wortel groente voedsel"],
+    "🌽": ["maïskolf", "maïskolf boerderij doolhof gewassen kolf maïs"],
+    "🌶️": ["hete peper", "hete peper heet peper"],
+    "🫑": ["paprika", "paprika capsicum groente peper voedsel"],
+    "🥒": ["komkommer", "komkommer augurk eten groente"],
+    "🫝": [
+      "augurk",
+      "augurk condiment fermenteren ingemaakt komkommer kruiderij zuur"
+    ],
+    "🥬": [
+      "bladgroente",
+      "bladgroente bladgroen boerenkool bok choy burgers kool paksoi salade sla"
+    ],
+    "🥦": ["broccoli", "broccoli kool wild"],
+    "🧄": ["knoflook", "knoflook smaakmaker"],
+    "🧅": ["ui", "ui smaakmaker"],
+    "🥜": ["pinda’s", "pinda’s eten groente noot pinda"],
+    "🫘": ["bonen", "bonen kidneyboon klein peulvrucht voedsel"],
+    "🌰": ["kastanje", "kastanje amandel plant"],
+    "🫚": ["gemberwortel", "gemberwortel bier gember specerij wortel"],
+    "🫛": [
+      "erwtendop",
+      "erwtendop bonen dop edamame erwt groente peul peulvrucht"
+    ],
+    "🍄‍🟫": [
+      "bruine paddestoel",
+      "bruine paddestoel bruine paddenstoel champignon eten groente natuur paddenstoel paddo pizza schimmel shiitake"
+    ],
+    "🫜": ["knol", "knol biet groente raap tuin wortel"],
+    "🍞": ["brood", "brood eten koolhydraten tarwe voedsel"],
+    "🥐": ["croissant", "croissant brood eten frans ontbijt voedsel"],
+    "🥖": ["stokbrood", "stokbrood frans brood eten"],
+    "🫓": ["platbrood", "platbrood arepa brood eten gordita lavash naan pita"],
+    "🥨": ["pretzel", "pretzel gedraaid krakeling"],
+    "🥯": ["bagel", "bagel bakkerij brood ontbijt spread"],
+    "🥞": [
+      "pannenkoeken",
+      "pannenkoeken crêpe eten flensje ontbijt pannenkoek"
+    ],
+    "🧇": ["wafel", "wafel besluiteloos ijzer ontbijt"],
+    "🧀": ["stuk kaas", "stuk kaas kaas plak"],
+    "🍖": ["vlees met bot", "vlees met bot bot vlees"],
+    "🍗": ["kippenpoot", "kippenpoot bot gevogelte honger kalkoen kip poot"],
+    "🥩": ["vlees", "vlees biefstuk bout karbonade kotelet lamskotelet rood"],
+    "🥓": ["bacon", "bacon eten ontbijt spek vlees"],
+    "🍔": ["hamburger", "hamburger burger eten fastfood honger"],
+    "🍟": ["patat", "patat eten fastfood frans frietjes"],
+    "🍕": ["pizzapunt", "pizzapunt eten honger kaas pepperoni pizza punt"],
+    "🌭": ["hotdog", "hotdog braadworst frankfurter knakworst worst"],
+    "🥪": ["boterham", "boterham brood sandwich"],
+    "🌮": ["taco", "taco mexicaans"],
+    "🌯": ["burrito", "burrito mexicaans wrap"],
+    "🫔": ["tamale", "tamale mexicaans eten pamonha verpakt"],
+    "🥙": [
+      "gevuld pitabroodje",
+      "gevuld pitabroodje eten falafel gevuld gyros kebab pitabrood"
+    ],
+    "🧆": ["falafel", "falafel gehaktbal kikkererwt"],
+    "🥚": ["ei", "ei ontbijt voedsel"],
+    "🍳": [
+      "koken",
+      "koken bakken ei gemakkelijk ontbijt pan restaurant spiegelei"
+    ],
+    "🥘": ["paellapan", "paellapan braadpan eten ondiep paella pan"],
+    "🍲": ["stoofschotel", "stoofschotel pan soep voedsel"],
+    "🫕": ["fondue", "fondue chocolade eten gesmolten kaas pot ski"],
+    "🥣": [
+      "kom met lepel",
+      "kom met lepel cornflakes eten muesli ontbijt ontbijtgranen pap soep voedsel"
+    ],
+    "🥗": ["groene salade", "groene salade eten groen salade"],
+    "🍿": ["popcorn", "popcorn film maïs pop"],
+    "🧈": ["boter", "boter zuivel"],
+    "🧂": ["zout", "zout gezouten overstuur smaak specerij zoutvaatje"],
+    "🥫": ["blikvoedsel", "blikvoedsel blik ingeblikt voedsel"],
+    "🍱": ["bentobox", "bentobox bento box voedsel"],
+    "🍘": ["rijstwafel", "rijstwafel cracker eten rijst"],
+    "🍙": ["rijstballetje", "rijstballetje japans balletje eten rijst"],
+    "🍚": ["gekookte rijst", "gekookte rijst gekookt rijst voedsel"],
+    "🍛": ["curry en rijst", "curry en rijst curry rijst voedsel"],
+    "🍜": [
+      "dampende kom",
+      "dampende kom chopsticks dampend eten kom noedels pho ramen soep"
+    ],
+    "🍝": ["spaghetti", "spaghetti eten gehaktballen pasta restaurant"],
+    "🍠": [
+      "gepofte zoete aardappel",
+      "gepofte zoete aardappel aardappel eten gepoft zoet"
+    ],
+    "🍢": ["oden", "oden eten kebab restaurant spies stokje zeevruchten"],
+    "🍣": ["sushi", "sushi eten"],
+    "🍤": [
+      "gefrituurde garnaal",
+      "gefrituurde garnaal garnaal garnalen gefrituurd tempura"
+    ],
+    "🍥": [
+      "viskoekje met krul",
+      "viskoekje met krul koekje krul vis viskoekje"
+    ],
+    "🥮": ["maancake", "maancake cake festival herfst maan yuèbǐng"],
+    "🍡": ["dango", "dango japans dessert spies stokje zoet"],
+    "🥟": [
+      "knoedel",
+      "knoedel dumpling empanada gyōza jiaozi pierogi potsticker"
+    ],
+    "🥠": ["gelukskoekje", "gelukskoekje geluk koekje profetie"],
+    "🥡": [
+      "afhaalmaaltijd",
+      "afhaalmaaltijd bezorgen doggybag eten oesteremmer stokjes voedsel"
+    ],
+    "🍦": ["softijs", "softijs dessert eten ijs restaurant room zoet"],
+    "🍧": [
+      "geschaafd ijs",
+      "geschaafd ijs dessert geschaafd ijs restaurant zoet"
+    ],
+    "🍨": ["ijs", "ijs dessert eten restaurant room zoet"],
+    "🍩": ["donut", "donut dessert eten voedsel zoet"],
+    "🍪": ["koekje", "koekje chip chocolade dessert zoet"],
+    "🎂": [
+      "verjaardagstaart",
+      "verjaardagstaart dessert gebak gelukkig taart verjaardag viering zoet"
+    ],
+    "🍰": ["cake", "cake dessert gebak plak zandgebak zoet"],
+    "🧁": [
+      "cupcake",
+      "cupcake bakkerij dessert hagelslag suiker traktatie zoet"
+    ],
+    "🥧": [
+      "taart",
+      "taart fruit gebak gebakje hartige taart pastei vlees vulling"
+    ],
+    "🍫": [
+      "chocoladereep",
+      "chocoladereep chocolade dessert halloween reep snoep zoetekauw"
+    ],
+    "🍬": ["snoep", "snoep dessert eten gaatjes voedsel wikkel zoet"],
+    "🍭": ["lolly", "lolly dessert eten snoep voedsel zoet"],
+    "🍮": ["vla", "vla dessert pudding zoet"],
+    "🍯": ["honingpot", "honingpot beer eten honing pot vat zoet"],
+    "🍼": [
+      "babyflesje",
+      "babyflesje baby babyfles drinken fles flesje flesvoeding geboorte melk"
+    ],
+    "🥛": ["glas melk", "glas melk drinken glas melk"],
+    "☕": [
+      "warme drank",
+      "warme drank cafeïne café chai drank drinken koffie ochtend stomen thee warm"
+    ],
+    "🫖": ["theepot", "theepot drinken eten pot thee zettten"],
+    "🍵": [
+      "theekopje zonder oor",
+      "theekopje zonder oor drankje drinken kop thee theekopje"
+    ],
+    "🍶": ["sake", "sake bar café drankje drinken fles kopje"],
+    "🍾": [
+      "fles met knallende kurk",
+      "fles met knallende kurk bar drinken fles knallen kurk"
+    ],
+    "🍷": [
+      "wijnglas",
+      "wijnglas alcohol bar café drankje drinken glas restaurant wijn"
+    ],
+    "🍸": [
+      "cocktailglas",
+      "cocktailglas alcohol bar café cocktail drinken glas mad men martini"
+    ],
+    "🍹": [
+      "tropisch drankje",
+      "tropisch drankje alcohol bar club drankjes drinken dronken mai tai mix tropisch"
+    ],
+    "🍺": [
+      "bierglas",
+      "bierglas alcohol bar bier café drinken duitsland glas oktoberfest pils pint"
+    ],
+    "🍻": [
+      "klinkende bierglazen",
+      "klinkende bierglazen alcohol bar bier café drinken glas proosten proostende bierglazen"
+    ],
+    "🥂": [
+      "klinkende glazen",
+      "klinkende glazen drinken glas glazen klinken toosten vieren"
+    ],
+    "🥃": [
+      "tumblerglas",
+      "tumblerglas glas likeur shot tumbler whiskey whisky"
+    ],
+    "🫗": [
+      "vloeistof uitgieten",
+      "vloeistof uitgieten drinken gieten glas leeg morsen oeps ongelukje"
+    ],
+    "🥤": ["beker met rietje", "beker met rietje drinken frisdrank sap water"],
+    "🧋": ["bubbelthee", "bubbelthee boba bubbel melk parel thee voedsel"],
+    "🧃": ["pakje drinken", "pakje drinken drankje pakje rietje sap zoet"],
+    "🧉": ["maté", "maté drank"],
+    "🧊": ["ijsklontje", "ijsklontje ijs ijsberg klontje koud"],
+    "🥢": ["chopsticks", "chopsticks eetstokjes eten stokjes"],
+    "🍽️": [
+      "mes en vork met bord",
+      "mes en vork met bord bord diner eten koken mes vork"
+    ],
+    "🍴": [
+      "mes en vork",
+      "mes en vork bestek eten honger koken lekker lunch mes ontbijt restaurant uit eten vork vork en mes"
+    ],
+    "🥄": ["lepel", "lepel bestek tafelgerei"],
+    "🔪": ["keukenmes", "keukenmes koken koksmes mes wapen"],
+    "🫙": ["pot", "pot container leeg niets saus specerij winkel"],
+    "🏺": [
+      "amfora",
+      "amfora amfoor drinken horoscoop koken kruik sterrenbeeld waterman"
+    ],
+    "🌍": [
+      "wereldbol met Europa-Afrika",
+      "wereldbol met europa-afrika afrika europa aarde afrika europa wereld wereldbol"
+    ],
+    "🌎": [
+      "wereldbol met Noord- en Zuid-Amerika",
+      "wereldbol met noord- en zuid-amerika noord- en zuid-amerika aarde amerika wereld wereldbol"
+    ],
+    "🌏": [
+      "wereldbol met Azië-Australië",
+      "wereldbol met azië-australië australië azië aarde australië azië wereld wereldbol"
+    ],
+    "🌐": [
+      "wereldbol met meridianen",
+      "wereldbol met meridianen aarde internet meridianen wereld wereldbol www"
+    ],
+    "🗺️": ["wereldkaart", "wereldkaart kaart wereld"],
+    "🗾": [
+      "kaart van Japan",
+      "kaart van japan japan japan kaart kaart van japan"
+    ],
+    "🧭": [
+      "kompas",
+      "kompas magnetisch navigatie oriëntatielopen oriënteringslopen richting"
+    ],
+    "🏔️": [
+      "berg met besneeuwde toppen",
+      "berg met besneeuwde toppen berg koud sneeuw"
+    ],
+    "⛰️": ["berg", "berg berg"],
+    "🛘": [
+      "aardverschuiving",
+      "aardverschuiving aardbeving berg gevaar lawine modderlawine ramp stenen"
+    ],
+    "🌋": ["vulkaan", "vulkaan berg lava magma natuur vulkaanuitbarsting"],
+    "🗻": ["berg Fuji", "berg fuji fuji berg fuji natuur vulkaan"],
+    "🏕️": ["kamperen", "kamperen camping tent"],
+    "🏖️": ["strand met parasol", "strand met parasol parasol strand"],
+    "🏜️": ["woestijn", "woestijn woestijn"],
+    "🏝️": ["onbewoond eiland", "onbewoond eiland eiland onbewoond"],
+    "🏞️": ["nationaal park", "nationaal park natuurgebied park"],
+    "🏟️": ["stadion", "stadion amfitheater"],
+    "🏛️": [
+      "klassiek gebouw",
+      "klassiek gebouw gebouw historisch gebouw klassiek klassieke oudheid renaissance rome zuilen"
+    ],
+    "🏗️": ["woningbouw", "woningbouw bouw bouwen haven hijskraan"],
+    "🧱": [
+      "baksteen",
+      "baksteen bakstenen cement gemetseld klei metselen mortel muur steen"
+    ],
+    "🪨": ["rots", "rots betrouwbaar graniet rotsblok steen sterk zwaar"],
+    "🪵": [
+      "hout",
+      "hout balk bijl boomstam hakken open haard stam timmerhout vuur zagen"
+    ],
+    "🛖": ["hut", "hut huis joert onderdak ronde hut strand woning"],
+    "🏘️": ["huizen", "huizen buurt huis"],
+    "🏚️": ["vervallen huis", "vervallen huis bouwval gebouw huis vervallen"],
+    "🏠": [
+      "huis",
+      "huis gebouw settelen thuis villa voorstad vrijstaande woning"
+    ],
+    "🏡": [
+      "huis met tuin",
+      "huis met tuin gebouw huis huisje boompje beestje settelen thuis tuin voorstad vrijstaande woning"
+    ],
+    "🏢": ["kantoorgebouw", "kantoorgebouw gebouw kantoorbaan werk"],
+    "🏣": [
+      "Japans postkantoor",
+      "japans postkantoor japans gebouw japans japans postkantoor post"
+    ],
+    "🏤": ["postkantoor", "postkantoor europees europees gebouw post"],
+    "🏥": ["ziekenhuis", "ziekenhuis dokter gebouw medicijnen"],
+    "🏦": ["bank", "bank gebouw"],
+    "🏨": ["hotel", "hotel gebouw"],
+    "🏩": [
+      "love-hotel",
+      "love-hotel gebouw hotel liefde liefdeshotel lovehotel"
+    ],
+    "🏪": ["supermarkt", "supermarkt boodschappen gebouw winkel"],
+    "🏫": ["school", "school gebouw"],
+    "🏬": ["warenhuis", "warenhuis gebouw winkel winkelen"],
+    "🏭": ["fabriek", "fabriek gebouw"],
+    "🏯": ["Japans kasteel", "japans kasteel japans gebouw kasteel"],
+    "🏰": ["kasteel", "kasteel europees gebouw middeleeuwen"],
+    "💒": ["bruiloft", "bruiloft huwelijk kapel romantiek trouwkapel"],
+    "🗼": ["Tokio-toren", "tokio-toren tokio tokio tokiotoren toren"],
+    "🗽": ["vrijheidsbeeld", "vrijheidsbeeld beeld new york nyc vrijheid"],
+    "⛪": ["kerk", "kerk christelijk geloof kapel kruis religie"],
+    "🕌": ["moskee", "moskee geloof islam moslim religie"],
+    "🛕": [
+      "hindoetempel",
+      "hindoetempel india gebouw geloof goden hindoe religie tempel"
+    ],
+    "🕍": ["synagoge", "synagoge geloof jodendom jood joods religie tempel"],
+    "⛩️": [
+      "shinto-tempel",
+      "shinto-tempel geloof japans poort religie shinto tempel torii"
+    ],
+    "🕋": ["kaäba", "kaäba bedevaart geloof islam mekka moslim religie"],
+    "⛲": ["fontein", "fontein fontein"],
+    "⛺": ["tent", "tent kamperen"],
+    "🌁": ["mistig", "mistig mist"],
+    "🌃": [
+      "sterrenhemel",
+      "sterrenhemel metropool miljoenenstad nacht stad bij nacht sterren"
+    ],
+    "🏙️": [
+      "stadsgezicht",
+      "stadsgezicht flatgebouwen gebouw metropool miljoenenstad stad"
+    ],
+    "🌄": [
+      "zonsopgang in de bergen",
+      "zonsopgang in de bergen berg bergen ochtend zon zonsopgang"
+    ],
+    "🌅": ["zonsopgang", "zonsopgang ochtend zon"],
+    "🌆": [
+      "stad bij schemering",
+      "stad bij schemering avond gebouw landschap metropool miljoenenstad schemer stad zonsondergang"
+    ],
+    "🌇": [
+      "zonsondergang",
+      "zonsondergang flatgebouwen gebouw metropool miljoenenstad schemer zon"
+    ],
+    "🌉": [
+      "brug bij nacht",
+      "brug bij nacht avond brug nacht nachtelijke brug"
+    ],
+    "♨️": ["warmwaterbronnen", "warmwaterbronnen bronnen stomend warm"],
+    "🎠": [
+      "draaimolenpaard",
+      "draaimolenpaard carrousel draaimolen kermis paard pretpark"
+    ],
+    "🛝": ["glijbaan", "glijbaan glijden kind kinderen speeltuin spelen"],
+    "🎡": ["reuzenrad", "reuzenrad kermis pretpark rad"],
+    "🎢": ["achtbaan", "achtbaan baan pretpark"],
+    "💈": ["kapperspaal", "kapperspaal kapper kapsel paal"],
+    "🎪": ["circustent", "circustent circus tent"],
+    "🚂": [
+      "locomotief",
+      "locomotief reizen spoor spoorweg stoom stoomtrein trein vervoermiddel voertuig"
+    ],
+    "🚃": [
+      "treinwagon",
+      "treinwagon elektrisch spoor tram trein trolleybus vervoermiddel voertuig wagon"
+    ],
+    "🚄": [
+      "hogesnelheidstrein",
+      "hogesnelheidstrein hsl shinkansen snelheid spoor trein ultrasnel vervoermiddel voertuig"
+    ],
+    "🚅": [
+      "hogesnelheidstrein met kogelneus",
+      "hogesnelheidstrein met kogelneus hoge snelheid kogeltrein neus reizen shinkansen snelheid spoorweg trein"
+    ],
+    "🚆": ["trein", "trein aankomst spoor vertrek vervoermiddel voertuig"],
+    "🚇": ["metro", "metro ondergrondse vervoermiddel voertuig"],
+    "🚈": ["lightrail", "lightrail monorail spoor vervoermiddel voertuig"],
+    "🚉": [
+      "treinstation",
+      "treinstation spoor station trein vervoermiddel voertuig"
+    ],
+    "🚊": ["tram", "tram trolleybus vervoermiddel voertuig"],
+    "🚝": ["monorail", "monorail vervoermiddel voertuig"],
+    "🚞": ["bergspoor", "bergspoor berg spoor vervoermiddel voertuig wagon"],
+    "🚋": [
+      "tramwagon",
+      "tramwagon tram trolleybus vervoermiddel voertuig wagon"
+    ],
+    "🚌": ["bus", "bus schoolbus vervoermiddel voertuig"],
+    "🚍": [
+      "naderende bus",
+      "naderende bus bus naderend tegemoetkomende bus vervoermiddel voertuig"
+    ],
+    "🚎": ["trolleybus", "trolleybus bus tram trolley vervoermiddel voertuig"],
+    "🚐": ["minibus", "minibus bus vervoermiddel voertuig"],
+    "🚑": ["ambulance", "ambulance hulpdienst spoed vervoermiddel voertuig"],
+    "🚒": [
+      "brandweerauto",
+      "brandweerauto auto brand hulpdienst spoed vervoermiddel voertuig"
+    ],
+    "🚓": [
+      "politieauto",
+      "politieauto auto hulpdienst politie politiewagen vervoermiddel voertuig"
+    ],
+    "🚔": [
+      "naderende politieauto",
+      "naderende politieauto auto hulpdienst naderend politie tegemoetkomende politiewagen vervoermiddel voertuig"
+    ],
+    "🚕": ["taxi", "taxi taxichauffeur uber vervoermiddel voertuig"],
+    "🚖": [
+      "naderende taxi",
+      "naderende taxi auto’s geel naderend rijden roepen taxi"
+    ],
+    "🚗": ["auto", "auto automobiel rijden vervoermiddel voertuig"],
+    "🚘": [
+      "naderende auto",
+      "naderende auto auto automobiel naderend tegemoetkomende auto vervoermiddel voertuig"
+    ],
+    "🚙": [
+      "SUV",
+      "suv auto kampeerauto recreatie rijden suv vervoermiddel voertuig"
+    ],
+    "🛻": [
+      "pick-up",
+      "pick-up auto bestelbak laadbak laadbakwagen transport truck vervoer vracht wagen"
+    ],
+    "🚚": [
+      "bestelbus",
+      "bestelbus bestelwagen bezorging bus levering pakketdienst truck vervoermiddel voertuig"
+    ],
+    "🚛": [
+      "vrachtwagen",
+      "vrachtwagen truck vervoermiddel voertuig vrachtauto vrachtwagen met oplegger"
+    ],
+    "🚜": ["tractor", "tractor trekker vervoermiddel voertuig"],
+    "🏎️": [
+      "raceauto",
+      "raceauto auto formule 1 racen racewagen vervoermiddel voertuig vroem"
+    ],
+    "🏍️": ["motor", "motor racen vervoermiddel voertuig"],
+    "🛵": ["scooter", "scooter brommer motor vervoermiddel voertuig"],
+    "🦽": ["rolstoel", "rolstoel duwen toegankelijkheid zitten"],
+    "🦼": [
+      "elektrische rolstoel",
+      "elektrische rolstoel rijden toegankelijkheid wiel"
+    ],
+    "🛺": ["riksja", "riksja azië thailand auto tuktuk vervoer wagen"],
+    "🚲": ["fiets", "fiets fietsen rijwiel spinning vervoermiddel voertuig"],
+    "🛴": ["step", "step autoped steppen vervoermiddel voertuig"],
+    "🛹": ["skateboard", "skateboard board deck skate skaten skater wielen"],
+    "🛼": [
+      "rolschaats",
+      "rolschaats hobby rollerskate rollerskates rolschaatsen schaats skaten sport sporten"
+    ],
+    "🚏": ["bushalte", "bushalte bus halte"],
+    "🛣️": ["snelweg", "snelweg autosnelweg weg"],
+    "🛤️": ["treinspoor", "treinspoor spoor trein"],
+    "🛢️": ["olievat", "olievat olie vat"],
+    "⛽": [
+      "benzinestation",
+      "benzinestation benzine benzinepomp brandstof pomp station"
+    ],
+    "🛞": [
+      "wiel",
+      "wiel auto band cirkel draaien velg velgen vervoer voertuig"
+    ],
+    "🚨": [
+      "zwaailicht van politieauto",
+      "zwaailicht van politieauto alarm auto baken draaiend licht noodgeval politie sirene waarschuwing"
+    ],
+    "🚥": [
+      "horizontaal verkeerslicht",
+      "horizontaal verkeerslicht licht stoplicht verkeer verkeerslichten"
+    ],
+    "🚦": [
+      "verticaal verkeerslicht",
+      "verticaal verkeerslicht kruising licht stoplicht verkeer verkeerslicht verkeerslichten"
+    ],
+    "🛑": ["stopteken", "stopteken achthoekig bord stop verkeersteken"],
+    "🚧": ["bouwwerkzaamheden", "bouwwerkzaamheden barricade werkzaamheden"],
+    "🛙": [
+      "vuurtoren",
+      "vuurtoren baken gids hoop licht maritiem navigatie signaal verlichting zee"
+    ],
+    "⚓": ["anker", "anker hulpmiddel schip"],
+    "🛟": [
+      "reddingsboei",
+      "reddingsboei boei drijven redden reddingsgordel reddingsvest veiligheid verdrinken zwemmen"
+    ],
+    "⛵": [
+      "zeilboot",
+      "zeilboot boot jacht jachthaven vaartuig vervoermiddel zee"
+    ],
+    "🛶": ["kano", "kano boot kajak vaartuig vervoermiddel"],
+    "🚤": [
+      "speedboot",
+      "speedboot boot jacht luxe miljonair reizen vaartuig zomer"
+    ],
+    "🛳️": [
+      "passagiersschip",
+      "passagiersschip passagier schip veerboot vervoermiddel voertuig"
+    ],
+    "⛴️": ["veerboot", "veerboot boot passagier veerpont"],
+    "🛥️": ["motorboot", "motorboot boot vaartuig vervoermiddel"],
+    "🚢": ["schip", "schip boot passagier passagiersschip titanic vaartuig"],
+    "✈️": [
+      "vliegtuig",
+      "vliegtuig luchtvaartuig reizen vervoermiddel vliegen vliegmachine"
+    ],
+    "🛩️": [
+      "vliegtuigje",
+      "vliegtuigje jet klein vliegtuig luchtvaartuig vervoermiddel vliegmachine vliegtuig"
+    ],
+    "🛫": [
+      "vertrek van vliegtuig",
+      "vertrek van vliegtuig inchecken opstijgen vertrek vertrekken vervoermiddel vliegmachine vliegtuig voertuig"
+    ],
+    "🛬": [
+      "aankomst van vliegtuig",
+      "aankomst van vliegtuig aankomen aankomst landen landing vervoermiddel vliegmachine vliegtuig voertuig"
+    ],
+    "🪂": [
+      "parachute",
+      "parachute activiteit deltavliegen hanggliden parachutespringen parasailen skydiven"
+    ],
+    "💺": ["stoel", "stoel treinstoel vliegtuigstoel"],
+    "🚁": [
+      "helikopter",
+      "helikopter roflcopter roflkopter vervoermiddel voertuig"
+    ],
+    "🚟": [
+      "zweeftrein",
+      "zweeftrein hangend spoor spoor vervoermiddel voertuig zwevend"
+    ],
+    "🚠": [
+      "bergkabelbaan",
+      "bergkabelbaan berg gondel kabel skilift vervoermiddel voertuig"
+    ],
+    "🚡": [
+      "kabelbaan",
+      "kabelbaan baan gondel kabel transportbaan vervoermiddel voertuig"
+    ],
+    "🛰️": ["satelliet", "satelliet ruimte ruimtevaart"],
+    "🚀": ["raket", "raket lancering ruimte ruimtereis vervoermiddel voertuig"],
+    "🛸": [
+      "vliegende schotel",
+      "vliegende schotel ufo aliens buitenaards buitenaardse wezens science fiction ufo vervoermiddel voertuig"
+    ],
+    "🛎️": ["piccolobel", "piccolobel balie baliebel bel hotel"],
+    "🧳": ["bagage", "bagage inpakken koffer reis reizen rolkoffer trolley"],
+    "⌛": ["zandloper", "zandloper tijd timer zand"],
+    "⏳": [
+      "zandloper met stromend zand",
+      "zandloper met stromend zand tijd timer zand zandloper"
+    ],
+    "⌚": ["horloge", "horloge klok polshorloge tijd"],
+    "⏰": ["wekker", "wekker alarm klok tijd"],
+    "⏱️": ["stopwatch", "stopwatch klok timer"],
+    "⏲️": ["keukenwekker", "keukenwekker klok kookwekker timer"],
+    "🕰️": ["klok", "klok pendule staande klok tijd"],
+    "🕛": ["twaalf uur", "twaalf uur 00 12 12:00 klok tijd twaalf uur"],
+    "🕧": [
+      "half één",
+      "half één 00:30 12 12:30 30 dertig klok tijd twaalf uur"
+    ],
+    "🕐": ["één uur", "één uur 00 01:00 1 13:00 1:00 klok tijd uur één"],
+    "🕜": ["half twee", "half twee 1 13:30 1:30 30 dertig een klok tijd één"],
+    "🕑": ["twee uur", "twee uur 00 02:00 14:00 2 2:00 klok tijd twee uur"],
+    "🕝": ["half drie", "half drie 14:30 2 2:30 30 dertig klok tijd twee"],
+    "🕒": ["drie uur", "drie uur 00 03:00 15:00 3 3:00 drie klok tijd uur"],
+    "🕞": ["half vier", "half vier 15:30 3 30 3:30 dertig drie klok tijd"],
+    "🕓": ["vier uur", "vier uur 00 04:00 16:00 4 4:00 klok tijd uur vier"],
+    "🕟": ["half vijf", "half vijf 16:30 30 4 4:30 dertig klok tijd vier"],
+    "🕔": ["vijf uur", "vijf uur 00 05:00 17:00 5 5:00 klok uur vijf"],
+    "🕠": ["half zes", "half zes 05:30 17:30 30 5 5:30 dertig klok tijd vijf"],
+    "🕕": ["zes uur", "zes uur 00 06:00 18:00 6 6:00 klok tijd uur zes"],
+    "🕡": [
+      "half zeven",
+      "half zeven 06:30 18:30 30 6 6:30 dertig klok tijd zes"
+    ],
+    "🕖": ["zeven uur", "zeven uur 00 07:00 19:00 7 7:00 klok tijd uur zeven"],
+    "🕢": [
+      "half acht",
+      "half acht 07:30 19:30 30 7 7:30 dertig klok tijd zeven"
+    ],
+    "🕗": ["acht uur", "acht uur 00 08:00 20:00 8 8:00 acht klok tijd uur"],
+    "🕣": [
+      "half negen",
+      "half negen 08:30 20:30 30 8 8:30 acht dertig klok tijd"
+    ],
+    "🕘": ["negen uur", "negen uur 00 09:00 21:00 9 9:00 klok negen tijd uur"],
+    "🕤": [
+      "half tien",
+      "half tien 09:30 21:30 30 9 9:30 dertig klok negen tijd"
+    ],
+    "🕙": ["tien uur", "tien uur 00 10 10:00 22:00 klok tien tijd uur"],
+    "🕥": ["half elf", "half elf 10 10:30 22:30 30 dertig klok tien tijd"],
+    "🕚": ["elf uur", "elf uur 00 11 11:00 23:00 elf klok tijd uur"],
+    "🕦": ["half twaalf", "half twaalf 11 11:30 23:30 30 dertig elf klok tijd"],
+    "🌑": [
+      "nieuwe maan",
+      "nieuwe maan avond donker maan maansverduistering ruimte"
+    ],
+    "🌒": [
+      "jonge maansikkel",
+      "jonge maansikkel avond maan ruimte sikkel wassend wassende halvemaan"
+    ],
+    "🌓": [
+      "maan in eerste kwartier",
+      "maan in eerste kwartier avond kwartier maan ruimte"
+    ],
+    "🌔": [
+      "wassende maan",
+      "wassende maan avond bolvormig maan ruimte tussen halve maan en volle maan wassend"
+    ],
+    "🌕": ["volle maan", "volle maan avond maan ruimte vol"],
+    "🌖": [
+      "afnemende maan",
+      "afnemende maan afnemend avond bolvormig maan ruimte tussen halve maan en volle maan wassend"
+    ],
+    "🌗": [
+      "maan in laatste kwartier",
+      "maan in laatste kwartier avond kwartier maan ruimte"
+    ],
+    "🌘": [
+      "asgrauwe maan",
+      "asgrauwe maan afnemend afnemende halvemaan avond maan maansikkel nacht ruimte sikkel"
+    ],
+    "🌙": [
+      "maansikkel",
+      "maansikkel avond halvemaan maan ramadan ruimte sikkel slapen"
+    ],
+    "🌚": [
+      "nieuwe maan met gezicht",
+      "nieuwe maan met gezicht avond gezicht maan nieuwe maan-gezicht ruimte"
+    ],
+    "🌛": [
+      "maan met gezicht in eerste kwartier",
+      "maan met gezicht in eerste kwartier avond eerste kwartier gezicht kwartier maan maan in eerste kwartier met gezicht ruimte slapen"
+    ],
+    "🌜": [
+      "maan met gezicht in laatste kwartier",
+      "maan met gezicht in laatste kwartier avond gezicht kwartier laatste kwartier maan maan in laatste kwartier met gezicht ruimte slapen"
+    ],
+    "🌡️": ["thermometer", "thermometer koorts weer"],
+    "☀️": ["zon", "zon felle zon helder stralen weer zonnig"],
+    "🌝": [
+      "volle maan met gezicht",
+      "volle maan met gezicht avond gezicht helder heldere maan maan ruimte vol volle maan"
+    ],
+    "🌞": [
+      "zon met gezicht",
+      "zon met gezicht gezicht helder warm weer zon zonneschijn"
+    ],
+    "🪐": [
+      "planeet met ringen",
+      "planeet met ringen saturnus heelal planeet ringen ruimte zonnestelsel zwaarmoedig"
+    ],
+    "⭐": ["witte middelgrote ster", "witte middelgrote ster ster"],
+    "🌟": [
+      "stralende ster",
+      "stralende ster fonkelen fonkelend schitteren schitterend schittering ster stralen"
+    ],
+    "🌠": ["vallende ster", "vallende ster hemel ruimte ster vallen vallend"],
+    "🌌": ["melkweg", "melkweg ruimte"],
+    "☁️": ["wolk", "wolk weer"],
+    "⛅": [
+      "zon achter wolk",
+      "zon achter wolk weer wolk zon zon achter wolken"
+    ],
+    "⛈️": [
+      "wolk met bliksem en regen",
+      "wolk met bliksem en regen onweer regen weer wolk"
+    ],
+    "🌤️": ["zon achter kleine wolk", "zon achter kleine wolk weer wolk zon"],
+    "🌥️": ["zon achter grote wolk", "zon achter grote wolk weer wolk zon"],
+    "🌦️": [
+      "zon achter regenwolk",
+      "zon achter regenwolk regen weer wolk zon zon achter wolk met regen"
+    ],
+    "🌧️": ["wolk met regen", "wolk met regen regen weer wolk"],
+    "🌨️": ["wolk met sneeuw", "wolk met sneeuw koud sneeuw weer winter wolk"],
+    "🌩️": ["wolk met bliksem", "wolk met bliksem bliksem weer wolk"],
+    "🌪️": ["tornado", "tornado storm weer wervelwind wolk"],
+    "🌫️": ["mist", "mist bewolkt weer wolk"],
+    "🌬️": [
+      "gezicht dat wind blaast",
+      "gezicht dat wind blaast blazen gezicht weer wind wind met gezicht wolk"
+    ],
+    "🌀": ["cycloon", "cycloon duizelig spiraal twister tyfoon weer"],
+    "🌈": [
+      "regenboog",
+      "regenboog genderqueer glbt homoseksueel lesbisch lgbt lgbtq lgtbqia lhbt natuur pride queer regen transgender weer"
+    ],
+    "🌂": [
+      "ingevouwen paraplu",
+      "ingevouwen paraplu dichte paraplu kleding paraplu regen weer"
+    ],
+    "☂️": [
+      "paraplu",
+      "paraplu geopende paraplu kleding open paraplu regen weer"
+    ],
+    "☔": [
+      "paraplu met regendruppels",
+      "paraplu met regendruppels druppels kleding paraplu regen weer"
+    ],
+    "⛱️": [
+      "strandparasol",
+      "strandparasol parasol parasol op de grond regen zon"
+    ],
+    "⚡": [
+      "hoog voltage",
+      "hoog voltage bliksem donderslag elektriciteit elektrisch gevaar schok spanning voltage"
+    ],
+    "❄️": ["sneeuwvlok", "sneeuwvlok koud sneeuw weer"],
+    "☃️": ["sneeuwpop", "sneeuwpop koud sneeuw weer"],
+    "⛄": [
+      "sneeuwpop zonder sneeuwvlokken",
+      "sneeuwpop zonder sneeuwvlokken koud sneeuw sneeuwpop"
+    ],
+    "☄️": ["komeet", "komeet ruimte vuurbal"],
+    "🪋": [
+      "meteoor",
+      "meteoor apocalyps ruimte steen vallende ster vuurbal zwaartekracht"
+    ],
+    "🔥": ["vuur", "vuur brand heet hulpmiddel vlam"],
+    "💧": ["druppel", "druppel bedroefd koud strip water weer zweet"],
+    "🌊": [
+      "golf",
+      "golf japan kanagawa golfsurfen golven oceaan surfen water weer zee"
+    ],
+    "🎃": [
+      "halloweenlantaarn",
+      "halloweenlantaarn feest halloween lampion lantaarn pompoen pompoenlantaarn sint maarten"
+    ],
+    "🎄": ["kerstboom", "kerstboom kerstmis boom feest kerstmis viering"],
+    "🎆": [
+      "vuurwerk",
+      "vuurwerk feest jaarwisseling knal oud en nieuw oudejaarsavond vermaak viering"
+    ],
+    "🎇": [
+      "sterretje",
+      "sterretje afsteken feest jaarwisseling knal oud en nieuw oudejaarsavond viering vuurwerk vuurwerksterretje"
+    ],
+    "🧨": [
+      "rotje",
+      "rotje boem dynamiet explosief licht ontploffing vonk vuur vuurwerk"
+    ],
+    "✨": ["sterretjes", "sterretjes * glinsteren glinsterende sterren ster"],
+    "🎈": ["ballon", "ballon feest jarig verjaardag vieren viering"],
+    "🎉": [
+      "feestknaller",
+      "feestknaller confetti feest hoera jarig knaller partypopper verjaardag viering"
+    ],
+    "🎊": [
+      "confettibal",
+      "confettibal bal confetti feest hoera jarig verjaardag viering"
+    ],
+    "🎋": [
+      "tanabataboom",
+      "tanabataboom boom boom met papierlinten feest japans papierlinten tanabata"
+    ],
+    "🎍": [
+      "dennenboomversiering",
+      "dennenboomversiering bamboe den dennentakdecoratie feest japans plant"
+    ],
+    "🎎": [
+      "Japanse poppen",
+      "japanse poppen feest festival japans japanse poppen pop poppen viering"
+    ],
+    "🎏": [
+      "karperslinger",
+      "karperslinger feest karper karpers karperwimpel slinger wimpel"
+    ],
+    "🎐": ["windorgel", "windorgel bel feest wind windklokkenspel"],
+    "🎑": [
+      "maanobservatieceremonie",
+      "maanobservatieceremonie ceremonie feest maan maanceremonie viering"
+    ],
+    "🧧": [
+      "rode envelop",
+      "rode envelop cadeau geld geluk geschenk hóngbāo lai see rode enveloppe voorspoed"
+    ],
+    "🎀": ["strik", "strik feest roze lint viering"],
+    "🎁": [
+      "ingepakt cadeau",
+      "ingepakt cadeau cadeau cadeautje cadeauverpakking met strik feest ingepakt verpakking"
+    ],
+    "🎗️": [
+      "bewustzijnslintje",
+      "bewustzijnslintje herinnering herinneringslintje lintje viering"
+    ],
+    "🎟️": [
+      "entreekaartjes",
+      "entreekaartjes entree kaartje toegang toegangskaartje"
+    ],
+    "🎫": [
+      "ticket",
+      "ticket entree entreekaartje kaartje toegang toegangskaartje"
+    ],
+    "🎖️": [
+      "militaire medaille",
+      "militaire medaille medaille militair onderscheiding viering"
+    ],
+    "🏆": [
+      "trofee",
+      "trofee beker gewonnen kampioen overwinning prijs winnaar"
+    ],
+    "🏅": [
+      "sportmedaille",
+      "sportmedaille eerste eerste plaats gewonnen medaille medaille 1e plaats medaille met ster winnaar"
+    ],
+    "🥇": [
+      "medaille 1e plaats",
+      "medaille 1e plaats eerste gewonnen goud gouden medaille winnaar"
+    ],
+    "🥈": [
+      "medaille 2e plaats",
+      "medaille 2e plaats medaille tweede tweede plaats zilver"
+    ],
+    "🥉": [
+      "medaille 3e plaats",
+      "medaille 3e plaats brons bronzen derde derde plaats medaille"
+    ],
+    "⚽": ["voetbal", "voetbal bal futsal messi ronaldo sport"],
+    "⚾": ["honkbal", "honkbal bal sport"],
+    "🥎": [
+      "softbal",
+      "softbal bal handschoen onderarm onderhands sport werpen"
+    ],
+    "🏀": ["basketbal", "basketbal bal basket sport"],
+    "🏐": ["volleybal", "volleybal bal wedstrijd"],
+    "🏈": [
+      "american football",
+      "american football amerikaans bal football sport super bowl"
+    ],
+    "🏉": ["rugby", "rugby bal football sport voetbal"],
+    "🎾": ["tennis", "tennis bal sport tennisbal tennisracket"],
+    "🥏": [
+      "frisbee",
+      "frisbee schijf ultiem ultimate vliegende schotel werpschotel"
+    ],
+    "🎳": ["bowlen", "bowlen bal spel sport strike"],
+    "🏏": [
+      "cricket",
+      "cricket bal bat cricketbat cricketbat en bal slaghout sport wedstrijd"
+    ],
+    "🏑": [
+      "hockey",
+      "hockey bal hockeystick hockeystick en bal sport stick veld wedstrijd"
+    ],
+    "🏒": [
+      "ijshockeystick en puck",
+      "ijshockeystick en puck ijs ijshockey puck sport stick wedstrijd"
+    ],
+    "🥍": ["lacrosse", "lacrosse bal doel sport stick"],
+    "🏓": ["pingpong", "pingpong bal bat batje sport tafeltennis wedstrijd"],
+    "🏸": [
+      "badminton",
+      "badminton badmintonracket en shuttle pluimbal racket shuttle sport wedstrijd"
+    ],
+    "🥊": ["bokshandschoen", "bokshandschoen boksen handschoen sport"],
+    "🥋": [
+      "pak voor vechtsporten",
+      "pak voor vechtsporten judo karate kunst taekwondo uniform vecht"
+    ],
+    "🥅": ["doelnet", "doelnet doel goal net sport"],
+    "⛳": ["vlag in hole", "vlag in hole golf hole sport"],
+    "⛸️": [
+      "schaats",
+      "schaats ijs kunstschaatsen schaatsen sport witte schaats"
+    ],
+    "🎣": ["vishengel", "vishengel hengel sport vis"],
+    "🤿": [
+      "duikbril",
+      "duikbril duiken duikmasker onder water scuba scubaduiken snorkelen vis zee"
+    ],
+    "🎽": [
+      "hardloopshirt",
+      "hardloopshirt atletiek hardlopen shirt sjerp sport"
+    ],
+    "🎿": [
+      "ski’s",
+      "ski’s laars en skis ski skis skischoen skiën sneeuw sport wintersport"
+    ],
+    "🛷": ["slee", "slee rodelen roetsjen slede sleetje sleeën sneeuw"],
+    "🥌": ["curlingsteen", "curlingsteen curling kei spel sport steen"],
+    "🎯": [
+      "directe treffer",
+      "directe treffer bullseye bull’s eye darts doelwit in de roos spel sport treffer voltreffer"
+    ],
+    "🪀": ["jojo", "jojo fluctueren kinderen op en neer speelgoed spelen"],
+    "🪁": ["vlieger", "vlieger buiten opstijgen spelen vliegen zweven"],
+    "🔫": [
+      "waterpistool",
+      "waterpistool gereedschap pistool revolver vuurwapen wapen water"
+    ],
+    "🎱": ["biljart", "biljart 8 8 ball 8-ball acht bal pool spel"],
+    "🔮": [
+      "kristallen bol",
+      "kristallen bol bol glazen bol kristal magie sprookje toekomst voorspellen waarzeggen waarzeggerij"
+    ],
+    "🪄": [
+      "toverstok",
+      "toverstok goochelaar goochelen heks magie magiër tovenaar toveren tovertruc"
+    ],
+    "🎮": [
+      "videogame",
+      "videogame controller game gamecontroller playstation spel videospel xbox"
+    ],
+    "🕹️": ["joystick", "joystick game videogame videospel"],
+    "🎰": [
+      "fruitautomaat",
+      "fruitautomaat casino eenarmige bandiet gokkast gokken spel"
+    ],
+    "🎲": ["dobbelsteen", "dobbelsteen dobbelen dobbelstenen spel yahtzee"],
+    "🧩": [
+      "puzzelstukje",
+      "puzzelstukje aanwijzing gekoppeld legpuzzel passen passend puzzel schakel stukje"
+    ],
+    "🧸": [
+      "teddybeer",
+      "teddybeer beer beertje knuffel knuffelbeer knuffelbeest pluche speelgoed speeltje teddy beer"
+    ],
+    "🪅": [
+      "piñata",
+      "piñata mexicaans mexico cinco de mayo feest snoep snoepgoed vieren viering"
+    ],
+    "🪩": ["spiegelbal", "spiegelbal dans dansen disco discobal feest glitter"],
+    "🪆": [
+      "matroesjka",
+      "matroesjka rusland russisch baboesjka baboesjka’s genest pop poppetjes rusland"
+    ],
+    "♠️": ["schoppen", "schoppen kaart kaarten spel"],
+    "♥️": ["harten", "harten hart kaart kaarten spel"],
+    "♦️": ["ruiten", "ruiten kaart kaarten ruit spel vorm"],
+    "♣️": ["klaveren", "klaveren kaart kaarten klaver spel"],
+    "♟️": ["pion", "pion schaken slachtoffer waardeloos"],
+    "🃏": ["Jokerkaart", "jokerkaart joker kaart kaarten spel spelen"],
+    "🀄": [
+      "mahjong rode draak",
+      "mahjong rode draak mahjong rode draak rood spel stenen"
+    ],
+    "🎴": [
+      "speelkaarten",
+      "speelkaarten bloem bloemenkaart bloemspeelkaarten hanafuda japans kaart kaartspel spel spelen"
+    ],
+    "🎭": [
+      "toneelkunsten",
+      "toneelkunsten kunst masker maskers optreden theater toneel toneelkunst treurspel"
+    ],
+    "🖼️": [
+      "lijst met afbeelding",
+      "lijst met afbeelding afbeelding kunst lijst museum schilderij"
+    ],
+    "🎨": [
+      "schilderspalet",
+      "schilderspalet creatief kleurrijk kunst kunstzinnig museum palet schilderen schilderij"
+    ],
+    "🧵": ["garen", "garen draad klos naaien naald"],
+    "🪡": [
+      "naald",
+      "naald borduren draad hechten hechtingen hobby kleding kleermaken naaien speld"
+    ],
+    "🧶": ["wol", "wol bal bol breien draad haken"],
+    "🪢": [
+      "knoop",
+      "knoop boot geknoopt hobby knopen kronkel padvinder streng touw zeilen"
+    ],
+    "👓": ["bril", "bril bijziend brillen kleding oog verziend zien zonnebril"],
+    "🕶️": ["zonnebril", "zonnebril bril brillen donker oog"],
+    "🥽": [
+      "oogscherm",
+      "oogscherm bescherming bril duik duiken lassen oog zwemmen"
+    ],
+    "🥼": [
+      "labjas",
+      "labjas dokter dr. experiment jas kleding lab wetenschapper wit"
+    ],
+    "🦺": [
+      "veiligheidsvest",
+      "veiligheidsvest gevaarlijk noodgeval veilig veiligheid vest"
+    ],
+    "👔": ["stropdas", "stropdas formeel kleding overhemd pak"],
+    "👕": [
+      "T-shirt",
+      "t-shirt blauw shirt kleding kraag poloshirt shirt vrijetijdskleding"
+    ],
+    "👖": ["spijkerbroek", "spijkerbroek broek jeans kleding"],
+    "🧣": ["sjaal", "sjaal koud nek"],
+    "🧤": ["handschoenen", "handschoenen hand"],
+    "🧥": ["jas", "jas blazer brr jack koud warm aankleden"],
+    "🧦": ["sokken", "sokken kousen"],
+    "👗": [
+      "jurk",
+      "jurk blauwe jurk dansen kleding kledingstuk sjiek winkelen"
+    ],
+    "👘": ["kimono", "kimono japans japon kleding"],
+    "🥻": ["sari", "sari jurk kledij kleding"],
+    "🩱": [
+      "badpak",
+      "badpak badpak uit één stuk strand zomer zwembad zwemgerief zwemmen zwempak"
+    ],
+    "🩲": [
+      "slip",
+      "slip onderbroek ondergoed sporten strand zwembroek zwemgerief zwemkleding zwemmen"
+    ],
+    "🩳": ["korte broek", "korte broek badpak broek ondergoed pak zwem"],
+    "👙": ["bikini", "bikini kleding zwembad zwemkleding zwemmen"],
+    "👚": ["dameskleding", "dameskleding blouse dames kleding shirt"],
+    "🪭": [
+      "opvouwbare waaier",
+      "opvouwbare waaier afkoelen dansen fladderen heet verlegen waaier"
+    ],
+    "👛": [
+      "portemonnee",
+      "portemonnee accessoire beurs geld uitgeven kleding knip munt portefeuille roze portemonnee winkelen"
+    ],
+    "👜": ["handtas", "handtas accessoire kleding modieuze tas tas winkelen"],
+    "👝": ["tasje", "tasje accessoire clutch enveloptas handtas kleding tas"],
+    "🛍️": ["boodschappentassen", "boodschappentassen hotel tas winkelen"],
+    "🎒": ["schooltas", "schooltas boekentas rugzak school tas"],
+    "🩴": [
+      "teenslipper",
+      "teenslipper sandaal sandalen schoen slipper strand strandslipper zōri"
+    ],
+    "👞": [
+      "herenschoen",
+      "herenschoen formeel kleding leren schoen man nette schoen schoen"
+    ],
+    "👟": [
+      "sportschoen",
+      "sportschoen atletiek hardlopen kleding rennen schoen sneaker sporten"
+    ],
+    "🥾": [
+      "wandelschoen",
+      "wandelschoen backpacken bruin buiten kamperen laars schoen wandelen"
+    ],
+    "🥿": [
+      "platte schoen",
+      "platte schoen ballerina ballerina’s comfortabel flatjes instapper slip-on"
+    ],
+    "👠": [
+      "schoen met hoge hak",
+      "schoen met hoge hak hak hoge hak kleding naaldhak pump schoen stiletto vrouw"
+    ],
+    "👡": [
+      "damessandaal",
+      "damessandaal hak hoge hak kleding muiltje sandaal schoen schoen met open teen vrouw"
+    ],
+    "🩰": [
+      "balletschoenen",
+      "balletschoenen ballerina ballet dans dansen pirouette schoenen spitzen"
+    ],
+    "👢": ["dameslaars", "dameslaars kleding laars schoen vrouw"],
+    "🪮": ["haarkam", "haarkam afro haar kam kroes"],
+    "👑": [
+      "kroon",
+      "kroon adel game of thrones kleding koning koningin koninklijk middeleeuwen vorst vorstin"
+    ],
+    "👒": ["dameshoed", "dameshoed hoed hoed met strik kleding vrouw"],
+    "🎩": [
+      "hoge hoed",
+      "hoge hoed fancy formeel goochelen goochelhoed hoed hoog kleding"
+    ],
+    "🎓": [
+      "academische baret",
+      "academische baret afstuderen baret feest hoed kleding opleiding student"
+    ],
+    "🧢": ["pet", "pet baseballcap hoofddeksel"],
+    "🪖": [
+      "legerhelm",
+      "legerhelm helm krijger leger militair oorlog soldaat vechter voorwerp"
+    ],
+    "⛑️": [
+      "helm van reddingswerker",
+      "helm van reddingswerker gezicht helm hoed hulp kruis redding werknemer"
+    ],
+    "📿": [
+      "gebedssnoer",
+      "gebedssnoer gebed gebedsketting gebedskralen geloof ketting kleding kralen"
+    ],
+    "💄": [
+      "lippenstift",
+      "lippenstift afspraakje cosmetica date make-up opmaken"
+    ],
+    "💍": [
+      "ring",
+      "ring bruiloft diamant glinsteren romantiek schitteren trouwen verloving"
+    ],
+    "💎": [
+      "edelsteen",
+      "edelsteen bruiloft diamant juweel romantiek trouwen verloving"
+    ],
+    "🔇": [
+      "speaker uit",
+      "speaker uit dempen geen geluid geluid uit luidspreker mute speaker stil volume"
+    ],
+    "🔈": ["speaker", "speaker laag volume luidspreker volume zacht"],
+    "🔉": [
+      "speaker aan",
+      "speaker aan gemiddeld volume luidspreker speaker volume"
+    ],
+    "🔊": [
+      "speaker luid",
+      "speaker luid hard hoog volume luid luidspreker speaker volume"
+    ],
+    "📢": ["luidspreker", "luidspreker luid megafoon toespraak toespreken"],
+    "📣": [
+      "megafoon",
+      "megafoon communicatie geluid gouden megafoon juichen versterken"
+    ],
+    "📯": ["posthoorn", "posthoorn blaasinstrument hoorn jachthoorn post"],
+    "🔔": ["bel", "bel kerkklok klok luiden pauze rinkelen"],
+    "🔕": [
+      "doorgestreepte bel",
+      "doorgestreepte bel bel dempen geen geen geluid geluid uit niet toegestaan stil stilte"
+    ],
+    "🎼": ["notenschift", "notenschift g-sleutel muziek partituur"],
+    "🎵": ["muzieknoot", "muzieknoot achtste noten muziek noot"],
+    "🎶": ["muzieknoten", "muzieknoten achtste noten geluid muziek noot noten"],
+    "🎙️": ["studiomicrofoon", "studiomicrofoon microfoon muziek studio"],
+    "🎚️": [
+      "schuifregelaar",
+      "schuifregelaar muziek niveau schuifje volumeregelaar"
+    ],
+    "🎛️": ["controleknoppen", "controleknoppen bediening knoppen muziek"],
+    "🎤": ["microfoon", "microfoon geluid karaoke muziek zingen"],
+    "🎧": ["hoofdtelefoon", "hoofdtelefoon geluid koptelefoon oordopje"],
+    "📻": ["radio", "radio entertainment muziek"],
+    "🎷": ["saxofoon", "saxofoon instrument muziek muziekinstrument sax"],
+    "🎺": ["trompet", "trompet instrument muziek muziekinstrument"],
+    "🪊": [
+      "trombone",
+      "trombone droevig instrument jazz koper muziek schuiven"
+    ],
+    "🪗": [
+      "accordeon",
+      "accordeon bandoneon concertina instrument muziek trek trekzak"
+    ],
+    "🎸": [
+      "gitaar",
+      "gitaar instrument muziek muziekinstrument strat stratocaster"
+    ],
+    "🎹": ["piano", "piano instrument keyboard muziek muziekinstrument"],
+    "🎻": ["viool", "viool instrument muziek muziekinstrument stradivarius"],
+    "🪕": ["banjo", "banjo besnaard instrument muziek snaarinstrument spelen"],
+    "🥁": [
+      "trommel",
+      "trommel drummen drums drumsticks muziek muziekinstrument trommelen trommelstokken"
+    ],
+    "🪘": ["hoge trom", "hoge trom beat conga hoog instrument ritme trom"],
+    "🪇": [
+      "sambaballen",
+      "sambaballen instrument muziek percussie ratelen schudden"
+    ],
+    "🪈": ["fluit", "fluit blokfluit dwarsfluit houtblazer muziek pijperfluit"],
+    "🪉": ["harp", "harp cupido instrument liefde muziek orkestra"],
+    "📱": [
+      "mobiele telefoon",
+      "mobiele telefoon bellen communicatie mobiel smartphone telefoon"
+    ],
+    "📲": [
+      "mobiel met pijl",
+      "mobiel met pijl bellen mobiel mobiele telefoon ontvangen pijl smartphone telefoon"
+    ],
+    "☎️": ["telefoon", "telefoon rode telefoon met hoorn vaste telefoon"],
+    "📞": ["telefoonhoorn", "telefoonhoorn bellen hoorn telefoon"],
+    "📟": ["pager", "pager pieper"],
+    "📠": ["fax", "fax communicatie faxapparaat"],
+    "🔋": ["batterij", "batterij batterij"],
+    "🪫": [
+      "batterij bijna leeg",
+      "batterij bijna leeg accu batterij electronisch lege batterij weinig batterijlading"
+    ],
+    "🔌": ["stekker", "stekker elektriciteit elektrisch"],
+    "💻": ["laptop", "laptop computer notebook pc personal computer"],
+    "🖥️": ["desktop", "desktop beeldscherm computer monitor"],
+    "🖨️": ["printer", "printer afdrukken computer"],
+    "⌨️": ["toetsenbord", "toetsenbord computer"],
+    "🖱️": ["computermuis", "computermuis computer muis"],
+    "🖲️": ["trackball", "trackball computer"],
+    "💽": ["harddisk", "harddisk computer disk minidisc optisch"],
+    "💾": ["floppydisk", "floppydisk computer disk diskette floppy opslaan"],
+    "💿": [
+      "optische schijf",
+      "optische schijf blu-ray cd cd-rom computer dvd optisch schijf"
+    ],
+    "📀": ["dvd", "dvd blu-ray cd computer optisch schijf"],
+    "🧮": [
+      "abacus",
+      "abacus berekenen optellen rekenen rekenmachine tellen telraam"
+    ],
+    "🎥": [
+      "filmcamera",
+      "filmcamera bioscoop bollywood camera film hollywood opnemen"
+    ],
+    "🎞️": ["filmframes", "filmframes bioscoop film filmrol films frames"],
+    "📽️": ["filmprojector", "filmprojector bioscoop film projector video"],
+    "🎬": [
+      "klapbord",
+      "klapbord actie entertainment film filmklapper filmset klapper opnames"
+    ],
+    "📺": ["tv", "tv beeld beeldbuis televisie"],
+    "📷": ["camera", "camera fotocamera fotograferen selfie snap video"],
+    "📸": [
+      "camera met flitser",
+      "camera met flitser camera flitser fotograferen video"
+    ],
+    "📹": ["videocamera", "videocamera camcorder camera video"],
+    "📼": ["videoband", "videoband band film vhs video"],
+    "🔍": [
+      "vergrootglas naar links gericht",
+      "vergrootglas naar links gericht gereedschap glas vergrootglas vergroten zoeken"
+    ],
+    "🔎": [
+      "vergrootglas naar rechts gericht",
+      "vergrootglas naar rechts gericht gereedschap glas vergrootglas vergroten zoeken"
+    ],
+    "🕯️": ["kaars", "kaars kaarslicht licht"],
+    "💡": ["gloeilamp", "gloeilamp elektrisch idee lamp licht peertje strip"],
+    "🔦": ["zaklamp", "zaklamp elektrisch lamp licht zaklantaarn"],
+    "🏮": [
+      "rode papieren lantaarn",
+      "rode papieren lantaarn bar lantaarn licht rood"
+    ],
+    "🪔": ["diya-lamp", "diya-lamp diya lamp licht olie vlam"],
+    "📔": [
+      "versierd schrift",
+      "versierd schrift boek decoratief notitieboekje omslag opleiding school schrijven versierd"
+    ],
+    "📕": [
+      "gesloten boek",
+      "gesloten boek bibliotheek boek educatie gesloten lezen onderwijs"
+    ],
+    "📖": ["geopend boek", "geopend boek boek geopend open"],
+    "📗": [
+      "groen boek",
+      "groen boek bibliotheek boek educatie groen lezen onderwijs"
+    ],
+    "📘": [
+      "blauw boek",
+      "blauw boek bibliotheek blauw boek educatie lezen onderwijs"
+    ],
+    "📙": [
+      "oranje boek",
+      "oranje boek bibliotheek boek educatie lezen onderwijs oranje"
+    ],
+    "📚": [
+      "boeken",
+      "boeken boek educatie kennis lezen onderwijs opleiding school"
+    ],
+    "📓": ["schrift", "schrift notitieboek"],
+    "📒": ["grootboek", "grootboek map notitieboek ringband schrift"],
+    "📃": [
+      "omkrullende pagina",
+      "omkrullende pagina bladzijde document half opgerold papier krul pagina pagina met krul papier"
+    ],
+    "📜": ["rol", "rol papier papierrol perkament perkamentpapier"],
+    "📄": [
+      "pagina met bovenzijde omhoog",
+      "pagina met bovenzijde omhoog bladzijde document pagina"
+    ],
+    "📰": ["krant", "krant dagblad nieuws nieuwsblad voorpagina weekblad"],
+    "🗞️": [
+      "opgerolde krant",
+      "opgerolde krant dagblad krant nieuws nieuwsblad opgerold weekblad"
+    ],
+    "📑": [
+      "bladwijzertabs",
+      "bladwijzertabs bladwijzer bladwijzers markering tabbladen tabs"
+    ],
+    "🔖": ["bladwijzer", "bladwijzer markering"],
+    "🏷️": ["label", "label label"],
+    "🪙": ["munt", "munt dollar euro geld goud metaal rijk schat zilver"],
+    "💰": ["zak met geld", "zak met geld dollar geld geldzak rijk zak"],
+    "🪎": [
+      "schatkist",
+      "schatkist buit edelsteen geld goud juwelen kostbaarheden prijs rijkdom zilver"
+    ],
+    "💴": [
+      "yenbiljet",
+      "yenbiljet bankbiljet biljet briefgeld briefje geld valuta yen"
+    ],
+    "💵": [
+      "dollarbiljet",
+      "dollarbiljet bankbiljet biljet briefgeld briefje dollar geld valuta"
+    ],
+    "💶": [
+      "eurobiljet",
+      "eurobiljet bankbiljet biljet briefgeld briefje euro geld valuta"
+    ],
+    "💷": [
+      "pondbiljet",
+      "pondbiljet bankbiljet biljet briefgeld briefje geld pond valuta"
+    ],
+    "💸": [
+      "vliegend geld",
+      "vliegend geld bankbiljet biljet briefgeld dollar geld geld met vleugels vleugels vliegen vliegend bankbiljet"
+    ],
+    "💳": [
+      "creditcard",
+      "creditcard bank betaalkaart geld kaart krediet pinpas"
+    ],
+    "🧾": [
+      "kassabon",
+      "kassabon administratie bewijs boekhouden boekhouding bonnetje factuur kwitantie rekening"
+    ],
+    "💹": [
+      "stijgende grafiek met yenteken",
+      "stijgende grafiek met yenteken bank geld grafiek groei markt stijging toenemend trend valuta yen"
+    ],
+    "✉️": ["envelop", "envelop brief e-mail mail"],
+    "📧": ["e-mail", "e-mail brief mail post"],
+    "📨": [
+      "inkomende post",
+      "inkomende post binnengekomen brief e-mail elektronische post envelop inkomend mail ontvangen post"
+    ],
+    "📩": [
+      "envelop met pijl",
+      "envelop met pijl brief communicatie e-mail envelop omlaag pijl post uitgaand verzenden verzonden"
+    ],
+    "📤": [
+      "postvak uit",
+      "postvak uit brief mail post postvak uitgaand verzonden"
+    ],
+    "📥": [
+      "postvak in",
+      "postvak in brief inkomend mail ontvangen post postvak"
+    ],
+    "📦": ["pakket", "pakket bezorging dichtgeplakte doos doos pakketje"],
+    "📫": [
+      "gesloten brievenbus met vlaggetje omhoog",
+      "gesloten brievenbus met vlaggetje omhoog brievenbus gesloten post postbus"
+    ],
+    "📪": [
+      "gesloten brievenbus met vlaggetje omlaag",
+      "gesloten brievenbus met vlaggetje omlaag brievenbus gesloten omlaag post postbus"
+    ],
+    "📬": [
+      "open brievenbus met vlaggetje omhoog",
+      "open brievenbus met vlaggetje omhoog brievenbus open post postbus"
+    ],
+    "📭": [
+      "open brievenbus met vlaggetje omlaag",
+      "open brievenbus met vlaggetje omlaag brievenbus omlaag open post postbus"
+    ],
+    "📮": [
+      "brievenbus",
+      "brievenbus brief posten brievenbus met brief post postbus"
+    ],
+    "🗳️": [
+      "stembus met stembiljet",
+      "stembus met stembiljet doos stem uitbrengen stembus"
+    ],
+    "✏️": ["potlood", "potlood potlood"],
+    "✒️": [
+      "kroontjespen met zwarte punt",
+      "kroontjespen met zwarte punt pen punt vulpen"
+    ],
+    "🖋️": ["vulpen", "vulpen pen"],
+    "🖊️": ["pen", "pen ballpoint balpen"],
+    "🖌️": ["kwast", "kwast penseel schilderen schilderkwast verven"],
+    "🖍️": ["krijtje", "krijtje krijt rood krijtje"],
+    "📝": ["memo", "memo aantekeningen opmerkingen papier potlood"],
+    "🪌": [
+      "gum",
+      "gum correctie fout ongedaan maken schrappen schrijven tekenen vergissing verwijderen wissen wrijven"
+    ],
+    "💼": ["aktentas", "aktentas aktetas boekentas handtas kantoor"],
+    "📁": ["bestandsmap", "bestandsmap bestand map"],
+    "📂": [
+      "geopende map",
+      "geopende map bestand geopende bestandsmap map open"
+    ],
+    "🗂️": ["tabbladen", "tabbladen index kaart kaarten"],
+    "📅": ["kalender", "kalender datum"],
+    "📆": ["scheurkalender", "scheurkalender kalender"],
+    "🗒️": [
+      "schrijfblok met spiraal",
+      "schrijfblok met spiraal notitie notitieblok schrijfblok spiraal"
+    ],
+    "🗓️": [
+      "kalender met spiraal",
+      "kalender met spiraal blok jaarkalender kalender omlegkalender spiraal"
+    ],
+    "📇": ["kaartindex", "kaartindex index kaart rolodex systeemkaarten"],
+    "📈": [
+      "stijgende trend",
+      "stijgende trend diagram grafiek grafiek met stijgende trend groei positief stijgend"
+    ],
+    "📉": [
+      "dalende trend",
+      "dalende trend dalend daling diagram grafiek grafiek met dalende trend negatief"
+    ],
+    "📊": ["staafdiagram", "staafdiagram diagram grafiek staaf staafgrafiek"],
+    "📋": ["klembord", "klembord notities to-dolijst"],
+    "📌": ["punaise", "punaise speld"],
+    "📍": ["ronde speld", "ronde speld kaart kopspeld locatie speld"],
+    "📎": ["paperclip", "paperclip clip"],
+    "🖇️": [
+      "twee paperclips aan elkaar",
+      "twee paperclips aan elkaar aan elkaar paperclip paperclips vastgemaakt"
+    ],
+    "📏": ["liniaal", "liniaal meetinstrument meten rechte lijn wiskunde"],
+    "📐": [
+      "geodriehoek",
+      "geodriehoek driehoek geo liniaal meetinstrument meten wiskunde"
+    ],
+    "✂️": ["schaar", "schaar gereedschap knippen"],
+    "🗃️": ["kaartenbak", "kaartenbak archief bak kaart"],
+    "🗄️": ["archiefkast", "archiefkast archief archiveren kast"],
+    "🗑️": ["prullenmand", "prullenmand prullenbak recyclen"],
+    "🔒": ["slot", "slot gesloten slot privé"],
+    "🔓": [
+      "geopend hangslot",
+      "geopend hangslot gekraakt slot geopend hangslot open open slot openen"
+    ],
+    "🔏": [
+      "slot met pen",
+      "slot met pen inkt pen privacy slot slot met vulpen vulpen"
+    ],
+    "🔐": [
+      "gesloten slot met sleutel",
+      "gesloten slot met sleutel beveiligd gesloten sleutel slok slot met sleutel"
+    ],
+    "🔑": ["sleutel", "sleutel beveiligd op slot openen wachtwoord"],
+    "🗝️": [
+      "oude sleutel",
+      "oude sleutel aanwijzing oud ouderwetse sleutel sleutel slot"
+    ],
+    "🪍": ["net met steel", "net met steel gaas schepnet vangen verzamelen"],
+    "🔨": ["hamer", "hamer gereedschap timmeren"],
+    "🪓": ["bijl", "bijl gereedschap hakken hout houthakker splijten"],
+    "⛏️": ["pikhouweel", "pikhouweel gereedschap mijnbouw"],
+    "⚒️": [
+      "twee hamers",
+      "twee hamers gereedschap hamer hamer en pikhouweel hamers pikhouweel"
+    ],
+    "🛠️": [
+      "hamer en moersleutel",
+      "hamer en moersleutel gereedschap hamer klussen moersleutel"
+    ],
+    "🗡️": ["dolk", "dolk mes wapen"],
+    "⚔️": [
+      "gekruiste zwaarden",
+      "gekruiste zwaarden degens gekruist gekruist wapen zwaarden"
+    ],
+    "💣": ["bom", "bom cartoonbom explosie gevaarlijk ontploffing strip"],
+    "🪃": ["boemerang", "boemerang australië buiten reactie spel terugslag"],
+    "🏹": [
+      "pijl en boog",
+      "pijl en boog boog boogschieten boogschutter horoscoop pijl sport sterrenbeeld wapen"
+    ],
+    "🛡️": ["schild", "schild bescherming middeleeuwen wapen"],
+    "🪚": [
+      "houtzaag",
+      "houtzaag afzagen gereedschap hout timmeren timmerman voorwerp zaag zagen"
+    ],
+    "🔧": [
+      "moersleutel",
+      "moersleutel engelse sleutel gereedschap schroefsleutel"
+    ],
+    "🪛": [
+      "schroevendraaier",
+      "schroevendraaier gereedschap klussen repareren schroef"
+    ],
+    "🔩": ["bout en moer", "bout en moer bout gereedschap moer"],
+    "⚙️": ["tandwiel", "tandwiel gereedschap instellingen radertje tandrad"],
+    "🗜️": ["lijmklem", "lijmklem bankschroef gereedschap samendrukken"],
+    "⚖️": [
+      "weegschaal",
+      "weegschaal libra balans dierenriem gerechtigheid gewichten horoscoop recht sterrenbeeld weegschaal in balans"
+    ],
+    "🦯": ["taststok", "taststok blind blindenstok lopen toegankelijkheid"],
+    "🔗": ["schakels", "schakels twee ringen"],
+    "⛓️‍💥": [
+      "gebroken ketting",
+      "gebroken ketting boeien breek gebroken ketting vrijheid"
+    ],
+    "⛓️": ["kettingen", "kettingen ketting"],
+    "🪝": [
+      "haak",
+      "haak aanbeveling bocht hengel kronkel vangen verstrikken vissen"
+    ],
+    "🧰": [
+      "gereedschapskist",
+      "gereedschapskist doos gereedschap kist monteur rode kist"
+    ],
+    "🧲": [
+      "magneet",
+      "magneet aantrekking aantrekkingskracht hoefijzer magnetisch positief negatief uvormig"
+    ],
+    "🪜": ["ladder", "ladder klimmen omhoog omlaag sport trede voorwerp"],
+    "🪏": ["schop", "schop gat graven schep spade"],
+    "⚗️": ["distilleerkolf", "distilleerkolf gereedschap scheikunde"],
+    "🧪": [
+      "reageerbuis",
+      "reageerbuis chemicus experiment lab laboratorium scheikunde scheikundige wetenschap"
+    ],
+    "🧫": [
+      "petrischaal",
+      "petrischaal bacterie bacteriën biologe biologie bioloog cultuur kweek lab laboratorium"
+    ],
+    "🧬": [
+      "DNA",
+      "dna biologe bioloog dna evolutie gen genetica genetisch leven"
+    ],
+    "🔬": [
+      "microscoop",
+      "microscoop experiment gereedschap instrument laboratorium onderzoek wetenschap"
+    ],
+    "🔭": [
+      "telescoop",
+      "telescoop buitenaards leven gereedschap heelal instrument sterrenkijker wetenschap"
+    ],
+    "📡": [
+      "satellietschotel",
+      "satellietschotel antenne communicatie satelliet schotel"
+    ],
+    "💉": [
+      "injectiespuit",
+      "injectiespuit dokter gereedschap griep injectie medicijn naald spuit vaccinatie ziek"
+    ],
+    "🩸": [
+      "bloeddruppel",
+      "bloeddruppel bloed bloeden donatie druppel medicijnen menstruatie verwonding"
+    ],
+    "💊": ["pil", "pil dokter geneeskunde medicatie medicijn vitamine ziek"],
+    "🩹": ["pleister", "pleister bloed pijn snee verband wond ziekenhuis"],
+    "🩼": [
+      "kruk",
+      "kruk gewond handicap lopen mobiliteitshulp stok wandelstok"
+    ],
+    "🩺": [
+      "stethoscoop",
+      "stethoscoop arts dokter geneeskunde hart medicijnen ziekenhuis"
+    ],
+    "🩻": [
+      "röntgenfoto",
+      "röntgenfoto borstkas botten dokter medisch ribben skelet ziek ziekenhuis"
+    ],
+    "🚪": ["deur", "deur achterdeur gesloten deur voordeur"],
+    "🛗": [
+      "lift",
+      "lift hijstoestel machine omhoog omlaag personenlift toegankelijkheid voorwerp"
+    ],
+    "🪞": [
+      "spiegel",
+      "spiegel make-up opmaken reflectie reflector speculum spiegelbeeld spiegels voorwerp weerspiegeling"
+    ],
+    "🪟": [
+      "raam",
+      "raam doorzichtig frisse lucht kijken kozijn opening raamkozijn uitzicht venster voorwerp"
+    ],
+    "🛏️": ["bed", "bed hotel slapen"],
+    "🛋️": ["bank en lamp", "bank en lamp bank hotel lamp sofa"],
+    "🪑": ["hoge stoel", "hoge stoel meubels meubelstuk stoel zetel zitten"],
+    "🚽": ["toilet", "toilet wc"],
+    "🪠": [
+      "ontstopper",
+      "ontstopper kracht loodgieter poep wc zuiger zuigkracht"
+    ],
+    "🚿": ["douche", "douche douchekop water"],
+    "🛁": ["badkuip", "badkuip bad badkuip met douche"],
+    "🪤": ["muizenval", "muizenval aas kaas lokken strik valstrik vangen"],
+    "🪒": [
+      "scheermes",
+      "scheermes baard badkamer mesjes scheren scherp voorwerp"
+    ],
+    "🧴": [
+      "lotionfles",
+      "lotionfles crème huidcrème hydraterende lotion lotion lotion flacon moisturizer shampoo zonnebrandcrème zonnebrandolie"
+    ],
+    "🧷": ["veiligheidsspeld", "veiligheidsspeld luier luierspeld punk speld"],
+    "🧹": ["bezem", "bezem bezemsteel heks schoonmaken vegen"],
+    "🧺": ["mand", "mand boeren landbouw oogsten picknick wasgoed wasmand"],
+    "🧻": [
+      "rol papier",
+      "rol papier closetrol keukenrol papieren handdoek toiletpapier toiletrol wc-papier wc-rol"
+    ],
+    "🪣": [
+      "emmer",
+      "emmer aker dweil dweilen poetsen putemmer schoonmaken vat voorwerp water"
+    ],
+    "🧼": [
+      "zeep",
+      "zeep baden inzepen schoon schoonmaken schuim stuk zeep wassen zeepbakje zeephouder"
+    ],
+    "🫧": [
+      "zeepbellen",
+      "zeepbellen bad bubbel bubbels onderwater schoon wassen zeep"
+    ],
+    "🪥": [
+      "tandenborstel",
+      "tandenborstel badkamer borstel hygiëne poetsen tanden tandheelkunde toiletartikelen"
+    ],
+    "🧽": [
+      "spons",
+      "spons absorberen absorberend baden poreus schoonmaken schrobben"
+    ],
+    "🧯": [
+      "brandblusapparaat",
+      "brandblusapparaat blusapparaat blussen blusser brandblusser doven vuur"
+    ],
+    "🛒": [
+      "winkelwagen",
+      "winkelwagen boodschappen shoppen wagen wagentje winkelen"
+    ],
+    "🚬": ["sigaret", "sigaret roken"],
+    "⚰️": ["doodskist", "doodskist dood kist vampier"],
+    "🪦": [
+      "grafsteen",
+      "grafsteen begraafplaats begrafenis dood graf grafzerk kerkhof overleden voorwerp"
+    ],
+    "⚱️": ["urn", "urn as begrafenis dood"],
+    "🧿": [
+      "Nazar-amulet",
+      "nazar-amulet nazar amulet bedel blauw boze oog kraal nazar nazar-amulet talisman"
+    ],
+    "🪬": [
+      "hamsa",
+      "hamsa fatima maria mirjam amulet bescherming geluk hand handpalm oog"
+    ],
+    "🗿": [
+      "moai-beeld",
+      "moai-beeld beelden gezicht moai paaseiland reizen standbeeld"
+    ],
+    "🪧": [
+      "plakkaat",
+      "plakkaat bord demonstratie mars poster protest protesteren slogan voorwerp"
+    ],
+    "🪪": [
+      "legitimatiebewijs",
+      "legitimatiebewijs id id-kaart beveiliging identificatie identiteitskaart overheid vergunning"
+    ],
+    "🏧": [
+      "pinautomaat",
+      "pinautomaat atm bank contant geautomatiseerd geld pinnen teken"
+    ],
+    "🚮": [
+      "prullenbaksymbool",
+      "prullenbaksymbool afval prullenbak teken vuilnisbak"
+    ],
+    "🚰": ["drinkwater", "drinkwater drink drinkbaar water"],
+    "♿": [
+      "rolstoelsymbool",
+      "rolstoelsymbool handicap rolstoel symbool toegang"
+    ],
+    "🚹": ["herentoilet", "herentoilet heren man plee toilet urinoir wc"],
+    "🚺": ["damestoilet", "damestoilet dames plee toilet vrouw wc"],
+    "🚻": ["toiletten", "toiletten plee toilet wc"],
+    "🚼": ["babysymbool", "babysymbool baby symbool verschonen"],
+    "🚾": ["wc", "wc toilet wasgelegenheid water"],
+    "🛂": ["paspoortcontrole", "paspoortcontrole controle paspoort"],
+    "🛃": ["douane", "douane inpakken"],
+    "🛄": [
+      "bagage afhalen",
+      "bagage afhalen aangekomen bagage ingecheckt inpakken klaar koffer ophalen reis reisje reizen tassen vliegtuig"
+    ],
+    "🛅": ["bagagekluis", "bagagekluis achtergelaten bagage kluisje koffer"],
+    "⚠️": ["waarschuwing", "waarschuwing voorzichtig"],
+    "🚸": [
+      "overstekende kinderen",
+      "overstekende kinderen kind kinderen oversteekplaats verkeer voetganger"
+    ],
+    "⛔": [
+      "geen toegang",
+      "geen toegang belemmerd doorgang geen ingang mislukt niet toegang verboden verkeer"
+    ],
+    "🚫": ["verboden", "verboden nee niet roken toegang"],
+    "🚳": ["geen fietsen", "geen fietsen fiets fietsen nee niet verboden"],
+    "🚭": ["niet roken", "niet roken nee niet roken verboden"],
+    "🚯": [
+      "geen afval weggooien",
+      "geen afval weggooien geen niet verboden zwerfvuil"
+    ],
+    "🚱": [
+      "geen drinkwater",
+      "geen drinkwater droog niet drinkbaar verboden water"
+    ],
+    "🚷": [
+      "geen voetgangers",
+      "geen voetgangers nee niet verboden voetganger voetgangers"
+    ],
+    "📵": [
+      "geen mobiele telefoon",
+      "geen mobiele telefoon mobiel nee niet telefoon telefoons verboden"
+    ],
+    "🔞": [
+      "niemand onder de 18",
+      "niemand onder de 18 18 achttien beperking leeftijd minderjarig nee niet verboden één"
+    ],
+    "☢️": ["radioactief", "radioactief teken"],
+    "☣️": ["biologisch gevaar", "biologisch gevaar teken"],
+    "⬆️": [
+      "pijl omhoog",
+      "pijl omhoog noord omhoog pijl richting windrichting"
+    ],
+    "↗️": [
+      "pijl rechtsomhoog",
+      "pijl rechtsomhoog noordoost pijl rechtsboven richting windrichting"
+    ],
+    "➡️": [
+      "pijl naar rechts",
+      "pijl naar rechts oost pijl rechts richting windrichting"
+    ],
+    "↘️": [
+      "pijl rechtsomlaag",
+      "pijl rechtsomlaag pijl rechtsonder richting windrichting zuidoost"
+    ],
+    "⬇️": ["pijl omlaag", "pijl omlaag omlaag pijl richting windrichting zuid"],
+    "↙️": [
+      "pijl linksomlaag",
+      "pijl linksomlaag linksonder pijl richting windrichting zuidwest"
+    ],
+    "⬅️": [
+      "pijl naar links",
+      "pijl naar links links pijl richting west windrichting"
+    ],
+    "↖️": [
+      "pijl linksomhoog",
+      "pijl linksomhoog linksboven noordwest pijl richting windrichting"
+    ],
+    "↕️": [
+      "pijl omhoog en omlaag",
+      "pijl omhoog en omlaag omhoog en omlaag pijl"
+    ],
+    "↔️": ["pijl naar links en rechts", "pijl naar links en rechts pijl"],
+    "↩️": [
+      "pijl naar rechts die naar links draait",
+      "pijl naar rechts die naar links draait gebogen links pijl rechts"
+    ],
+    "↪️": [
+      "pijl naar links die naar rechts draait",
+      "pijl naar links die naar rechts draait gebogen links pijl rechts"
+    ],
+    "⤴️": [
+      "pijl naar rechts die omhoog draait",
+      "pijl naar rechts die omhoog draait omhoog pijl rechts"
+    ],
+    "⤵️": [
+      "pijl naar rechts die omlaag draait",
+      "pijl naar rechts die omlaag draait gebogen omlaag pijl rechts"
+    ],
+    "🔃": [
+      "verticale pijlen met de klok mee",
+      "verticale pijlen met de klok mee met de klok mee opnieuw laden pijl pijlen verticaal verversen"
+    ],
+    "🔄": [
+      "pijlen tegen de klok in",
+      "pijlen tegen de klok in déjà knop linksom pijl pijlen tegen de klok in vernieuwen vu weer"
+    ],
+    "🔙": ["BACK-pijl", "back-pijl back pijl"],
+    "🔚": ["END-pijl", "end-pijl end pijl"],
+    "🔛": ["ON!-pijl", "on!-pijl on! pijl teken"],
+    "🔜": ["SOON-pijl", "soon-pijl soon onderweg pijl zo terug"],
+    "🔝": ["TOP-pijl", "top-pijl top omhoog pijl"],
+    "🛐": ["gebedsruimte", "gebedsruimte bidden godsdienst plaats religie"],
+    "⚛️": ["atoomsymbool", "atoomsymbool atheïst atoom symbool"],
+    "🕉️": ["om-symbool", "om-symbool hindoeïsme om religie"],
+    "✡️": ["davidster", "davidster david jodendom jood joods religie ster"],
+    "☸️": [
+      "wiel van dharma",
+      "wiel van dharma boeddhistisch dharma religie wiel"
+    ],
+    "☯️": [
+      "yin en yang",
+      "yin en yang leven moeilijk religie tao taoist totaal yang yin"
+    ],
+    "✝️": [
+      "christelijk kruis",
+      "christelijk kruis latijns christelijk christus kruis religie"
+    ],
+    "☦️": [
+      "russisch kruis",
+      "russisch kruis christelijk kruis orthodox religie"
+    ],
+    "☪️": [
+      "wassende maan en ster",
+      "wassende maan en ster islam moslim ramadan religie ster wassende maan"
+    ],
+    "☮️": ["vredessymbool", "vredessymbool helend symbool vrede vredig"],
+    "🕎": ["menora", "menora hannuka jodendom joods kandelaar religie"],
+    "🔯": [
+      "zespuntige ster",
+      "zespuntige ster geluk jodendom joods met stip ster zespuntig"
+    ],
+    "🪯": ["khanda", "khanda religie sikh"],
+    "♈": [
+      "ram (sterrenbeeld)",
+      "ram (sterrenbeeld) aries dierenriem horoscoop ram"
+    ],
+    "♉": [
+      "stier (sterrenbeeld)",
+      "stier (sterrenbeeld) taurus dierenriem horoscoop os stier"
+    ],
+    "♊": [
+      "tweelingen (sterrenbeeld)",
+      "tweelingen (sterrenbeeld) gemini dierenriem horoscoop tweelingen"
+    ],
+    "♋": [
+      "kreeft (sterrenbeeld)",
+      "kreeft (sterrenbeeld) cancer dierenriem horoscoop kreeft"
+    ],
+    "♌": [
+      "leeuw (sterrenbeeld)",
+      "leeuw (sterrenbeeld) leo dierenriem horoscoop leeuw"
+    ],
+    "♍": [
+      "maagd (sterrenbeeld)",
+      "maagd (sterrenbeeld) virgo dierenriem horoscoop maagd"
+    ],
+    "♎": [
+      "weegschaal (sterrenbeeld)",
+      "weegschaal (sterrenbeeld) libra balans dierenriem gerechtigheid horoscoop weegschaal"
+    ],
+    "♏": [
+      "schorpioen (sterrenbeeld)",
+      "schorpioen (sterrenbeeld) scorpio dierenriem horoscoop schorpioen scorpius"
+    ],
+    "♐": [
+      "boogschutter (sterrenbeeld)",
+      "boogschutter (sterrenbeeld) sagittarius boogschutter dierenriem horoscoop"
+    ],
+    "♑": [
+      "steenbok (sterrenbeeld)",
+      "steenbok (sterrenbeeld) capricorn dierenriem horoscoop steenbok"
+    ],
+    "♒": [
+      "waterman (sterrenbeeld)",
+      "waterman (sterrenbeeld) aquarius dierenriem drager horoscoop water waterman"
+    ],
+    "♓": [
+      "vissen (sterrenbeeld)",
+      "vissen (sterrenbeeld) pisces dierenriem horoscoop vissen"
+    ],
+    "⛎": [
+      "slangendrager (sterrenbeeld)",
+      "slangendrager (sterrenbeeld) ophiuchus dierenriem drager horoscoop serpent slang slangendrager"
+    ],
+    "🔀": [
+      "knop voor shuffle",
+      "knop voor shuffle gekruist knop nummers pijl shuffle"
+    ],
+    "🔁": [
+      "knop voor herhalen",
+      "knop voor herhalen herhalen knop met de klok mee pijl"
+    ],
+    "🔂": [
+      "knop voor één herhalen",
+      "knop voor één herhalen enkel herhalen knop met de klok mee pijl één keer"
+    ],
+    "▶️": [
+      "knop voor afspelen",
+      "knop voor afspelen afspelen driehoek knop pijl rechts"
+    ],
+    "⏩": [
+      "knop voor snel vooruitspoelen",
+      "knop voor snel vooruitspoelen dubbel knop pijl snel vooruit"
+    ],
+    "⏭️": [
+      "knop voor volgende nummer",
+      "knop voor volgende nummer driehoek knop nummer pijl scène volgende"
+    ],
+    "⏯️": [
+      "knop voor afspelen of pauzeren",
+      "knop voor afspelen of pauzeren driehoek knop pauzeren pijl rechts spelen"
+    ],
+    "◀️": [
+      "knop voor terugspoelen",
+      "knop voor terugspoelen achteruit driehoek knop links pijl"
+    ],
+    "⏪": [
+      "knop voor versneld terugspoelen",
+      "knop voor versneld terugspoelen dubbele pijl links links pijl terugspoelen"
+    ],
+    "⏮️": [
+      "knop voor vorige nummer",
+      "knop voor vorige nummer driehoek knop laatste nummer pijl scène vorige"
+    ],
+    "🔼": ["knop voor omhoog", "knop voor omhoog knop omhoog pijl rood"],
+    "⏫": [
+      "knop voor versneld omhoog",
+      "knop voor versneld omhoog dubbel knop omhoog pijl snel"
+    ],
+    "🔽": [
+      "knop voor omlaag",
+      "knop voor omlaag beneden knop omlaag pijl rood"
+    ],
+    "⏬": [
+      "knop voor versneld omlaag",
+      "knop voor versneld omlaag dubbel knop omlaag pijl snel"
+    ],
+    "⏸️": ["pauzeknop", "pauzeknop dubbel knop pauze streep verticaal"],
+    "⏹️": ["knop voor stoppen", "knop voor stoppen stoppen vierkant"],
+    "⏺️": ["knop voor opnemen", "knop voor opnemen knop opnemen rondje"],
+    "⏏️": ["knop voor uitwerpen", "knop voor uitwerpen uitwerpen"],
+    "🎦": ["knop voor filmen", "knop voor filmen bioscoop camera film filmen"],
+    "🔅": [
+      "knop voor lagere helderheid",
+      "knop voor lagere helderheid dimmen helderheid laag"
+    ],
+    "🔆": [
+      "knop voor hogere helderheid",
+      "knop voor hogere helderheid helder helderheid knop licht"
+    ],
+    "📶": [
+      "mobiel signaal",
+      "mobiel signaal antenne communicatie mobiel signaal streep streepjes telefoon"
+    ],
+    "🛜": ["draadloos", "draadloos computer internet netwerk"],
+    "📳": ["trilstand", "trilstand communicatie mobiel modus telefoon trillen"],
+    "📴": ["telefoon uit", "telefoon uit mobiel telefoon uit"],
+    "♀️": ["vrouwelijkheidssymbool", "vrouwelijkheidssymbool vrouw"],
+    "♂️": ["mannelijkheidssymbool", "mannelijkheidssymbool man"],
+    "⚧️": ["transgendersymbool", "transgendersymbool transgender"],
+    "✖️": ["vermenigvuldigen", "vermenigvuldigen annuleren teken x ×"],
+    "➕": ["plus", "plus +"],
+    "➖": ["min", "min - dikgedrukt teken wiskunde −"],
+    "➗": ["delen", "delen deling dikgedrukt teken wiskunde ÷"],
+    "🟰": [
+      "vetgedrukt gelijkteken",
+      "vetgedrukt gelijkteken dikgedrukt gelijk gelijkheid is gelijk aan teken uitkomst wiskunde"
+    ],
+    "♾️": ["oneindig", "oneindig eeuwig grenzeloos universeel"],
+    "‼️": [
+      "dubbel uitroepteken",
+      "dubbel uitroepteken ! !! dubbel interpunctie teken uitroep"
+    ],
+    "⁉️": [
+      "uitroepteken en vraagteken",
+      "uitroepteken en vraagteken ! !? ? interpunctie teken uitroep vraag vraagteken-uitroepteken"
+    ],
+    "❓": [
+      "rood vraagteken",
+      "rood vraagteken ? interpunctie rood teken vraag"
+    ],
+    "❔": [
+      "wit vraagteken",
+      "wit vraagteken ? contour interpunctie teken vraag wit"
+    ],
+    "❕": [
+      "wit uitroepteken",
+      "wit uitroepteken ! contour interpunctie teken uitroep wit"
+    ],
+    "❗": [
+      "rood uitroepteken",
+      "rood uitroepteken ! interpunctie rood teken uitroep"
+    ],
+    "〰️": [
+      "golvend streepje",
+      "golvend streepje golvend interpunctie streepje"
+    ],
+    "💱": ["geld wisselen", "geld wisselen bank geld valuta wisselen"],
+    "💲": [
+      "vetgedrukt dollarteken",
+      "vetgedrukt dollarteken betalen dikgedrukt dollarteken dollar dollarteken geld munteenheid valuta"
+    ],
+    "⚕️": ["esculaap", "esculaap medicijnen medisch staf symbool"],
+    "♻️": ["recycling-symbool", "recycling-symbool recycle recycling symbool"],
+    "⚜️": ["fleur de lis", "fleur de lis fleur-de-lis ridders"],
+    "🔱": [
+      "drietand-symbool",
+      "drietand-symbool anker drietand embleem gereedschap poseidon schip"
+    ],
+    "📛": ["naamkaartje", "naamkaartje badge kaartje naam"],
+    "🔰": [
+      "Japans symbool voor beginner",
+      "japans symbool voor beginner japans beginner blad chevron geel gereedschap groen symbool"
+    ],
+    "⭕": ["lege rode cirkel", "lege rode cirkel cirkel groot hol o rood vet"],
+    "✅": [
+      "knop voor vinkje",
+      "knop voor vinkje afgevinkt check gedaan klaar knop markeren vink vinkje voltooid ✓"
+    ],
+    "☑️": [
+      "vinkje in vak",
+      "vinkje in vak check klaar stem uit vak vink vinkje ✓"
+    ],
+    "✔️": ["vinkje", "vinkje afgevinkt check dikgedrukt klaar teken ✓"],
+    "❌": [
+      "kruisteken",
+      "kruisteken annuleren kruis teken vermenigvuldigen vermenigvuldiging x ×"
+    ],
+    "❎": [
+      "knop voor kruis",
+      "knop voor kruis knop kruis teken vermenigvuldigen vermenigvuldiging vierkant x ×"
+    ],
+    "➰": ["gekrulde lus", "gekrulde lus gedraaid lus"],
+    "➿": [
+      "dubbele gekrulde lus",
+      "dubbele gekrulde lus dubbel krul krullend lus"
+    ],
+    "〽️": [
+      "rolwisselingsmarkering",
+      "rolwisselingsmarkering markering rolwisseling teken"
+    ],
+    "✳️": [
+      "achtpuntige asterisk",
+      "achtpuntige asterisk * achtpuntig asterisk"
+    ],
+    "✴️": ["achtpuntige ster", "achtpuntige ster * achtpuntige ster"],
+    "❇️": ["sprankeling", "sprankeling *"],
+    "©️": ["copyright", "copyright c"],
+    "®️": ["gedeponeerd", "gedeponeerd r"],
+    "™️": [
+      "handelsmerksymbool",
+      "handelsmerksymbool handel handelsmerk merk tm"
+    ],
+    "🫟": [
+      "Gespat",
+      "gespat druppel geknoei gemors gespat holi inkt verf vlek vloeistof"
+    ],
+    "#️⃣": ["toets: #", "toets: # toets"],
+    "*️⃣": ["toets: *", "toets: * toets"],
+    "0️⃣": ["toets: 0", "toets: 0 0 nul toets"],
+    "1️⃣": ["toets: 1", "toets: 1 1 een toets"],
+    "2️⃣": ["toets: 2", "toets: 2 2 toets twee"],
+    "3️⃣": ["toets: 3", "toets: 3 3 drie toets"],
+    "4️⃣": ["toets: 4", "toets: 4 4 toets vier"],
+    "5️⃣": ["toets: 5", "toets: 5 5 toets vijf"],
+    "6️⃣": ["toets: 6", "toets: 6 6 toets zes"],
+    "7️⃣": ["toets: 7", "toets: 7 7 toets zeven"],
+    "8️⃣": ["toets: 8", "toets: 8 8 acht toets"],
+    "9️⃣": ["toets: 9", "toets: 9 9 negen toets"],
+    "🔟": ["toets: 10", "toets: 10 toets"],
+    "🔠": ["hoofdletters", "hoofdletters abcd latijns invoeren letters"],
+    "🔡": ["kleine letters", "kleine letters latijns abcd invoeren letters"],
+    "🔢": ["cijfers", "cijfers 1234 invoeren"],
+    "🔣": ["symbolen", "symbolen % & invoeren ♪ 〒"],
+    "🔤": [
+      "Latijns alfabet",
+      "latijns alfabet latijns abc alfabet invoeren letters"
+    ],
+    "🅰️": ["bloedgroep A", "bloedgroep a bloed groep knop"],
+    "🆎": ["bloedgroep AB", "bloedgroep ab ab bloed groep knop"],
+    "🅱️": ["bloedgroep B", "bloedgroep b b bloed groep knop"],
+    "🆑": ["CL-knop", "cl-knop cl knop"],
+    "🆒": ["COOL-knop", "cool-knop cool knop"],
+    "🆓": ["FREE-knop", "free-knop free knop"],
+    "ℹ️": ["informatie", "informatie i"],
+    "🆔": ["ID-knop", "id-knop id identiteit knop"],
+    "Ⓜ️": ["M in cirkel", "m in cirkel m cirkel in cirkel"],
+    "🆕": ["NEW-knop", "new-knop new knop"],
+    "🆖": ["NG-knop", "ng-knop ng knop"],
+    "🅾️": ["bloedgroep O", "bloedgroep o o bloed groep knop"],
+    "🆗": ["OK-knop", "ok-knop ok knop oké"],
+    "🅿️": ["P-knop", "p-knop p knop parkeren"],
+    "🆘": ["SOS-knop", "sos-knop sos help knop"],
+    "🆙": ["UP!-knop", "up!-knop up up! knop teken"],
+    "🆚": ["VS-knop", "vs-knop vs knop versus"],
+    "🈁": [
+      "Japans teken voor ‘hier’",
+      "japans teken voor ‘hier’ japans hier katakana knop"
+    ],
+    "🈂️": [
+      "Japans teken voor ‘dienstenheffing’",
+      "japans teken voor ‘dienstenheffing’ japans dienstenheffing katakana knop service"
+    ],
+    "🈷️": [
+      "Japans teken voor ‘maandelijks bedrag’",
+      "japans teken voor ‘maandelijks bedrag’ japans bedrag ideogram knop maandelijks"
+    ],
+    "🈶": [
+      "Japans teken voor ‘niet gratis’",
+      "japans teken voor ‘niet gratis’ japans gratis ideogram knop kosten niet"
+    ],
+    "🈯": [
+      "Japans teken voor ‘gereserveerd’",
+      "japans teken voor ‘gereserveerd’ japans gereserveerd ideogram knop"
+    ],
+    "🉐": [
+      "Japans teken voor ‘koopje’",
+      "japans teken voor ‘koopje’ japans ideogram knop koopje"
+    ],
+    "🈹": [
+      "Japans teken voor ‘korting’",
+      "japans teken voor ‘korting’ japans ideogram knop korting"
+    ],
+    "🈚": [
+      "Japans teken voor ‘gratis’",
+      "japans teken voor ‘gratis’ japans gratis ideogram knop kosten"
+    ],
+    "🈲": [
+      "Japans teken voor ‘verboden’",
+      "japans teken voor ‘verboden’ japans ideogram knop verboden"
+    ],
+    "🉑": [
+      "Japans teken voor ‘acceptabel’",
+      "japans teken voor ‘acceptabel’ japans acceptabel ideogram knop"
+    ],
+    "🈸": [
+      "Japans teken voor ‘toepassing’",
+      "japans teken voor ‘toepassing’ japans ideogram knop toepassing"
+    ],
+    "🈴": [
+      "Japans teken voor ‘voldoende (cijfer)‘",
+      "japans teken voor ‘voldoende (cijfer)‘ japans cijfer ideogram knop voldoende"
+    ],
+    "🈳": [
+      "Japans teken voor ‘plaats vrij’",
+      "japans teken voor ‘plaats vrij’ japans ideogram knop plaats vrij"
+    ],
+    "㊗️": [
+      "Japans teken voor ‘gefeliciteerd’",
+      "japans teken voor ‘gefeliciteerd’ japans gefeliciteerd ideogram knop"
+    ],
+    "㊙️": [
+      "Japans teken voor ‘geheim’",
+      "japans teken voor ‘geheim’ japans geheim ideogram knop"
+    ],
+    "🈺": [
+      "Japans teken voor ‘geopend’",
+      "japans teken voor ‘geopend’ japans bedrijf ideogram knop open"
+    ],
+    "🈵": [
+      "Japans teken voor ‘vol, geen plaats’",
+      "japans teken voor ‘vol, geen plaats’ japans geen ideogram knop plaats"
+    ],
+    "🔴": ["rode cirkel", "rode cirkel cirkel geometrisch rood"],
+    "🟠": ["oranje cirkel", "oranje cirkel cirkel oranje"],
+    "🟡": ["gele cirkel", "gele cirkel cirkel geel"],
+    "🟢": ["groene cirkel", "groene cirkel cirkel groen"],
+    "🔵": ["blauwe cirkel", "blauwe cirkel blauw cirkel geometrisch"],
+    "🟣": ["paarse cirkel", "paarse cirkel cirkel paars"],
+    "🟤": ["bruine cirkel", "bruine cirkel bruin cirkel"],
+    "⚫": ["zwarte cirkel", "zwarte cirkel cirkel geometrisch zwart"],
+    "⚪": ["witte cirkel", "witte cirkel cirkel geometrisch wit"],
+    "🟥": ["rood vierkant", "rood vierkant kaart penalty rood vierkant"],
+    "🟧": ["oranje vierkant", "oranje vierkant oranje vierkant"],
+    "🟨": ["geel vierkant", "geel vierkant geel kaart penalty vierkant"],
+    "🟩": ["groen vierkant", "groen vierkant groen vierkant"],
+    "🟦": ["blauw vierkant", "blauw vierkant blauw vierkant"],
+    "🟪": ["paars vierkant", "paars vierkant paars vierkant"],
+    "🟫": ["bruin vierkant", "bruin vierkant bruin vierkant"],
+    "⬛": [
+      "groot zwart vierkant",
+      "groot zwart vierkant geometrisch groot vierkant zwart"
+    ],
+    "⬜": [
+      "groot wit vierkant",
+      "groot wit vierkant geometrisch groot vierkant wit"
+    ],
+    "◼️": [
+      "middelgroot zwart vierkant",
+      "middelgroot zwart vierkant geometrisch middelgroot vierkant zwart"
+    ],
+    "◻️": [
+      "middelgroot wit vierkant",
+      "middelgroot wit vierkant middelgroot vierkant wit"
+    ],
+    "◾": [
+      "klein tot middelgroot zwart vierkant",
+      "klein tot middelgroot zwart vierkant geometrisch klein tot middelgroot vierkant zwart"
+    ],
+    "◽": [
+      "klein tot middelgroot wit vierkant",
+      "klein tot middelgroot wit vierkant geometrisch klein tot middelgroot vierkant wit"
+    ],
+    "▪️": [
+      "klein zwart vierkant",
+      "klein zwart vierkant geometrisch klein vierkant zwart"
+    ],
+    "▫️": [
+      "klein wit vierkant",
+      "klein wit vierkant geometrisch klein vierkant wit"
+    ],
+    "🔶": [
+      "grote oranje ruit",
+      "grote oranje ruit diamant geometrisch groot oranje"
+    ],
+    "🔷": [
+      "grote blauwe ruit",
+      "grote blauwe ruit blauw diamant geometrisch groot"
+    ],
+    "🔸": [
+      "kleine oranje ruit",
+      "kleine oranje ruit diamant geometrisch klein oranje"
+    ],
+    "🔹": [
+      "kleine blauwe ruit",
+      "kleine blauwe ruit blauw diamant geometrisch klein"
+    ],
+    "🔺": [
+      "rode omhoogwijzende driehoek",
+      "rode omhoogwijzende driehoek driehoek geometrisch omhoog rood wijzend"
+    ],
+    "🔻": [
+      "rode omlaagwijzende driehoek",
+      "rode omlaagwijzende driehoek driehoek geometrisch omlaag rood wijzend"
+    ],
+    "💠": [
+      "ruitvorm met stip erin",
+      "ruitvorm met stip erin diamant geometrisch stip strip"
+    ],
+    "🔘": ["keuzerondje", "keuzerondje geometrisch knop radio"],
+    "🔳": [
+      "witte vierkante knop",
+      "witte vierkante knop geometrisch knop omlijnd vierkant wit"
+    ],
+    "🔲": [
+      "zwarte vierkante knop",
+      "zwarte vierkante knop geometrisch knop vierkant zwart"
+    ],
+    "🏁": [
+      "geblokte vlag",
+      "geblokte vlag formule 1 finish geblokt racen sport vlag"
+    ],
+    "🚩": ["driehoekige vlag", "driehoekige vlag golf locatie puntvlag vlag"],
+    "🎌": [
+      "gekruiste vlaggen",
+      "gekruiste vlaggen feest gekruist japans kruis"
+    ],
+    "🏴": ["zwarte vlag", "zwarte vlag vlag wapperend zwart"],
+    "🏳️": ["witte vlag", "witte vlag vlag wapperend wit"],
+    "🏳️‍🌈": [
+      "regenboogvlag",
+      "regenboogvlag biseksueel glbt glbtq homoseksueel lesbisch lgbt lgbtq lgbtqia lhbt pride queer regenboog transgender twijfelend vlag"
+    ],
+    "🏳️‍⚧️": [
+      "transgendervlag",
+      "transgendervlag lichtblauw roze transgender vlag wit"
+    ],
+    "🏴‍☠️": ["piratenvlag", "piratenvlag jolly roger piraat plunderen schat"],
+    "🇦🇨": ["vlag: Ascension", "vlag: ascension ac vlag"],
+    "🇦🇩": ["vlag: Andorra", "vlag: andorra ad vlag"],
+    "🇦🇪": [
+      "vlag: Verenigde Arabische Emiraten",
+      "vlag: verenigde arabische emiraten ae vlag"
+    ],
+    "🇦🇫": ["vlag: Afghanistan", "vlag: afghanistan af vlag"],
+    "🇦🇬": ["vlag: Antigua en Barbuda", "vlag: antigua en barbuda ag vlag"],
+    "🇦🇮": ["vlag: Anguilla", "vlag: anguilla ai vlag"],
+    "🇦🇱": ["vlag: Albanië", "vlag: albanië al vlag"],
+    "🇦🇲": ["vlag: Armenië", "vlag: armenië am vlag"],
+    "🇦🇴": ["vlag: Angola", "vlag: angola ao vlag"],
+    "🇦🇶": ["vlag: Antarctica", "vlag: antarctica aq vlag"],
+    "🇦🇷": ["vlag: Argentinië", "vlag: argentinië ar vlag"],
+    "🇦🇸": ["vlag: Amerikaans-Samoa", "vlag: amerikaans-samoa as vlag"],
+    "🇦🇹": ["vlag: Oostenrijk", "vlag: oostenrijk at vlag"],
+    "🇦🇺": ["vlag: Australië", "vlag: australië au vlag"],
+    "🇦🇼": ["vlag: Aruba", "vlag: aruba aw vlag"],
+    "🇦🇽": ["vlag: Åland", "vlag: åland ax vlag"],
+    "🇦🇿": ["vlag: Azerbeidzjan", "vlag: azerbeidzjan az vlag"],
+    "🇧🇦": [
+      "vlag: Bosnië en Herzegovina",
+      "vlag: bosnië en herzegovina ba vlag"
+    ],
+    "🇧🇧": ["vlag: Barbados", "vlag: barbados bb vlag"],
+    "🇧🇩": ["vlag: Bangladesh", "vlag: bangladesh bd vlag"],
+    "🇧🇪": ["vlag: België", "vlag: belgië be vlag"],
+    "🇧🇫": ["vlag: Burkina Faso", "vlag: burkina faso bf vlag"],
+    "🇧🇬": ["vlag: Bulgarije", "vlag: bulgarije bg vlag"],
+    "🇧🇭": ["vlag: Bahrein", "vlag: bahrein bh vlag"],
+    "🇧🇮": ["vlag: Burundi", "vlag: burundi bi vlag"],
+    "🇧🇯": ["vlag: Benin", "vlag: benin bj vlag"],
+    "🇧🇱": ["vlag: Saint-Barthélemy", "vlag: saint-barthélemy bl vlag"],
+    "🇧🇲": ["vlag: Bermuda", "vlag: bermuda bm vlag"],
+    "🇧🇳": ["vlag: Brunei", "vlag: brunei bn vlag"],
+    "🇧🇴": ["vlag: Bolivia", "vlag: bolivia bo vlag"],
+    "🇧🇶": ["vlag: Caribisch Nederland", "vlag: caribisch nederland bq vlag"],
+    "🇧🇷": ["vlag: Brazilië", "vlag: brazilië br vlag"],
+    "🇧🇸": ["vlag: Bahama’s", "vlag: bahama’s bs vlag"],
+    "🇧🇹": ["vlag: Bhutan", "vlag: bhutan bt vlag"],
+    "🇧🇻": ["vlag: Bouveteiland", "vlag: bouveteiland bv vlag"],
+    "🇧🇼": ["vlag: Botswana", "vlag: botswana bw vlag"],
+    "🇧🇾": ["vlag: Belarus", "vlag: belarus by vlag"],
+    "🇧🇿": ["vlag: Belize", "vlag: belize bz vlag"],
+    "🇨🇦": ["vlag: Canada", "vlag: canada ca vlag"],
+    "🇨🇨": ["vlag: Cocoseilanden", "vlag: cocoseilanden cc vlag"],
+    "🇨🇩": ["vlag: Congo-Kinshasa", "vlag: congo-kinshasa cd vlag"],
+    "🇨🇫": [
+      "vlag: Centraal-Afrikaanse Republiek",
+      "vlag: centraal-afrikaanse republiek cf vlag"
+    ],
+    "🇨🇬": ["vlag: Congo-Brazzaville", "vlag: congo-brazzaville cg vlag"],
+    "🇨🇭": ["vlag: Zwitserland", "vlag: zwitserland ch vlag"],
+    "🇨🇮": ["vlag: Ivoorkust", "vlag: ivoorkust ci vlag"],
+    "🇨🇰": ["vlag: Cookeilanden", "vlag: cookeilanden ck vlag"],
+    "🇨🇱": ["vlag: Chili", "vlag: chili cl vlag"],
+    "🇨🇲": ["vlag: Kameroen", "vlag: kameroen cm vlag"],
+    "🇨🇳": ["vlag: China", "vlag: china cn vlag"],
+    "🇨🇴": ["vlag: Colombia", "vlag: colombia co vlag"],
+    "🇨🇵": ["vlag: Clipperton", "vlag: clipperton cp vlag"],
+    "🇨🇶": ["vlag: Sark", "vlag: sark cq vlag"],
+    "🇨🇷": ["vlag: Costa Rica", "vlag: costa rica cr vlag"],
+    "🇨🇺": ["vlag: Cuba", "vlag: cuba cu vlag"],
+    "🇨🇻": ["vlag: Kaapverdië", "vlag: kaapverdië cv vlag"],
+    "🇨🇼": ["vlag: Curaçao", "vlag: curaçao cw vlag"],
+    "🇨🇽": ["vlag: Christmaseiland", "vlag: christmaseiland cx vlag"],
+    "🇨🇾": ["vlag: Cyprus", "vlag: cyprus cy vlag"],
+    "🇨🇿": ["vlag: Tsjechië", "vlag: tsjechië cz vlag"],
+    "🇩🇪": ["vlag: Duitsland", "vlag: duitsland de vlag"],
+    "🇩🇬": ["vlag: Diego Garcia", "vlag: diego garcia dg vlag"],
+    "🇩🇯": ["vlag: Djibouti", "vlag: djibouti dj vlag"],
+    "🇩🇰": ["vlag: Denemarken", "vlag: denemarken dk vlag"],
+    "🇩🇲": ["vlag: Dominica", "vlag: dominica dm vlag"],
+    "🇩🇴": [
+      "vlag: Dominicaanse Republiek",
+      "vlag: dominicaanse republiek do vlag"
+    ],
+    "🇩🇿": ["vlag: Algerije", "vlag: algerije dz vlag"],
+    "🇪🇦": ["vlag: Ceuta en Melilla", "vlag: ceuta en melilla ea vlag"],
+    "🇪🇨": ["vlag: Ecuador", "vlag: ecuador ec vlag"],
+    "🇪🇪": ["vlag: Estland", "vlag: estland ee vlag"],
+    "🇪🇬": ["vlag: Egypte", "vlag: egypte eg vlag"],
+    "🇪🇭": ["vlag: Westelijke Sahara", "vlag: westelijke sahara eh vlag"],
+    "🇪🇷": ["vlag: Eritrea", "vlag: eritrea er vlag"],
+    "🇪🇸": ["vlag: Spanje", "vlag: spanje es vlag"],
+    "🇪🇹": ["vlag: Ethiopië", "vlag: ethiopië et vlag"],
+    "🇪🇺": ["vlag: Europese Unie", "vlag: europese unie eu vlag"],
+    "🇫🇮": ["vlag: Finland", "vlag: finland fi vlag"],
+    "🇫🇯": ["vlag: Fiji", "vlag: fiji fj vlag"],
+    "🇫🇰": ["vlag: Falklandeilanden", "vlag: falklandeilanden fk vlag"],
+    "🇫🇲": ["vlag: Micronesia", "vlag: micronesia fm vlag"],
+    "🇫🇴": ["vlag: Faeröer", "vlag: faeröer fo vlag"],
+    "🇫🇷": ["vlag: Frankrijk", "vlag: frankrijk fr vlag"],
+    "🇬🇦": ["vlag: Gabon", "vlag: gabon ga vlag"],
+    "🇬🇧": ["vlag: Verenigd Koninkrijk", "vlag: verenigd koninkrijk gb vlag"],
+    "🇬🇩": ["vlag: Grenada", "vlag: grenada gd vlag"],
+    "🇬🇪": ["vlag: Georgië", "vlag: georgië ge vlag"],
+    "🇬🇫": ["vlag: Frans-Guyana", "vlag: frans-guyana gf vlag"],
+    "🇬🇬": ["vlag: Guernsey", "vlag: guernsey gg vlag"],
+    "🇬🇭": ["vlag: Ghana", "vlag: ghana gh vlag"],
+    "🇬🇮": ["vlag: Gibraltar", "vlag: gibraltar gi vlag"],
+    "🇬🇱": ["vlag: Groenland", "vlag: groenland gl vlag"],
+    "🇬🇲": ["vlag: Gambia", "vlag: gambia gm vlag"],
+    "🇬🇳": ["vlag: Guinee", "vlag: guinee gn vlag"],
+    "🇬🇵": ["vlag: Guadeloupe", "vlag: guadeloupe gp vlag"],
+    "🇬🇶": ["vlag: Equatoriaal-Guinea", "vlag: equatoriaal-guinea gq vlag"],
+    "🇬🇷": ["vlag: Griekenland", "vlag: griekenland gr vlag"],
+    "🇬🇸": [
+      "vlag: Zuid-Georgia en Zuidelijke Sandwicheilanden",
+      "vlag: zuid-georgia en zuidelijke sandwicheilanden gs vlag"
+    ],
+    "🇬🇹": ["vlag: Guatemala", "vlag: guatemala gt vlag"],
+    "🇬🇺": ["vlag: Guam", "vlag: guam gu vlag"],
+    "🇬🇼": ["vlag: Guinee-Bissau", "vlag: guinee-bissau gw vlag"],
+    "🇬🇾": ["vlag: Guyana", "vlag: guyana gy vlag"],
+    "🇭🇰": [
+      "vlag: Hongkong SAR van China",
+      "vlag: hongkong sar van china hk vlag"
+    ],
+    "🇭🇲": [
+      "vlag: Heard en McDonaldeilanden",
+      "vlag: heard en mcdonaldeilanden hm vlag"
+    ],
+    "🇭🇳": ["vlag: Honduras", "vlag: honduras hn vlag"],
+    "🇭🇷": ["vlag: Kroatië", "vlag: kroatië hr vlag"],
+    "🇭🇹": ["vlag: Haïti", "vlag: haïti ht vlag"],
+    "🇭🇺": ["vlag: Hongarije", "vlag: hongarije hu vlag"],
+    "🇮🇨": ["vlag: Canarische Eilanden", "vlag: canarische eilanden ic vlag"],
+    "🇮🇩": ["vlag: Indonesië", "vlag: indonesië id vlag"],
+    "🇮🇪": ["vlag: Ierland", "vlag: ierland ie vlag"],
+    "🇮🇱": ["vlag: Israël", "vlag: israël il vlag"],
+    "🇮🇲": ["vlag: Isle of Man", "vlag: isle of man im vlag"],
+    "🇮🇳": ["vlag: India", "vlag: india in vlag"],
+    "🇮🇴": [
+      "vlag: Brits Indische Oceaanterritorium",
+      "vlag: brits indische oceaanterritorium io vlag"
+    ],
+    "🇮🇶": ["vlag: Irak", "vlag: irak iq vlag"],
+    "🇮🇷": ["vlag: Iran", "vlag: iran ir vlag"],
+    "🇮🇸": ["vlag: IJsland", "vlag: ijsland is vlag"],
+    "🇮🇹": ["vlag: Italië", "vlag: italië it vlag"],
+    "🇯🇪": ["vlag: Jersey", "vlag: jersey je vlag"],
+    "🇯🇲": ["vlag: Jamaica", "vlag: jamaica jm vlag"],
+    "🇯🇴": ["vlag: Jordanië", "vlag: jordanië jo vlag"],
+    "🇯🇵": ["vlag: Japan", "vlag: japan jp vlag"],
+    "🇰🇪": ["vlag: Kenia", "vlag: kenia ke vlag"],
+    "🇰🇬": ["vlag: Kirgizië", "vlag: kirgizië kg vlag"],
+    "🇰🇭": ["vlag: Cambodja", "vlag: cambodja kh vlag"],
+    "🇰🇮": ["vlag: Kiribati", "vlag: kiribati ki vlag"],
+    "🇰🇲": ["vlag: Comoren", "vlag: comoren km vlag"],
+    "🇰🇳": ["vlag: Saint Kitts en Nevis", "vlag: saint kitts en nevis kn vlag"],
+    "🇰🇵": ["vlag: Noord-Korea", "vlag: noord-korea kp vlag"],
+    "🇰🇷": ["vlag: Zuid-Korea", "vlag: zuid-korea kr vlag"],
+    "🇰🇼": ["vlag: Koeweit", "vlag: koeweit kw vlag"],
+    "🇰🇾": ["vlag: Kaaimaneilanden", "vlag: kaaimaneilanden ky vlag"],
+    "🇰🇿": ["vlag: Kazachstan", "vlag: kazachstan kz vlag"],
+    "🇱🇦": ["vlag: Laos", "vlag: laos la vlag"],
+    "🇱🇧": ["vlag: Libanon", "vlag: libanon lb vlag"],
+    "🇱🇨": ["vlag: Saint Lucia", "vlag: saint lucia lc vlag"],
+    "🇱🇮": ["vlag: Liechtenstein", "vlag: liechtenstein li vlag"],
+    "🇱🇰": ["vlag: Sri Lanka", "vlag: sri lanka lk vlag"],
+    "🇱🇷": ["vlag: Liberia", "vlag: liberia lr vlag"],
+    "🇱🇸": ["vlag: Lesotho", "vlag: lesotho ls vlag"],
+    "🇱🇹": ["vlag: Litouwen", "vlag: litouwen lt vlag"],
+    "🇱🇺": ["vlag: Luxemburg", "vlag: luxemburg lu vlag"],
+    "🇱🇻": ["vlag: Letland", "vlag: letland lv vlag"],
+    "🇱🇾": ["vlag: Libië", "vlag: libië ly vlag"],
+    "🇲🇦": ["vlag: Marokko", "vlag: marokko ma vlag"],
+    "🇲🇨": ["vlag: Monaco", "vlag: monaco mc vlag"],
+    "🇲🇩": ["vlag: Moldavië", "vlag: moldavië md vlag"],
+    "🇲🇪": ["vlag: Montenegro", "vlag: montenegro me vlag"],
+    "🇲🇫": ["vlag: Saint-Martin", "vlag: saint-martin mf vlag"],
+    "🇲🇬": ["vlag: Madagaskar", "vlag: madagaskar mg vlag"],
+    "🇲🇭": ["vlag: Marshalleilanden", "vlag: marshalleilanden mh vlag"],
+    "🇲🇰": ["vlag: Noord-Macedonië", "vlag: noord-macedonië mk vlag"],
+    "🇲🇱": ["vlag: Mali", "vlag: mali ml vlag"],
+    "🇲🇲": ["vlag: Myanmar (Birma)", "vlag: myanmar (birma) mm vlag"],
+    "🇲🇳": ["vlag: Mongolië", "vlag: mongolië mn vlag"],
+    "🇲🇴": ["vlag: Macau SAR van China", "vlag: macau sar van china mo vlag"],
+    "🇲🇵": ["vlag: Noordelijke Marianen", "vlag: noordelijke marianen mp vlag"],
+    "🇲🇶": ["vlag: Martinique", "vlag: martinique mq vlag"],
+    "🇲🇷": ["vlag: Mauritanië", "vlag: mauritanië mr vlag"],
+    "🇲🇸": ["vlag: Montserrat", "vlag: montserrat ms vlag"],
+    "🇲🇹": ["vlag: Malta", "vlag: malta mt vlag"],
+    "🇲🇺": ["vlag: Mauritius", "vlag: mauritius mu vlag"],
+    "🇲🇻": ["vlag: Maldiven", "vlag: maldiven mv vlag"],
+    "🇲🇼": ["vlag: Malawi", "vlag: malawi mw vlag"],
+    "🇲🇽": ["vlag: Mexico", "vlag: mexico mx vlag"],
+    "🇲🇾": ["vlag: Maleisië", "vlag: maleisië my vlag"],
+    "🇲🇿": ["vlag: Mozambique", "vlag: mozambique mz vlag"],
+    "🇳🇦": ["vlag: Namibië", "vlag: namibië na vlag"],
+    "🇳🇨": ["vlag: Nieuw-Caledonië", "vlag: nieuw-caledonië nc vlag"],
+    "🇳🇪": ["vlag: Niger", "vlag: niger ne vlag"],
+    "🇳🇫": ["vlag: Norfolk", "vlag: norfolk nf vlag"],
+    "🇳🇬": ["vlag: Nigeria", "vlag: nigeria ng vlag"],
+    "🇳🇮": ["vlag: Nicaragua", "vlag: nicaragua ni vlag"],
+    "🇳🇱": ["vlag: Nederland", "vlag: nederland nl vlag"],
+    "🇳🇴": ["vlag: Noorwegen", "vlag: noorwegen no vlag"],
+    "🇳🇵": ["vlag: Nepal", "vlag: nepal np vlag"],
+    "🇳🇷": ["vlag: Nauru", "vlag: nauru nr vlag"],
+    "🇳🇺": ["vlag: Niue", "vlag: niue nu vlag"],
+    "🇳🇿": ["vlag: Nieuw-Zeeland", "vlag: nieuw-zeeland nz vlag"],
+    "🇴🇲": ["vlag: Oman", "vlag: oman om vlag"],
+    "🇵🇦": ["vlag: Panama", "vlag: panama pa vlag"],
+    "🇵🇪": ["vlag: Peru", "vlag: peru pe vlag"],
+    "🇵🇫": ["vlag: Frans-Polynesië", "vlag: frans-polynesië pf vlag"],
+    "🇵🇬": ["vlag: Papoea-Nieuw-Guinea", "vlag: papoea-nieuw-guinea pg vlag"],
+    "🇵🇭": ["vlag: Filipijnen", "vlag: filipijnen ph vlag"],
+    "🇵🇰": ["vlag: Pakistan", "vlag: pakistan pk vlag"],
+    "🇵🇱": ["vlag: Polen", "vlag: polen pl vlag"],
+    "🇵🇲": [
+      "vlag: Saint-Pierre en Miquelon",
+      "vlag: saint-pierre en miquelon pm vlag"
+    ],
+    "🇵🇳": ["vlag: Pitcairneilanden", "vlag: pitcairneilanden pn vlag"],
+    "🇵🇷": ["vlag: Puerto Rico", "vlag: puerto rico pr vlag"],
+    "🇵🇸": ["vlag: Palestijnse gebieden", "vlag: palestijnse gebieden ps vlag"],
+    "🇵🇹": ["vlag: Portugal", "vlag: portugal pt vlag"],
+    "🇵🇼": ["vlag: Palau", "vlag: palau pw vlag"],
+    "🇵🇾": ["vlag: Paraguay", "vlag: paraguay py vlag"],
+    "🇶🇦": ["vlag: Qatar", "vlag: qatar qa vlag"],
+    "🇷🇪": ["vlag: Réunion", "vlag: réunion re vlag"],
+    "🇷🇴": ["vlag: Roemenië", "vlag: roemenië ro vlag"],
+    "🇷🇸": ["vlag: Servië", "vlag: servië rs vlag"],
+    "🇷🇺": ["vlag: Rusland", "vlag: rusland ru vlag"],
+    "🇷🇼": ["vlag: Rwanda", "vlag: rwanda rw vlag"],
+    "🇸🇦": ["vlag: Saoedi-Arabië", "vlag: saoedi-arabië sa vlag"],
+    "🇸🇧": ["vlag: Salomonseilanden", "vlag: salomonseilanden sb vlag"],
+    "🇸🇨": ["vlag: Seychellen", "vlag: seychellen sc vlag"],
+    "🇸🇩": ["vlag: Soedan", "vlag: soedan sd vlag"],
+    "🇸🇪": ["vlag: Zweden", "vlag: zweden se vlag"],
+    "🇸🇬": ["vlag: Singapore", "vlag: singapore sg vlag"],
+    "🇸🇭": ["vlag: Sint-Helena", "vlag: sint-helena sh vlag"],
+    "🇸🇮": ["vlag: Slovenië", "vlag: slovenië si vlag"],
+    "🇸🇯": [
+      "vlag: Spitsbergen en Jan Mayen",
+      "vlag: spitsbergen en jan mayen sj vlag"
+    ],
+    "🇸🇰": ["vlag: Slowakije", "vlag: slowakije sk vlag"],
+    "🇸🇱": ["vlag: Sierra Leone", "vlag: sierra leone sl vlag"],
+    "🇸🇲": ["vlag: San Marino", "vlag: san marino sm vlag"],
+    "🇸🇳": ["vlag: Senegal", "vlag: senegal sn vlag"],
+    "🇸🇴": ["vlag: Somalië", "vlag: somalië so vlag"],
+    "🇸🇷": ["vlag: Suriname", "vlag: suriname sr vlag"],
+    "🇸🇸": ["vlag: Zuid-Soedan", "vlag: zuid-soedan ss vlag"],
+    "🇸🇹": ["vlag: Sao Tomé en Principe", "vlag: sao tomé en principe st vlag"],
+    "🇸🇻": ["vlag: El Salvador", "vlag: el salvador sv vlag"],
+    "🇸🇽": ["vlag: Sint-Maarten", "vlag: sint-maarten sx vlag"],
+    "🇸🇾": ["vlag: Syrië", "vlag: syrië sy vlag"],
+    "🇸🇿": ["vlag: Eswatini", "vlag: eswatini sz vlag"],
+    "🇹🇦": ["vlag: Tristan da Cunha", "vlag: tristan da cunha ta vlag"],
+    "🇹🇨": [
+      "vlag: Turks- en Caicoseilanden",
+      "vlag: turks- en caicoseilanden tc vlag"
+    ],
+    "🇹🇩": ["vlag: Tsjaad", "vlag: tsjaad td vlag"],
+    "🇹🇫": [
+      "vlag: Franse Gebieden in de zuidelijke Indische Oceaan",
+      "vlag: franse gebieden in de zuidelijke indische oceaan tf vlag"
+    ],
+    "🇹🇬": ["vlag: Togo", "vlag: togo tg vlag"],
+    "🇹🇭": ["vlag: Thailand", "vlag: thailand th vlag"],
+    "🇹🇯": ["vlag: Tadzjikistan", "vlag: tadzjikistan tj vlag"],
+    "🇹🇰": ["vlag: Tokelau", "vlag: tokelau tk vlag"],
+    "🇹🇱": ["vlag: Oost-Timor", "vlag: oost-timor tl vlag"],
+    "🇹🇲": ["vlag: Turkmenistan", "vlag: turkmenistan tm vlag"],
+    "🇹🇳": ["vlag: Tunesië", "vlag: tunesië tn vlag"],
+    "🇹🇴": ["vlag: Tonga", "vlag: tonga to vlag"],
+    "🇹🇷": ["vlag: Turkije", "vlag: turkije tr vlag"],
+    "🇹🇹": ["vlag: Trinidad en Tobago", "vlag: trinidad en tobago tt vlag"],
+    "🇹🇻": ["vlag: Tuvalu", "vlag: tuvalu tv vlag"],
+    "🇹🇼": ["vlag: Taiwan", "vlag: taiwan tw vlag"],
+    "🇹🇿": ["vlag: Tanzania", "vlag: tanzania tz vlag"],
+    "🇺🇦": ["vlag: Oekraïne", "vlag: oekraïne ua vlag"],
+    "🇺🇬": ["vlag: Oeganda", "vlag: oeganda ug vlag"],
+    "🇺🇲": [
+      "vlag: Kleine afgelegen eilanden van de Verenigde Staten",
+      "vlag: kleine afgelegen eilanden van de verenigde staten um vlag"
+    ],
+    "🇺🇳": ["vlag: Verenigde Naties", "vlag: verenigde naties un vlag"],
+    "🇺🇸": ["vlag: Verenigde Staten", "vlag: verenigde staten us vlag"],
+    "🇺🇾": ["vlag: Uruguay", "vlag: uruguay uy vlag"],
+    "🇺🇿": ["vlag: Oezbekistan", "vlag: oezbekistan uz vlag"],
+    "🇻🇦": ["vlag: Vaticaanstad", "vlag: vaticaanstad va vlag"],
+    "🇻🇨": [
+      "vlag: Saint Vincent en de Grenadines",
+      "vlag: saint vincent en de grenadines vc vlag"
+    ],
+    "🇻🇪": ["vlag: Venezuela", "vlag: venezuela ve vlag"],
+    "🇻🇬": [
+      "vlag: Britse Maagdeneilanden",
+      "vlag: britse maagdeneilanden vg vlag"
+    ],
+    "🇻🇮": [
+      "vlag: Amerikaanse Maagdeneilanden",
+      "vlag: amerikaanse maagdeneilanden vi vlag"
+    ],
+    "🇻🇳": ["vlag: Vietnam", "vlag: vietnam vn vlag"],
+    "🇻🇺": ["vlag: Vanuatu", "vlag: vanuatu vu vlag"],
+    "🇼🇫": ["vlag: Wallis en Futuna", "vlag: wallis en futuna wf vlag"],
+    "🇼🇸": ["vlag: Samoa", "vlag: samoa ws vlag"],
+    "🇽🇰": ["vlag: Kosovo", "vlag: kosovo xk vlag"],
+    "🇾🇪": ["vlag: Jemen", "vlag: jemen ye vlag"],
+    "🇾🇹": ["vlag: Mayotte", "vlag: mayotte yt vlag"],
+    "🇿🇦": ["vlag: Zuid-Afrika", "vlag: zuid-afrika za vlag"],
+    "🇿🇲": ["vlag: Zambia", "vlag: zambia zm vlag"],
+    "🇿🇼": ["vlag: Zimbabwe", "vlag: zimbabwe zw vlag"],
+    "🏴󠁧󠁢󠁥󠁮󠁧󠁿": ["vlag: Engeland", "vlag: engeland gbeng vlag"],
+    "🏴󠁧󠁢󠁳󠁣󠁴󠁿": ["vlag: Schotland", "vlag: schotland gbsct vlag"],
+    "🏴󠁧󠁢󠁷󠁬󠁳󠁿": ["vlag: Wales", "vlag: wales gbwls vlag"]
+  }
+}

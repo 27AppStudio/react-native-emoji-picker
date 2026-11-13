@@ -24,6 +24,7 @@
     "@react-native/metro-config": "0.84.1",
     "@react-native/typescript-config": "0.84.1",
     "@types/react": "^19.2.0",
+    "detox": "^20.51.4",
     "react-native-builder-bob": "^0.44.1",
     "react-native-monorepo-config": "^0.4.0"
   },
