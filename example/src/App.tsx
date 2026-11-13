@@ -11,7 +11,8 @@ import {
 } from 'react-native';
 import { openEmojiPicker } from '@27appstudio/react-native-emoji-picker';
 
-const TINTS = { light: '#0B6E4F', dark: '#9BE7C4' };
+// Far from both platforms' defaults (system blue, Material's teal), so the switch shows.
+const TINTS = { light: '#E8590C', dark: '#FFA94D' };
 const LABELS = { light: '#1C1B1F', dark: '#E6E1E5' };
 const BACKGROUNDS = { light: '#FFFFFF', dark: '#000000' };
 const FIELDS = { light: '#F2F2F7', dark: '#1C1C1E' };

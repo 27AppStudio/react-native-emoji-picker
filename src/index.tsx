@@ -4,8 +4,8 @@ import NativeRNEmojiPicker from './NativeRNEmojiPicker';
 
 export type EmojiPickerOptions = {
   /**
-   * iOS: the selected category, the search cursor and the keyboard's Done. Android
-   * takes its colors from the `Theme.RNEmojiPicker` style instead.
+   * The selected category. iOS: also the search cursor and the keyboard's Done.
+   * Without it, iOS uses the system tint and Android the theme's `colorAccent`.
    */
   tintColor?: ColorValue;
   /** Forces a light or dark picker, e.g. to follow an in-app appearance setting. */
