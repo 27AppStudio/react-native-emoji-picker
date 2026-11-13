@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.1](https://github.com/27AppStudio/react-native-emoji-picker/compare/v0.1.0...v0.1.1) (2026-11-13)
+
+### Bug Fixes
+
+* **ios:** read the language code without the api deprecated in ios 16 ([251305f](https://github.com/27AppStudio/react-native-emoji-picker/commit/251305fba4272d5a8fac9ab97bfccce05ea5d14f))
+
 # 0.1.0 (2026-11-13)
 
 ### Features
