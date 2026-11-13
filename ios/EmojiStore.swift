@@ -115,7 +115,7 @@ final class EmojiStore {
   /// language isn't bundled.
   func names(for identifier: String?) -> EmojiNames {
     let requested = identifier ?? Bundle.main.preferredLocalizations.first ?? "en"
-    let language = Locale(identifier: requested).languageCode ?? "en"
+    let language = Self.languageCode(of: requested)
     if let cached = namesCache[language] {
       return cached
     }
@@ -125,6 +125,15 @@ final class EmojiStore {
     )
     namesCache[language] = names
     return names
+  }
+
+  /// `fr` for `fr-CA`, `zh` for `zh-Hant`: the bundled names are per language.
+  private static func languageCode(of identifier: String) -> String {
+    let locale = Locale(identifier: identifier)
+    if #available(iOS 16, *) {
+      return locale.language.languageCode?.identifier ?? "en"
+    }
+    return locale.languageCode ?? "en"
   }
 
   private static func loadNames(_ language: String) -> EmojiNames? {
