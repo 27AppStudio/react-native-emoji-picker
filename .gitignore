@@ -77,3 +77,6 @@ nitrogen/
 
 # Bundler pins a local version (see react-native-alert)
 example/Gemfile.lock
+
+# ESLint cache (Splitify lint hook runs here too)
+.eslintcache
