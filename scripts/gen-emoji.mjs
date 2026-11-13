@@ -104,7 +104,7 @@ for (const locale of LOCALES) {
   for (const emoji of read(`${locale}/compact.json`)) {
     if (!pickable.has(emoji.unicode)) continue;
     // Search matches the start of any word, so the label and the tags go in one string.
-    const words = [emoji.label, ...(emoji.tags ?? [])]
+    const words = [emoji.label, ...(emoji.tags || [])]
       .join(' ')
       .toLocaleLowerCase(locale);
     names[emoji.unicode] = [emoji.label, words];
