@@ -1,6 +1,6 @@
 {
   "name": "@27appstudio/react-native-emoji-picker",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Native emoji picker for React Native: an anchored popover with Liquid Glass on iOS 26, and Google's EmojiPickerView in a Material 3 bottom sheet on Android.",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
