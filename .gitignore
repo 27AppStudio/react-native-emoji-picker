@@ -80,3 +80,6 @@ example/Gemfile.lock
 
 # ESLint cache (Splitify lint hook runs here too)
 .eslintcache
+
+# Tooling caches
+.watchman-cookie-*
