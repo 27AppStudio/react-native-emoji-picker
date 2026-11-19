@@ -26,6 +26,7 @@
     "!android/gradlew",
     "!android/gradlew.bat",
     "!android/local.properties",
+    "!android/src/androidTest",
     "!**/__tests__",
     "!**/__fixtures__",
     "!**/__mocks__",
@@ -38,6 +39,7 @@
     "typecheck": "tsc",
     "lint": "eslint \"**/*.{js,ts,tsx}\"",
     "test": "jest",
+    "test:android": "cd example/android && ./gradlew :27appstudio_react-native-emoji-picker:connectedDebugAndroidTest",
     "release": "release-it --only-version",
     "gen:emoji": "node scripts/gen-emoji.mjs"
   },

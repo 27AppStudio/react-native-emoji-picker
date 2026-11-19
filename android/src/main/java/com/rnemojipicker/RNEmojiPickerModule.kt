@@ -9,6 +9,7 @@ import android.widget.ImageView
 import com.google.android.material.color.MaterialColors
 import android.view.ViewGroup
 import android.widget.FrameLayout
+import androidx.appcompat.app.AppCompatDelegate
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.emoji2.emojipicker.EmojiPickerView
@@ -54,6 +55,9 @@ class RNEmojiPickerModule(reactContext: ReactApplicationContext) :
       // The theme goes to the dialog itself: over a wrapped context, BottomSheetDialog
       // falls back to its default light theme (white sheet in dark mode).
       val sheet = BottomSheetDialog(withNightMode(activity, style), R.style.Theme_RNEmojiPicker)
+      // The dialog's AppCompat delegate reapplies the app's night mode when it's created,
+      // undoing the forced one: tell it the forced mode too.
+      nightMode(style)?.let { sheet.delegate.localNightMode = it }
       val context = sheet.context
 
       val picker = EmojiPickerView(context).apply {
@@ -128,6 +132,12 @@ class RNEmojiPickerModule(reactContext: ReactApplicationContext) :
       }
     }
     picker.viewTreeObserver.addOnGlobalLayoutListener { apply(picker) }
+  }
+
+  private fun nightMode(style: String?) = when (style) {
+    "light" -> AppCompatDelegate.MODE_NIGHT_NO
+    "dark" -> AppCompatDelegate.MODE_NIGHT_YES
+    else -> null
   }
 
   /** The activity's context, or one forced light or dark. */
