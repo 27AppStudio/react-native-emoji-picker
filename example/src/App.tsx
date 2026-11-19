@@ -1,5 +1,7 @@
 import { useRef, useState, type ComponentRef } from 'react';
 import {
+  Button,
+  LogBox,
   Pressable,
   ScrollView,
   StatusBar,
@@ -10,6 +12,7 @@ import {
   View,
 } from 'react-native';
 import { openEmojiPicker } from '@27appstudio/react-native-emoji-picker';
+import { Showcase } from './Showcase';
 
 // Far from both platforms' defaults (system blue, Material's teal), so the switch shows.
 const TINTS = { light: '#E8590C', dark: '#FFA94D' };
@@ -25,6 +28,7 @@ export default function App() {
   const [log, setLog] = useState('Tap the emoji');
   const topAnchor = useRef<ComponentRef<typeof View>>(null);
   const bottomAnchor = useRef<ComponentRef<typeof View>>(null);
+  const [showcase, setShowcase] = useState(false);
 
   const open = async (anchor: typeof topAnchor) => {
     const picked = await openEmojiPicker(anchor, {
@@ -36,6 +40,10 @@ export default function App() {
       setEmoji(picked);
     }
   };
+
+  if (showcase) {
+    return <Showcase />;
+  }
 
   return (
     <ScrollView
@@ -67,6 +75,15 @@ export default function App() {
       >
         <Text style={styles.emoji}>{emoji}</Text>
       </Pressable>
+      {/* The README screenshots, see scripts/screenshots. */}
+      <Button
+        title="Showcase: chat"
+        testID="showcase-chat"
+        onPress={() => {
+          LogBox.ignoreAllLogs();
+          setShowcase(true);
+        }}
+      />
       <View style={styles.spacer} />
       <Pressable
         ref={bottomAnchor}
