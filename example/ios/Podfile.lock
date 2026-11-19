@@ -1785,7 +1785,7 @@ PODS:
     - React-utils (= 0.84.1)
     - ReactNativeDependencies
   - ReactNativeDependencies (0.84.1)
-  - RNEmojiPicker (0.1.0):
+  - RNEmojiPicker (0.1.2):
     - hermes-engine
     - RCTRequired
     - RCTTypeSafety
@@ -2110,7 +2110,7 @@ SPEC CHECKSUMS:
   ReactCodegen: 797de5178718324c6eba3327b07f9a423fbd5787
   ReactCommon: 07572bf9e687c8a52fbe4a3641e9e3a1a477c78e
   ReactNativeDependencies: a06e8738ff867f7d15175502a1dc0fe85d0714d7
-  RNEmojiPicker: ca95e45389d4c2ce5f0fb46ffeb3883bebfe42d3
+  RNEmojiPicker: 05b7674c56266fd8c32ef487380874bf1852320e
   Yoga: c0b3f2c7e8d3e327e450223a2414ca3fa296b9a2
 
 PODFILE CHECKSUM: f5f96237bdb0443e33b3ce7ab0ca767e0e048e6f
