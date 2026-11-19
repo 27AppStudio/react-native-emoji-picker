@@ -1,9 +1,4 @@
-<h1>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="docs/images/wordmark-on-dark.svg">
-    <img src="docs/images/wordmark.svg" width="510" alt="@27appstudio/react-native-emoji-picker">
-  </picture>
-</h1>
+<h1><img src="docs/images/banner.svg" width="100%" alt="@27appstudio/react-native-emoji-picker by 27AppStudio"></h1>
 
 <p>
   <a href="https://www.npmjs.com/package/@27appstudio/react-native-emoji-picker"><img src="https://img.shields.io/npm/v/@27appstudio/react-native-emoji-picker?label=npm&labelColor=0B0B0F&color=3340FF" alt="npm version"></a>
@@ -12,7 +7,7 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-3340FF?labelColor=0B0B0F" alt="MIT license"></a>
 </p>
 
-A native emoji picker for React Native:
+A native emoji picker for React Native, built from UIKit and Material 3 components rather than a JS list:
 
 - **iOS**: a popover anchored to the view you pass, with search, recents, skin tones and a category bar. Its backgrounds are clear, so the popover's own material shows through: Liquid Glass on iOS 26, the system blur on earlier versions. It only uses public UIKit APIs. iOS has no public emoji picker, and the emoji keyboard can't be opened on its own without undocumented calls.
 - **Android**: Google's `EmojiPickerView` (androidx.emoji2 1.7.0) in a Material 3 bottom sheet. It brings its own categories, skin tones, recents and emoji compatibility.
@@ -23,7 +18,7 @@ A native emoji picker for React Native:
 
 It's a TurboModule with an imperative API: no wrapper view, no Expo modules, no config plugin.
 
-Made by [27AppStudio](https://27appstudio.com) for [Splitify](https://splitify.cc).
+Built for [Splitify](https://splitify.cc).
 
 ## Installation
 
@@ -114,24 +109,6 @@ The example app has a Detox suite for iOS: start Metro with `yarn example start`
 
 MIT
 
-## Made by 27AppStudio
+## react-native-emoji-picker is made by 27AppStudio
 
-<p>
-  <a href="https://27appstudio.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="docs/images/27appstudio-on-dark.svg">
-      <img src="docs/images/27appstudio.svg" width="180" alt="27AppStudio">
-    </picture>
-  </a>
-</p>
-
-An independent French mobile app studio. We design, build and launch iPhone and Android apps, and open-source the native pieces we make along the way, most of them for [Splitify](https://splitify.cc).
-
-| Library                                                                                   | What it does                                                           |
-| ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| [react-native-alert](https://github.com/27AppStudio/react-native-alert)                   | Native alerts and text prompts in your app's colors                    |
-| [react-native-bottom-toolbar](https://github.com/27AppStudio/react-native-bottom-toolbar) | The platform's own bottom toolbar: UIKit on iOS, Material 3 on Android |
-| [react-native-emoji-picker](https://github.com/27AppStudio/react-native-emoji-picker)     | A native emoji picker: iOS popover, Material 3 bottom sheet            |
-| [rn-ship](https://github.com/27AppStudio/rn-ship)                                         | EAS-style release pipeline for bare React Native apps                  |
-
-Need an app built, or a hand with a React Native one? [27appstudio.com](https://27appstudio.com)
+[27AppStudio](https://27appstudio.com) is an independent French mobile app studio. We build iPhone and Android apps, and open-source the native UI components and release tooling we make along the way. Need a hand with a React Native app? [Get in touch](https://27appstudio.com).
