@@ -1,9 +1,4 @@
-<h1>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="docs/images/wordmark-on-dark.svg">
-    <img src="docs/images/wordmark.svg" width="510" alt="@27appstudio/react-native-emoji-picker">
-  </picture>
-</h1>
+<h1><img src="docs/images/banner.svg" width="100%" alt="@27appstudio/react-native-emoji-picker by 27AppStudio"></h1>
 
 <p>
   <a href="https://www.npmjs.com/package/@27appstudio/react-native-emoji-picker"><img src="https://img.shields.io/npm/v/@27appstudio/react-native-emoji-picker?label=npm&labelColor=0B0B0F&color=3340FF" alt="npm version"></a>
@@ -12,7 +7,7 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-3340FF?labelColor=0B0B0F" alt="MIT license"></a>
 </p>
 
-A native emoji picker for React Native:
+A native emoji picker for React Native, built from UIKit and Material 3 components rather than a JS list:
 
 - **iOS**: a popover anchored to the view you pass, with search, recents, skin tones and a category bar. Its backgrounds are clear, so the popover's own material shows through: Liquid Glass on iOS 26, the system blur on earlier versions. It only uses public UIKit APIs. iOS has no public emoji picker, and the emoji keyboard can't be opened on its own without undocumented calls.
 - **Android**: Google's `EmojiPickerView` (androidx.emoji2 1.7.0) in a Material 3 bottom sheet. It brings its own categories, skin tones, recents and emoji compatibility.
